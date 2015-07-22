@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437582488280">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437582849918">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_b-__.css" crc="57742920" ref="index:media:course:leadership"/>
     <file name="index.css" crc="4098623015" ref="index"/>
-    <file name="media.css" crc="255107889" ref="media"/>
+    <file name="media.css" crc="212332174" ref="media"/>
     <file name="course.css" crc="4104538253" ref="course"/>
     <file name="leadership.css" crc="4159289706" ref="leadership"/>
   </folder>
@@ -36,8 +36,8 @@
     <file name="large banner.jpg" crc="3826602296" ref="index"/>
     <file name="navigation sign.png" crc="4224610797" seo="true" ref="index"/>
     <file name="navigation sign_2x.png" crc="3891681119" seo="true" ref="index"/>
-    <file name="navigation logo161x84.png" crc="90413581" seo="true" ref="index"/>
-    <file name="navigation logo161x84_2x.png" crc="457371071" seo="true" ref="index"/>
+    <file name="navigation logo161x84.png" crc="90413581" seo="true" ref="index:media"/>
+    <file name="navigation logo161x84_2x.png" crc="457371071" seo="true" ref="index:media"/>
     <file name="blank.gif" crc="4208392903" ref="index:media:leadership:course"/>
     <file name="u214.png" crc="3911400460" ref="index"/>
     <file name="u214-r.png" crc="4166631725" ref="index"/>
@@ -333,8 +333,6 @@
     <file name="slider-4_2x.jpg" crc="25681282" seo="true" ref="media"/>
     <file name="slider-5.jpg" crc="3933123921" seo="true" ref="media"/>
     <file name="slider-5_2x.jpg" crc="4256969252" seo="true" ref="media"/>
-    <file name="slider-6.jpg" crc="4207291604" seo="true" ref="media"/>
-    <file name="slider-6_2x.jpg" crc="3971822657" seo="true" ref="media"/>
     <file name="slider-7.jpg" crc="4211000409" seo="true" ref="media"/>
     <file name="slider-7_2x.jpg" crc="25561346" seo="true" ref="media"/>
     <file name="slider-8.jpg" crc="57155373" seo="true" ref="media"/>
@@ -345,7 +343,6 @@
     <file name="slider-10_2x.jpg" crc="385347499" seo="true" ref="media"/>
     <file name="slider-11.jpg" crc="4144040362" seo="true" ref="media"/>
     <file name="slider-11_2x.jpg" crc="3856881026" seo="true" ref="media"/>
-    <file name="slider-12.jpg" crc="4040897308" seo="true" ref="media"/>
     <file name="slider-13.jpg" crc="3782214564" seo="true" ref="media"/>
     <file name="slider-13_2x.jpg" crc="3780871237" seo="true" ref="media"/>
     <file name="slider-15.jpg" crc="4188632742" seo="true" ref="media"/>
@@ -372,8 +369,6 @@
     <file name="slider-444x28_2x.jpg" crc="4198697227" seo="true" ref="media"/>
     <file name="slider-541x27.jpg" crc="3972412933" seo="true" ref="media"/>
     <file name="slider-541x27_2x.jpg" crc="3812799366" seo="true" ref="media"/>
-    <file name="slider-641x27.jpg" crc="126377624" seo="true" ref="media"/>
-    <file name="slider-641x27_2x.jpg" crc="4177049751" seo="true" ref="media"/>
     <file name="slider-740x27.jpg" crc="3938741177" seo="true" ref="media"/>
     <file name="slider-740x27_2x.jpg" crc="4120860127" seo="true" ref="media"/>
     <file name="slider-841x27.jpg" crc="3920213245" seo="true" ref="media"/>
@@ -384,8 +379,6 @@
     <file name="slider-1041x27_2x.jpg" crc="3948087566" seo="true" ref="media"/>
     <file name="slider-1141x27.jpg" crc="211636534" seo="true" ref="media"/>
     <file name="slider-1141x27_2x.jpg" crc="233170772" seo="true" ref="media"/>
-    <file name="slider-1241x27.jpg" crc="3849750641" seo="true" ref="media"/>
-    <file name="slider-1241x27_2x.jpg" crc="3816558119" seo="true" ref="media"/>
     <file name="slider-1340x27.jpg" crc="3912759682" seo="true" ref="media"/>
     <file name="slider-1340x27_2x.jpg" crc="251850425" seo="true" ref="media"/>
     <file name="slider-1542x27.jpg" crc="352121289" seo="true" ref="media"/>
@@ -416,7 +409,11 @@
     <file name="u2391-4_2x.png" crc="58167112" ref="media"/>
     <file name="u2393-4.png" crc="493430465" ref="media"/>
     <file name="u2393-4_2x.png" crc="4121970881" ref="media"/>
-    <file name="favicon.ico" crc="478655589" ref="phone>index:index"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index:index:media"/>
+    <file name="dscf6288.jpg" crc="140628124" seo="true" ref="media"/>
+    <file name="dscf6288_2x.jpg" crc="3856674271" seo="true" ref="media"/>
+    <file name="dscf628841x27.jpg" crc="3895975833" seo="true" ref="media"/>
+    <file name="dscf628841x27_2x.jpg" crc="227692389" seo="true" ref="media"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -425,7 +422,7 @@
     <file name="index.html" crc="294824913" seo="true" mt="1437581785142" redirect="true"/>
   </folder>
   <file name="index.html" crc="379886561" seo="true" mt="1437582461277" redirect="true"/>
-  <file name="media.html" crc="73992775" seo="true" mt="1437582461277" redirect="true"/>
+  <file name="media.html" crc="3941755832" seo="true" mt="1437582830443" redirect="true"/>
   <file name="leadership.html" crc="4097637313" seo="true" mt="1437582461277" redirect="true"/>
   <file name="course.html" crc="394248367" seo="true" mt="1437582461277" redirect="true"/>
 </manifest>

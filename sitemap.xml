@@ -523,18 +523,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/images/slider-6.jpg</loc>
-    <lastmod>2015-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/slider-6_2x.jpg</loc>
-    <lastmod>2015-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://index.html/images/slider-7.jpg</loc>
     <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -590,12 +578,6 @@
   </url>
   <url>
     <loc>http://index.html/images/slider-11_2x.jpg</loc>
-    <lastmod>2015-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/slider-12.jpg</loc>
     <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -745,18 +727,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/images/slider-641x27.jpg</loc>
-    <lastmod>2015-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/slider-641x27_2x.jpg</loc>
-    <lastmod>2015-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://index.html/images/slider-740x27.jpg</loc>
     <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -812,18 +782,6 @@
   </url>
   <url>
     <loc>http://index.html/images/slider-1141x27_2x.jpg</loc>
-    <lastmod>2015-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/slider-1241x27.jpg</loc>
-    <lastmod>2015-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/slider-1241x27_2x.jpg</loc>
     <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -932,6 +890,30 @@
   </url>
   <url>
     <loc>http://index.html/images/slider-2241x27_2x.jpg</loc>
+    <lastmod>2015-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/images/dscf6288.jpg</loc>
+    <lastmod>2015-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/images/dscf6288_2x.jpg</loc>
+    <lastmod>2015-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/images/dscf628841x27.jpg</loc>
+    <lastmod>2015-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/images/dscf628841x27_2x.jpg</loc>
     <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
