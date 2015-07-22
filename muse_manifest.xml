@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437579956879">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437581027445">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_b-__.css" crc="57742920" ref="媒體:社課:組織:index"/>
-    <file name="__2.css" crc="262315457" ref="媒體"/>
+    <file name="__2.css" crc="255107889" ref="媒體"/>
     <file name="__1.css" crc="4104538253" ref="社課"/>
     <file name="__.css" crc="4159289706" ref="組織"/>
     <file name="index.css" crc="4098623015" ref="index"/>
@@ -36,8 +36,8 @@
     <file name="large banner.jpg" crc="3826602296" ref="index"/>
     <file name="navigation sign.png" crc="4224610797" seo="true" ref="index"/>
     <file name="navigation sign_2x.png" crc="3891681119" seo="true" ref="index"/>
-    <file name="navigation logo161x84.png" crc="90413581" seo="true" ref="index"/>
-    <file name="navigation logo161x84_2x.png" crc="457371071" seo="true" ref="index"/>
+    <file name="navigation logo161x84.png" crc="90413581" seo="true" ref="index:媒體"/>
+    <file name="navigation logo161x84_2x.png" crc="457371071" seo="true" ref="index:媒體"/>
     <file name="blank.gif" crc="4208392903" ref="index:媒體:組織:社課"/>
     <file name="u214.png" crc="3911400460" ref="index"/>
     <file name="u214-r.png" crc="4166631725" ref="index"/>
@@ -144,8 +144,8 @@
     <file name="u1175-a_2x.png" crc="313801551" ref="媒體"/>
     <file name="u1188-4-a.png" crc="343194100" ref="媒體"/>
     <file name="u1188-4-a_2x.png" crc="4040696363" ref="媒體"/>
-    <file name="u1205-4.png" crc="3762658432" ref="媒體"/>
-    <file name="u1205-4_2x.png" crc="4054523436" ref="媒體"/>
+    <file name="u1205-4.png" crc="3924936333" ref="媒體"/>
+    <file name="u1205-4_2x.png" crc="425325913" ref="媒體"/>
     <file name="loading.gif" crc="3815509949" ref="媒體"/>
     <file name="u1050.png" crc="3911400460" ref="組織"/>
     <file name="u1050-r.png" crc="4166631725" ref="組織"/>
@@ -404,6 +404,18 @@
     <file name="slider-2141x27_2x.jpg" crc="3858639928" seo="true" ref="媒體"/>
     <file name="slider-2241x27.jpg" crc="4293345708" seo="true" ref="媒體"/>
     <file name="slider-2241x27_2x.jpg" crc="4116094234" seo="true" ref="媒體"/>
+    <file name="u2373-4.png" crc="439041788" ref="媒體"/>
+    <file name="u2373-4_2x.png" crc="4035997481" ref="媒體"/>
+    <file name="anniversary-ieu2375-fr.png" crc="5450871" ref="媒體"/>
+    <file name="anniversary.jpg" crc="4201349539" ref="媒體"/>
+    <file name="anniversary-ieu2375-fr2.png" crc="147227877" ref="媒體"/>
+    <file name="anniversary_2x.jpg" crc="447160799" ref="媒體"/>
+    <file name="dscf3401.jpg" crc="4239075702" ref="媒體"/>
+    <file name="dscf3401_2x.jpg" crc="285561700" ref="媒體"/>
+    <file name="u2391-4.png" crc="298566364" ref="媒體"/>
+    <file name="u2391-4_2x.png" crc="58167112" ref="媒體"/>
+    <file name="u2393-4.png" crc="493430465" ref="媒體"/>
+    <file name="u2393-4_2x.png" crc="4121970881" ref="媒體"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -412,7 +424,7 @@
     <file name="index.html" crc="460734338" seo="true" mt="1437557442645" redirect="true"/>
   </folder>
   <file name="index.html" crc="347509642" seo="true" mt="1437579643342" redirect="true"/>
-  <file name="媒體.html" crc="4214419136" seo="true" mt="1437579905573" redirect="true"/>
+  <file name="媒體.html" crc="4182878839" seo="true" mt="1437580990812" redirect="true"/>
   <file name="組織.html" crc="3861539344" seo="true" mt="1437579643342" redirect="true"/>
   <file name="社課.html" crc="3794447567" seo="true" mt="1437579643342" redirect="true"/>
 </manifest>
