@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437574441521">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437579956879">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_b-__.css" crc="57742920" ref="媒體:社課:組織:index"/>
-    <file name="__2.css" crc="4079101390" ref="媒體"/>
-    <file name="__1.css" crc="263423488" ref="社課"/>
+    <file name="__2.css" crc="262315457" ref="媒體"/>
+    <file name="__1.css" crc="4104538253" ref="社課"/>
     <file name="__.css" crc="4159289706" ref="組織"/>
-    <file name="index.css" crc="452610700" ref="index"/>
+    <file name="index.css" crc="4098623015" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index:媒體:組織:社課"/>
@@ -71,8 +71,6 @@
     <file name="u207-r_2x.png" crc="53598243" ref="index"/>
     <file name="u207-m_2x.png" crc="213050630" ref="index"/>
     <file name="u207-a_2x.png" crc="4040696363" ref="index"/>
-    <file name="line.png" crc="420365807" seo="true" ref="媒體:社課"/>
-    <file name="line_2x.png" crc="4065775842" seo="true" ref="媒體:社課"/>
     <file name="stage.jpg" crc="4244155923" seo="true" ref="index"/>
     <file name="u309-4.png" crc="95962647" ref="index"/>
     <file name="u309-4_2x.png" crc="436018825" ref="index"/>
@@ -118,8 +116,8 @@
     <file name="u452-4_2x.png" crc="3882604251" ref="index:媒體:組織:社課"/>
     <file name="u453-4.png" crc="4063745590" ref="index:媒體:組織:社課"/>
     <file name="u453-4_2x.png" crc="228720092" ref="index:媒體:組織:社課"/>
-    <file name="u454-4.png" crc="4216402100" ref="index:媒體:組織:社課"/>
-    <file name="u454-4_2x.png" crc="4172023948" ref="index:媒體:組織:社課"/>
+    <file name="u454-4.png" crc="407122821" ref="index:媒體:組織:社課"/>
+    <file name="u454-4_2x.png" crc="364316224" ref="index:媒體:組織:社課"/>
     <file name="u1179.png" crc="3911400460" ref="媒體"/>
     <file name="u1179-r.png" crc="4166631725" ref="媒體"/>
     <file name="u1179-m.png" crc="152291208" ref="媒體"/>
@@ -146,21 +144,8 @@
     <file name="u1175-a_2x.png" crc="313801551" ref="媒體"/>
     <file name="u1188-4-a.png" crc="343194100" ref="媒體"/>
     <file name="u1188-4-a_2x.png" crc="4040696363" ref="媒體"/>
-    <file name="1.jpg" crc="3862554435" seo="true" ref="媒體"/>
-    <file name="u1205-4.png" crc="3895381705" ref="媒體"/>
-    <file name="u1205-4_2x.png" crc="3941957235" ref="媒體"/>
-    <file name="cactus-crop-u1215.jpg" crc="256241726" ref="媒體"/>
-    <file name="cactus-crop-u1215_2x.jpg" crc="140350004" ref="媒體"/>
-    <file name="road-crop-u1217.jpg" crc="87810678" ref="媒體"/>
-    <file name="road-crop-u1217_2x.jpg" crc="4159554648" ref="媒體"/>
-    <file name="trees-crop-u1219.jpg" crc="4086193967" ref="媒體"/>
-    <file name="trees-crop-u1219_2x.jpg" crc="21302918" ref="媒體"/>
-    <file name="cactus68x45.jpg" crc="381701099" seo="true" ref="媒體"/>
-    <file name="cactus68x45_2x.jpg" crc="4270482729" seo="true" ref="媒體"/>
-    <file name="road68x45.jpg" crc="4220447013" seo="true" ref="媒體"/>
-    <file name="road68x45_2x.jpg" crc="4012732603" seo="true" ref="媒體"/>
-    <file name="trees68x45.jpg" crc="4146958310" seo="true" ref="媒體"/>
-    <file name="trees68x45_2x.jpg" crc="4152540413" seo="true" ref="媒體"/>
+    <file name="u1205-4.png" crc="3762658432" ref="媒體"/>
+    <file name="u1205-4_2x.png" crc="4054523436" ref="媒體"/>
     <file name="loading.gif" crc="3815509949" ref="媒體"/>
     <file name="u1050.png" crc="3911400460" ref="組織"/>
     <file name="u1050-r.png" crc="4166631725" ref="組織"/>
@@ -336,8 +321,89 @@
     <file name="u992-10_2x.png" crc="517322977" ref="社課"/>
     <file name="t class.jpg" crc="4147093645" seo="true" ref="社課"/>
     <file name="t class_2x.jpg" crc="3910246139" seo="true" ref="社課"/>
-    <file name="main line.png" crc="3786084271" seo="true" ref="index:組織:社課"/>
-    <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:組織:社課"/>
+    <file name="main line.png" crc="3786084271" seo="true" ref="index:組織:社課:媒體"/>
+    <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:組織:社課:媒體"/>
+    <file name="onstage.jpg" crc="3820770751" seo="true" ref="媒體"/>
+    <file name="onstage_2x.jpg" crc="53698987" seo="true" ref="媒體"/>
+    <file name="slider-1.jpg" crc="387858815" seo="true" ref="媒體"/>
+    <file name="slider-1_2x.jpg" crc="4011445729" seo="true" ref="媒體"/>
+    <file name="slider-2.jpg" crc="4200509908" seo="true" ref="媒體"/>
+    <file name="slider-2_2x.jpg" crc="430536410" seo="true" ref="媒體"/>
+    <file name="slider-4.jpg" crc="436989484" seo="true" ref="媒體"/>
+    <file name="slider-4_2x.jpg" crc="25681282" seo="true" ref="媒體"/>
+    <file name="slider-5.jpg" crc="3933123921" seo="true" ref="媒體"/>
+    <file name="slider-5_2x.jpg" crc="4256969252" seo="true" ref="媒體"/>
+    <file name="slider-6.jpg" crc="4207291604" seo="true" ref="媒體"/>
+    <file name="slider-6_2x.jpg" crc="3971822657" seo="true" ref="媒體"/>
+    <file name="slider-7.jpg" crc="4211000409" seo="true" ref="媒體"/>
+    <file name="slider-7_2x.jpg" crc="25561346" seo="true" ref="媒體"/>
+    <file name="slider-8.jpg" crc="57155373" seo="true" ref="媒體"/>
+    <file name="slider-8_2x.jpg" crc="32258803" seo="true" ref="媒體"/>
+    <file name="slider-9.jpg" crc="73786144" seo="true" ref="媒體"/>
+    <file name="slider-9_2x.jpg" crc="311798243" seo="true" ref="媒體"/>
+    <file name="slider-10.jpg" crc="4137735868" seo="true" ref="媒體"/>
+    <file name="slider-10_2x.jpg" crc="385347499" seo="true" ref="媒體"/>
+    <file name="slider-11.jpg" crc="4144040362" seo="true" ref="媒體"/>
+    <file name="slider-11_2x.jpg" crc="3856881026" seo="true" ref="媒體"/>
+    <file name="slider-12.jpg" crc="4040897308" seo="true" ref="媒體"/>
+    <file name="slider-13.jpg" crc="3782214564" seo="true" ref="媒體"/>
+    <file name="slider-13_2x.jpg" crc="3780871237" seo="true" ref="媒體"/>
+    <file name="slider-15.jpg" crc="4188632742" seo="true" ref="媒體"/>
+    <file name="slider-15_2x.jpg" crc="4216186524" seo="true" ref="媒體"/>
+    <file name="slider-16.jpg" crc="4122841858" seo="true" ref="媒體"/>
+    <file name="slider-16_2x.jpg" crc="3819909939" seo="true" ref="媒體"/>
+    <file name="slider-17.jpg" crc="3978661381" seo="true" ref="媒體"/>
+    <file name="slider-17_2x.jpg" crc="4212839739" seo="true" ref="媒體"/>
+    <file name="slider-18.jpg" crc="4071519359" seo="true" ref="媒體"/>
+    <file name="slider-18_2x.jpg" crc="4007849670" seo="true" ref="媒體"/>
+    <file name="slider-19.jpg" crc="245631768" seo="true" ref="媒體"/>
+    <file name="slider-19_2x.jpg" crc="4214393890" seo="true" ref="媒體"/>
+    <file name="slider-20.jpg" crc="462625040" seo="true" ref="媒體"/>
+    <file name="slider-20_2x.jpg" crc="3764189495" seo="true" ref="媒體"/>
+    <file name="slider-21.jpg" crc="117579362" seo="true" ref="媒體"/>
+    <file name="slider-21_2x.jpg" crc="519264746" seo="true" ref="媒體"/>
+    <file name="slider-22.jpg" crc="234484583" seo="true" ref="媒體"/>
+    <file name="slider-22_2x.jpg" crc="321644871" seo="true" ref="媒體"/>
+    <file name="slider-1-crop-u1208.jpg" crc="3813726350" ref="媒體"/>
+    <file name="slider-1-crop-u1208_2x.jpg" crc="4017938378" ref="媒體"/>
+    <file name="slider-241x27.jpg" crc="134828880" seo="true" ref="媒體"/>
+    <file name="slider-241x27_2x.jpg" crc="3787640140" seo="true" ref="媒體"/>
+    <file name="slider-444x28.jpg" crc="3781573596" seo="true" ref="媒體"/>
+    <file name="slider-444x28_2x.jpg" crc="4198697227" seo="true" ref="媒體"/>
+    <file name="slider-541x27.jpg" crc="3972412933" seo="true" ref="媒體"/>
+    <file name="slider-541x27_2x.jpg" crc="3812799366" seo="true" ref="媒體"/>
+    <file name="slider-641x27.jpg" crc="126377624" seo="true" ref="媒體"/>
+    <file name="slider-641x27_2x.jpg" crc="4177049751" seo="true" ref="媒體"/>
+    <file name="slider-740x27.jpg" crc="3938741177" seo="true" ref="媒體"/>
+    <file name="slider-740x27_2x.jpg" crc="4120860127" seo="true" ref="媒體"/>
+    <file name="slider-841x27.jpg" crc="3920213245" seo="true" ref="媒體"/>
+    <file name="slider-841x27_2x.jpg" crc="311945427" seo="true" ref="媒體"/>
+    <file name="slider-941x27.jpg" crc="109853222" seo="true" ref="媒體"/>
+    <file name="slider-941x27_2x.jpg" crc="4088915855" seo="true" ref="媒體"/>
+    <file name="slider-1041x27.jpg" crc="498472282" seo="true" ref="媒體"/>
+    <file name="slider-1041x27_2x.jpg" crc="3948087566" seo="true" ref="媒體"/>
+    <file name="slider-1141x27.jpg" crc="211636534" seo="true" ref="媒體"/>
+    <file name="slider-1141x27_2x.jpg" crc="233170772" seo="true" ref="媒體"/>
+    <file name="slider-1241x27.jpg" crc="3849750641" seo="true" ref="媒體"/>
+    <file name="slider-1241x27_2x.jpg" crc="3816558119" seo="true" ref="媒體"/>
+    <file name="slider-1340x27.jpg" crc="3912759682" seo="true" ref="媒體"/>
+    <file name="slider-1340x27_2x.jpg" crc="251850425" seo="true" ref="媒體"/>
+    <file name="slider-1542x27.jpg" crc="352121289" seo="true" ref="媒體"/>
+    <file name="slider-1542x27_2x.jpg" crc="163373443" seo="true" ref="媒體"/>
+    <file name="slider-1642x27.jpg" crc="49789643" seo="true" ref="媒體"/>
+    <file name="slider-1642x27_2x.jpg" crc="4072208993" seo="true" ref="媒體"/>
+    <file name="slider-1740x27.jpg" crc="263394908" seo="true" ref="媒體"/>
+    <file name="slider-1740x27_2x.jpg" crc="3987832800" seo="true" ref="媒體"/>
+    <file name="slider-1840x27.jpg" crc="84994917" seo="true" ref="媒體"/>
+    <file name="slider-1840x27_2x.jpg" crc="3881901013" seo="true" ref="媒體"/>
+    <file name="slider-1936x27.jpg" crc="133071298" seo="true" ref="媒體"/>
+    <file name="slider-1936x27_2x.jpg" crc="3860637144" seo="true" ref="媒體"/>
+    <file name="slider-2041x27.jpg" crc="3785623472" seo="true" ref="媒體"/>
+    <file name="slider-2041x27_2x.jpg" crc="4124792321" seo="true" ref="媒體"/>
+    <file name="slider-2141x27.jpg" crc="4179498299" seo="true" ref="媒體"/>
+    <file name="slider-2141x27_2x.jpg" crc="3858639928" seo="true" ref="媒體"/>
+    <file name="slider-2241x27.jpg" crc="4293345708" seo="true" ref="媒體"/>
+    <file name="slider-2241x27_2x.jpg" crc="4116094234" seo="true" ref="媒體"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -345,8 +411,8 @@
     </folder>
     <file name="index.html" crc="460734338" seo="true" mt="1437557442645" redirect="true"/>
   </folder>
-  <file name="index.html" crc="18565001" seo="true" mt="1437574306878" redirect="true"/>
-  <file name="媒體.html" crc="530730428" seo="true" mt="1437557434616" redirect="true"/>
-  <file name="組織.html" crc="133645536" seo="true" mt="1437574021346" redirect="true"/>
-  <file name="社課.html" crc="283224336" seo="true" mt="1437574424770" redirect="true"/>
+  <file name="index.html" crc="347509642" seo="true" mt="1437579643342" redirect="true"/>
+  <file name="媒體.html" crc="4214419136" seo="true" mt="1437579905573" redirect="true"/>
+  <file name="組織.html" crc="3861539344" seo="true" mt="1437579643342" redirect="true"/>
+  <file name="社課.html" crc="3794447567" seo="true" mt="1437579643342" redirect="true"/>
 </manifest>

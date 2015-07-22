@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001A;
-	background-color: #FA4A8C;
+	color: #0000F4;
+	background-color: #4C0627;
 }
 
 .html
@@ -536,13 +536,13 @@
 
 #u336:hover,#u342:hover,#u347:hover
 {
-	border-width: 4px;
+	border-width: 3px;
 	border-style: solid;
 	border-color: #C1272D;
 	border-radius: 90px;
 	width: 160px;
 	min-height: 0px;
-	margin: 430px -10004px -4px -4px;
+	margin: 431px -10003px -3px -3px;
 }
 
 #u336:hover .clip_frame,#u342:hover .clip_frame,#u347:hover .clip_frame
