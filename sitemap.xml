@@ -938,26 +938,26 @@
   </url>
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2015-07-22</lastmod>
+    <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://index.html/phone/index.html"/>
   </url>
   <url>
-    <loc>http://index.html/%E5%AA%92%E9%AB%94.html</loc>
+    <loc>http://index.html/media.html</loc>
     <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/%E7%B5%84%E7%B9%94.html</loc>
-    <lastmod>2015-07-22</lastmod>
+    <loc>http://index.html/leadership.html</loc>
+    <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/%E7%A4%BE%E8%AA%B2.html</loc>
-    <lastmod>2015-07-22</lastmod>
+    <loc>http://index.html/course.html</loc>
+    <lastmod>2015-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
