@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F4;
-	background-color: #2191DF;
+	color: #00001A;
+	background-color: #FA4A8C;
 }
 
 .html
@@ -89,7 +89,7 @@
 
 #u288
 {
-	z-index: 118;
+	z-index: 116;
 	width: 161px;
 	background-color: transparent;
 	position: fixed;
@@ -99,7 +99,7 @@
 
 #u358
 {
-	z-index: 149;
+	z-index: 147;
 	width: 93px;
 	height: 52px;
 	position: fixed;
@@ -109,7 +109,7 @@
 
 #menuu188
 {
-	z-index: 120;
+	z-index: 118;
 	width: 354px;
 	border-style: none;
 	border-color: transparent;
@@ -432,27 +432,17 @@
 	cursor: pointer;
 }
 
-#u229
-{
-	z-index: 116;
-	width: 1024px;
-	background-color: transparent;
-	position: fixed;
-	top: 756px;
-	left: 0px;
-}
-
 #pu305
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 86px;
+	margin-top: 78px;
 }
 
 #u305
 {
 	z-index: 23;
-	min-height: 392px;
+	min-height: 400px;
 	background-color: #FFFFFF;
 	padding-bottom: 91px;
 }
@@ -476,7 +466,7 @@
 	border-radius: 5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
+	margin-top: 21px;
 	left: 105px;
 }
 
@@ -497,7 +487,7 @@
 #u305-bw
 {
 	z-index: 23;
-	min-height: 392px;
+	min-height: 400px;
 }
 
 #u309-4
@@ -507,7 +497,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 126px;
+	margin-top: 134px;
 	left: 158px;
 }
 
@@ -518,7 +508,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 426px;
+	margin-top: 434px;
 	left: 216px;
 }
 
@@ -529,7 +519,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 426px;
+	margin-top: 434px;
 	left: 532px;
 }
 
@@ -540,24 +530,24 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 426px;
+	margin-top: 434px;
 	left: 852px;
 }
 
 #u336:hover,#u342:hover,#u347:hover
 {
-	border-width: 1px;
+	border-width: 4px;
 	border-style: solid;
-	border-color: #7F7F7F;
-	border-radius: 10px;
+	border-color: #C1272D;
+	border-radius: 90px;
 	width: 160px;
 	min-height: 0px;
-	margin: 425px -10001px -1px -1px;
+	margin: 430px -10004px -4px -4px;
 }
 
 #u336:hover .clip_frame,#u342:hover .clip_frame,#u347:hover .clip_frame
 {
-	-webkit-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 90px 90px 90px 90px;
 }
 
 #u375-4
@@ -567,8 +557,18 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 209px;
+	margin-top: 217px;
 	left: 479px;
+}
+
+#u1437
+{
+	z-index: 149;
+	width: 1024px;
+	background-color: transparent;
+	position: fixed;
+	top: 756px;
+	left: 0px;
 }
 
 #pu354-4

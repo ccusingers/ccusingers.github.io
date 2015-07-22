@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437557960472">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437574441521">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_b-__.css" crc="57742920" ref="媒體:社課:組織:index"/>
     <file name="__2.css" crc="4079101390" ref="媒體"/>
-    <file name="__1.css" crc="4138643204" ref="社課"/>
-    <file name="__.css" crc="3944543064" ref="組織"/>
-    <file name="index.css" crc="4095840735" ref="index"/>
+    <file name="__1.css" crc="263423488" ref="社課"/>
+    <file name="__.css" crc="4159289706" ref="組織"/>
+    <file name="index.css" crc="452610700" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index:媒體:組織:社課"/>
@@ -71,8 +71,8 @@
     <file name="u207-r_2x.png" crc="53598243" ref="index"/>
     <file name="u207-m_2x.png" crc="213050630" ref="index"/>
     <file name="u207-a_2x.png" crc="4040696363" ref="index"/>
-    <file name="line.png" crc="420365807" seo="true" ref="index:媒體:組織:社課"/>
-    <file name="line_2x.png" crc="4065775842" seo="true" ref="index:媒體:組織:社課"/>
+    <file name="line.png" crc="420365807" seo="true" ref="媒體:社課"/>
+    <file name="line_2x.png" crc="4065775842" seo="true" ref="媒體:社課"/>
     <file name="stage.jpg" crc="4244155923" seo="true" ref="index"/>
     <file name="u309-4.png" crc="95962647" ref="index"/>
     <file name="u309-4_2x.png" crc="436018825" ref="index"/>
@@ -336,6 +336,8 @@
     <file name="u992-10_2x.png" crc="517322977" ref="社課"/>
     <file name="t class.jpg" crc="4147093645" seo="true" ref="社課"/>
     <file name="t class_2x.jpg" crc="3910246139" seo="true" ref="社課"/>
+    <file name="main line.png" crc="3786084271" seo="true" ref="index:組織:社課"/>
+    <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:組織:社課"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -343,8 +345,8 @@
     </folder>
     <file name="index.html" crc="460734338" seo="true" mt="1437557442645" redirect="true"/>
   </folder>
-  <file name="index.html" crc="498110895" seo="true" mt="1437557437636" redirect="true"/>
+  <file name="index.html" crc="18565001" seo="true" mt="1437574306878" redirect="true"/>
   <file name="媒體.html" crc="530730428" seo="true" mt="1437557434616" redirect="true"/>
-  <file name="組織.html" crc="3986605435" seo="true" mt="1437557437635" redirect="true"/>
-  <file name="社課.html" crc="267915367" seo="true" mt="1437557433284" redirect="true"/>
+  <file name="組織.html" crc="133645536" seo="true" mt="1437574021346" redirect="true"/>
+  <file name="社課.html" crc="283224336" seo="true" mt="1437574424770" redirect="true"/>
 </manifest>
