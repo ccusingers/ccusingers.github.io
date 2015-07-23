@@ -3,10 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>http://ccusingers.github.io/</loc>
-    <changefreq>Monthly</changefreq>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/navigation sign.png</image:loc>
-    </image:image>
+    <changefreq>Weekly</changefreq>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/navigation logo161x84.png</image:loc>
     </image:image>
@@ -62,6 +59,8 @@
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/rainbow logo-u359.png</image:loc>
+      <image:title>中正聲樂社</image:title>
+      <image:caption>中正聲樂社</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/guide.png</image:loc>
@@ -84,8 +83,8 @@
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/u417-13.png</image:loc>
-      <image:title>中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績！ </image:title>
-      <image:caption>中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績！ </image:caption>
+      <image:title>國立中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績！ </image:title>
+      <image:caption>國立中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績！ </image:caption>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/structure.jpg</image:loc>
@@ -115,6 +114,12 @@
       <image:loc>http://ccusingers.github.io/images/u454-4.png</image:loc>
       <image:title>ccusingers.guithub.io</image:title>
       <image:caption>ccusingers.guithub.io</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u164-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u164-r_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/u214-r.png</image:loc>
@@ -191,7 +196,7 @@
   </url>
   <url>
     <loc>http://ccusingers.github.io/leadership.html</loc>
-    <changefreq>Monthly</changefreq>
+    <changefreq>Weekly</changefreq>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/navigation logo161x84.png</image:loc>
     </image:image>
@@ -457,176 +462,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ccusingers.github.io/course.html</loc>
-    <changefreq>Monthly</changefreq>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/navigation logo161x84.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/blank.gif</image:loc>
-      <image:title>首頁</image:title>
-      <image:caption>首頁</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1125-4-a.png</image:loc>
-      <image:title>社課</image:title>
-      <image:caption>社課</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/main line.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/class.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u933-4.png</image:loc>
-      <image:title>⎡音樂，對你而言是什麼？ 對我們而言，是創造感動⎦</image:title>
-      <image:caption>⎡音樂，對你而言是什麼？ 對我們而言，是創造感動⎦</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/4circles.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/tues.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/thur.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1009-4.png</image:loc>
-      <image:title>指導老師修曲</image:title>
-      <image:caption>指導老師修曲</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1010-4.png</image:loc>
-      <image:title>學生指揮團練</image:title>
-      <image:caption>學生指揮團練</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/alone.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u955-4.png</image:loc>
-      <image:title>個別課</image:title>
-      <image:caption>個別課</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u954-10.png</image:loc>
-      <image:title>玉不琢，不成器。每一個人都有一副獨特的嗓音，雖然都有天生的音域限制，但都可透過後天的練習，來拓展自己的音域。個別課，分為個別聲樂課及個別指揮課。 指揮課只要是給予學生指揮、實習指揮的培訓課程。個別聲樂課會從呼吸、發聲的調整來進行聲樂訓練。 團員可選修聲樂課，來提高對自己聲音的認識，同時學習如何控制自己的聲音。個別聲樂課的訓練累積，會產生非常明顯的聲音差別。不僅在聲樂技巧上會有明顯的提升，也可將唱歌技巧，用於流行音樂表達。 </image:title>
-      <image:caption>玉不琢，不成器。每一個人都有一副獨特的嗓音，雖然都有天生的音域限制，但都可透過後天的練習，來拓展自己的音域。個別課，分為個別聲樂課及個別指揮課。 指揮課只要是給予學生指揮、實習指揮的培訓課程。個別聲樂課會從呼吸、發聲的調整來進行聲樂訓練。 團員可選修聲樂課，來提高對自己聲音的認識，同時學習如何控制自己的聲音。個別聲樂課的訓練累積，會產生非常明顯的聲音差別。不僅在聲樂技巧上會有明顯的提升，也可將唱歌技巧，用於流行音樂表達。 </image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u971-4.png</image:loc>
-      <image:title>分部練習</image:title>
-      <image:caption>分部練習</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u970-7.png</image:loc>
-      <image:title>在混聲合唱或是無伴奏合唱中，都有分成多種聲部。中正聲樂社的混聲訓練中，分成女高音(Soprano)、男高音(Tenor)、女中音(Alto)、男低音(Bass)。部練，是同聲部自己單獨的練習時間。 練習時，部員可向部長尋求聲音、視譜、音準的協助。同時，如果你是沒有五線譜基礎的成員，也可透過部練時間，將簡譜等註記完成。 </image:title>
-      <image:caption>在混聲合唱或是無伴奏合唱中，都有分成多種聲部。中正聲樂社的混聲訓練中，分成女高音(Soprano)、男高音(Tenor)、女中音(Alto)、男低音(Bass)。部練，是同聲部自己單獨的練習時間。 練習時，部員可向部長尋求聲音、視譜、音準的協助。同時，如果你是沒有五線譜基礎的成員，也可透過部練時間，將簡譜等註記完成。 </image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/seperate.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/img_9097.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u982-4.png</image:loc>
-      <image:title>團體練習</image:title>
-      <image:caption>團體練習</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u981-10.png</image:loc>
-      <image:title>中正聲樂社的學生指揮，都經過實習訓練。平常的團練課，會由學生指揮帶領。 團練課是各部統合的時間，課堂上，學生指揮會調整各部的聲音，達到音響最佳的狀態。同時，混聲合唱在團體和聲中，會發生各部間干擾的情況。因此，透過團體練習，各聲部可培養更強的穩定性及獨立性。 團體練習，也會訓練團員們與指揮之間的默契。除了給予呼吸的提示外，也可讓團員了解指揮拍及指揮詮釋。 </image:title>
-      <image:caption>中正聲樂社的學生指揮，都經過實習訓練。平常的團練課，會由學生指揮帶領。 團練課是各部統合的時間，課堂上，學生指揮會調整各部的聲音，達到音響最佳的狀態。同時，混聲合唱在團體和聲中，會發生各部間干擾的情況。因此，透過團體練習，各聲部可培養更強的穩定性及獨立性。 團體練習，也會訓練團員們與指揮之間的默契。除了給予呼吸的提示外，也可讓團員了解指揮拍及指揮詮釋。 </image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u993-4.png</image:loc>
-      <image:title>修曲</image:title>
-      <image:caption>修曲</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u992-10.png</image:loc>
-      <image:title>指導老師修曲，為中正聲樂社最重要的課程。老師會根據團上的整體狀況，調整音樂表現及速度。同時，也會評估團內的音樂訓練，調整音樂的詮釋、風格。 課堂上，老師可以解答學生指揮所不能決定的細節，最重要的，老師會對曲目做進階的音樂雕琢，讓音樂的完整度提高。 修曲，是聲樂社的必修課程，每個人都必須出席。 </image:title>
-      <image:caption>指導老師修曲，為中正聲樂社最重要的課程。老師會根據團上的整體狀況，調整音樂表現及速度。同時，也會評估團內的音樂訓練，調整音樂的詮釋、風格。 課堂上，老師可以解答學生指揮所不能決定的細節，最重要的，老師會對曲目做進階的音樂雕琢，讓音樂的完整度提高。 修曲，是聲樂社的必修課程，每個人都必須出席。 </image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/t class.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u452-4.png</image:loc>
-      <image:title>國立中正大學聲樂社</image:title>
-      <image:caption>國立中正大學聲樂社</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u453-4.png</image:loc>
-      <image:title>National Chung Cheng University Singers (CCU Singers)</image:title>
-      <image:caption>National Chung Cheng University Singers (CCU Singers)</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u454-4.png</image:loc>
-      <image:title>ccusingers.guithub.io</image:title>
-      <image:caption>ccusingers.guithub.io</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1139-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1139-m.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1139-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1139-r_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1139-m_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1139-a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1120-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1120-m.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1120-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1120-r_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1120-m_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1120-a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1134-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1134-m.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1134-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1134-r_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1134-m_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1134-a_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://ccusingers.github.io/media.html</loc>
-    <changefreq>Monthly</changefreq>
+    <changefreq>Weekly</changefreq>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/navigation logo161x84.png</image:loc>
     </image:image>
@@ -850,6 +687,174 @@
       <image:loc>http://ccusingers.github.io/images/u1175-a_2x.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://ccusingers.github.io/course.html</loc>
+    <changefreq>Weekly</changefreq>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/navigation logo161x84.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/blank.gif</image:loc>
+      <image:title>首頁</image:title>
+      <image:caption>首頁</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1125-4-a.png</image:loc>
+      <image:title>社課</image:title>
+      <image:caption>社課</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/main line.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/class.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u933-4.png</image:loc>
+      <image:title>⎡音樂，對你而言是什麼？ 對我們而言，是創造感動⎦</image:title>
+      <image:caption>⎡音樂，對你而言是什麼？ 對我們而言，是創造感動⎦</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/4circles.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/tues.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/thur.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1009-4.png</image:loc>
+      <image:title>指導老師修曲</image:title>
+      <image:caption>指導老師修曲</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1010-4.png</image:loc>
+      <image:title>學生指揮團練</image:title>
+      <image:caption>學生指揮團練</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/alone.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u955-4.png</image:loc>
+      <image:title>個別課</image:title>
+      <image:caption>個別課</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u954-10.png</image:loc>
+      <image:title>玉不琢，不成器。每一個人都有一副獨特的嗓音，雖然都有天生的音域限制，但都可透過後天的練習，來拓展自己的音域。個別課，分為個別聲樂課及個別指揮課。 指揮課只要是給予學生指揮、實習指揮的培訓課程。個別聲樂課會從呼吸、發聲的調整來進行聲樂訓練。 團員可選修聲樂課，來提高對自己聲音的認識，同時學習如何控制自己的聲音。個別聲樂課的訓練累積，會產生非常明顯的聲音差別。不僅在聲樂技巧上會有明顯的提升，也可將唱歌技巧，用於流行音樂表達。 </image:title>
+      <image:caption>玉不琢，不成器。每一個人都有一副獨特的嗓音，雖然都有天生的音域限制，但都可透過後天的練習，來拓展自己的音域。個別課，分為個別聲樂課及個別指揮課。 指揮課只要是給予學生指揮、實習指揮的培訓課程。個別聲樂課會從呼吸、發聲的調整來進行聲樂訓練。 團員可選修聲樂課，來提高對自己聲音的認識，同時學習如何控制自己的聲音。個別聲樂課的訓練累積，會產生非常明顯的聲音差別。不僅在聲樂技巧上會有明顯的提升，也可將唱歌技巧，用於流行音樂表達。 </image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u971-4.png</image:loc>
+      <image:title>分部練習</image:title>
+      <image:caption>分部練習</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u970-7.png</image:loc>
+      <image:title>在混聲合唱或是無伴奏合唱中，都有分成多種聲部。中正聲樂社的混聲訓練中，分成女高音(Soprano)、男高音(Tenor)、女中音(Alto)、男低音(Bass)。部練，是同聲部自己單獨的練習時間。 練習時，部員可向部長尋求聲音、視譜、音準的協助。同時，如果你是沒有五線譜基礎的成員，也可透過部練時間，將簡譜等註記完成。 </image:title>
+      <image:caption>在混聲合唱或是無伴奏合唱中，都有分成多種聲部。中正聲樂社的混聲訓練中，分成女高音(Soprano)、男高音(Tenor)、女中音(Alto)、男低音(Bass)。部練，是同聲部自己單獨的練習時間。 練習時，部員可向部長尋求聲音、視譜、音準的協助。同時，如果你是沒有五線譜基礎的成員，也可透過部練時間，將簡譜等註記完成。 </image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/seperate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/img_9097.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u982-4.png</image:loc>
+      <image:title>團體練習</image:title>
+      <image:caption>團體練習</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u981-10.png</image:loc>
+      <image:title>中正聲樂社的學生指揮，都經過實習訓練。平常的團練課，會由學生指揮帶領。 團練課是各部統合的時間，課堂上，學生指揮會調整各部的聲音，達到音響最佳的狀態。同時，混聲合唱在團體和聲中，會發生各部間干擾的情況。因此，透過團體練習，各聲部可培養更強的穩定性及獨立性。 團體練習，也會訓練團員們與指揮之間的默契。除了給予呼吸的提示外，也可讓團員了解指揮拍及指揮詮釋。 </image:title>
+      <image:caption>中正聲樂社的學生指揮，都經過實習訓練。平常的團練課，會由學生指揮帶領。 團練課是各部統合的時間，課堂上，學生指揮會調整各部的聲音，達到音響最佳的狀態。同時，混聲合唱在團體和聲中，會發生各部間干擾的情況。因此，透過團體練習，各聲部可培養更強的穩定性及獨立性。 團體練習，也會訓練團員們與指揮之間的默契。除了給予呼吸的提示外，也可讓團員了解指揮拍及指揮詮釋。 </image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u993-4.png</image:loc>
+      <image:title>修曲</image:title>
+      <image:caption>修曲</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u992-10.png</image:loc>
+      <image:title>指導老師修曲，為中正聲樂社最重要的課程。老師會根據團上的整體狀況，調整音樂表現及速度。同時，也會評估團內的音樂訓練，調整音樂的詮釋、風格。 課堂上，老師可以解答學生指揮所不能決定的細節，最重要的，老師會對曲目做進階的音樂雕琢，讓音樂的完整度提高。 修曲，是聲樂社的必修課程，每個人都必須出席。 </image:title>
+      <image:caption>指導老師修曲，為中正聲樂社最重要的課程。老師會根據團上的整體狀況，調整音樂表現及速度。同時，也會評估團內的音樂訓練，調整音樂的詮釋、風格。 課堂上，老師可以解答學生指揮所不能決定的細節，最重要的，老師會對曲目做進階的音樂雕琢，讓音樂的完整度提高。 修曲，是聲樂社的必修課程，每個人都必須出席。 </image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/t class.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u452-4.png</image:loc>
+      <image:title>國立中正大學聲樂社</image:title>
+      <image:caption>國立中正大學聲樂社</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u453-4.png</image:loc>
+      <image:title>National Chung Cheng University Singers (CCU Singers)</image:title>
+      <image:caption>National Chung Cheng University Singers (CCU Singers)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u454-4.png</image:loc>
+      <image:title>ccusingers.guithub.io</image:title>
+      <image:caption>ccusingers.guithub.io</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1139-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1139-m.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1139-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1139-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1139-m_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1139-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1120-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1120-m.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1120-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1120-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1120-m_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1120-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1134-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1134-m.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1134-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1134-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1134-m_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1134-a_2x.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
-<!--<guid value="46ad99fd-cbaf-4f20-9d62-b590fa0fa287" />-->
+<!--<guid value="0b3cbe6f-9052-4924-bbae-4edb682f6a3c" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
