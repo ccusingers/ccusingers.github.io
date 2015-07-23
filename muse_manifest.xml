@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437616324832">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437641994803">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="master_b-__.css" crc="57742920" ref="index:media:course:leadership"/>
-    <file name="index.css" crc="4102410761" ref="index"/>
-    <file name="media.css" crc="212332174" ref="media"/>
-    <file name="course.css" crc="4104538253" ref="course"/>
-    <file name="leadership.css" crc="4159289706" ref="leadership"/>
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_b-__.css" crc="57742920" ref="index:leadership:media:course"/>
+    <file name="index.css" crc="4280403962" ref="index"/>
+    <file name="leadership.css" crc="301947810" ref="leadership"/>
+    <file name="media.css" crc="34966600" ref="media"/>
+    <file name="course.css" crc="4234468575" ref="course"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index:media:leadership:course"/>
@@ -23,6 +23,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:media:leadership:course"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="478655589" ref="phone>index"/>
     <file name="large banner-u1416-fr.jpg" crc="105131289" ref="phone>index"/>
     <file name="large banner-u1416-fr_2x.jpg" crc="4022210465" ref="phone>index"/>
     <file name="fp-all.jpg" crc="4141844905" ref="phone>index"/>
@@ -34,8 +35,10 @@
     <file name="navigation logo118x61.png" crc="469171625" seo="true" ref="phone>index"/>
     <file name="navigation logo118x61_2x.png" crc="395130464" seo="true" ref="phone>index"/>
     <file name="large banner.jpg" crc="3826602296" ref="index"/>
-    <file name="navigation logo161x84.png" crc="90413581" seo="true" ref="index:media"/>
-    <file name="navigation logo161x84_2x.png" crc="457371071" seo="true" ref="index:media"/>
+    <file name="navigation sign.png" crc="4224610797" seo="true" ref="index"/>
+    <file name="navigation sign_2x.png" crc="3891681119" seo="true" ref="index"/>
+    <file name="navigation logo161x84.png" crc="90413581" seo="true" ref="index"/>
+    <file name="navigation logo161x84_2x.png" crc="457371071" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:media:leadership:course"/>
     <file name="u214.png" crc="3911400460" ref="index"/>
     <file name="u214-r.png" crc="4166631725" ref="index"/>
@@ -69,43 +72,59 @@
     <file name="u207-r_2x.png" crc="53598243" ref="index"/>
     <file name="u207-m_2x.png" crc="213050630" ref="index"/>
     <file name="u207-a_2x.png" crc="4040696363" ref="index"/>
-    <file name="stage.jpg" crc="4244155923" seo="true" ref="index"/>
+    <file name="stage.jpg" crc="3808193981" seo="true" ref="index"/>
     <file name="u309-4.png" crc="95962647" ref="index"/>
     <file name="u309-4_2x.png" crc="436018825" ref="index"/>
-    <file name="internet.jpg" crc="3802551165" seo="true" ref="index"/>
-    <file name="internet_2x.jpg" crc="318293753" seo="true" ref="index"/>
-    <file name="mail.jpg" crc="4291954769" seo="true" ref="index"/>
-    <file name="mail_2x.jpg" crc="204216646" seo="true" ref="index"/>
-    <file name="social.jpg" crc="216356893" seo="true" ref="index"/>
-    <file name="social_2x.jpg" crc="160173343" seo="true" ref="index"/>
     <file name="u375-4.png" crc="497434201" ref="index"/>
     <file name="u375-4_2x.png" crc="257038853" ref="index"/>
+    <file name="main line.png" crc="3786084271" seo="true" ref="index:media:leadership:course"/>
+    <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:media:leadership:course"/>
     <file name="u354-4.png" crc="4232877985" ref="index"/>
     <file name="u354-4_2x.png" crc="30724187" ref="index"/>
     <file name="u355-4.png" crc="193262834" ref="index"/>
     <file name="u355-4_2x.png" crc="114965075" ref="index"/>
     <file name="u356-4.png" crc="4219224449" ref="index"/>
     <file name="u356-4_2x.png" crc="494023567" ref="index"/>
+    <file name="u2435.png" crc="4128584350" ref="index"/>
+    <file name="u2435-r.png" crc="3920297347" ref="index"/>
+    <file name="u2435_2x.png" crc="361988338" ref="index"/>
+    <file name="u2435-r_2x.png" crc="4236822119" ref="index"/>
+    <file name="u2441.png" crc="4121949779" ref="index"/>
+    <file name="u2441-r.png" crc="471885459" ref="index"/>
+    <file name="u2441_2x.png" crc="4144262235" ref="index"/>
+    <file name="u2441-r_2x.png" crc="23106349" ref="index"/>
+    <file name="u2447.png" crc="3827997727" ref="index"/>
+    <file name="u2447-r.png" crc="464631201" ref="index"/>
+    <file name="u2447_2x.png" crc="466929374" ref="index"/>
+    <file name="u2447-r_2x.png" crc="225410125" ref="index"/>
+    <file name="rainbow logo-u359.png" crc="4215719154" ref="index"/>
+    <file name="rainbow logo-u359_2x.png" crc="3887916771" ref="index"/>
+    <file name="u2455-9.png" crc="3821373900" ref="index"/>
+    <file name="u2455-9_2x.png" crc="101896723" ref="index"/>
+    <file name="u2456-4.png" crc="330148249" ref="index"/>
+    <file name="u2456-4_2x.png" crc="4257169545" ref="index"/>
+    <file name="guide.png" crc="3994271862" seo="true" ref="index"/>
+    <file name="guide_2x.png" crc="3989920284" seo="true" ref="index"/>
+    <file name="u365-13.png" crc="184521986" ref="index"/>
+    <file name="u365-13_2x.png" crc="184657663" ref="index"/>
+    <file name="u2457-4.png" crc="45205752" ref="index"/>
+    <file name="u2457-4_2x.png" crc="495621617" ref="index"/>
     <file name="short line.png" crc="258633909" seo="true" ref="index"/>
     <file name="short line_2x.png" crc="112547011" seo="true" ref="index"/>
-    <file name="rainbow logo-u359.png" crc="4072177984" ref="index"/>
-    <file name="rainbow logo-u359_2x.png" crc="110188004" ref="index"/>
-    <file name="guide.png" crc="4253622357" seo="true" ref="index"/>
-    <file name="guide_2x.png" crc="75310604" seo="true" ref="index"/>
-    <file name="u365-14.png" crc="4167845392" ref="index"/>
-    <file name="u365-14_2x.png" crc="4175504710" ref="index"/>
-    <file name="u388-6.png" crc="185727030" ref="index"/>
-    <file name="u388-6_2x.png" crc="3849478388" ref="index"/>
-    <file name="800讚.jpg" crc="3924668169" seo="true" ref="index"/>
-    <file name="800讚_2x.jpg" crc="314074695" seo="true" ref="index"/>
+    <file name="u388-6.png" crc="449766973" ref="index"/>
+    <file name="u388-6_2x.png" crc="3837393307" ref="index"/>
+    <file name="800讚.jpg" crc="87690938" seo="true" ref="index"/>
+    <file name="800讚_2x.jpg" crc="4077302504" seo="true" ref="index"/>
     <file name="tri-chart.png" crc="4123034808" seo="true" ref="index"/>
     <file name="tri-chart_2x.png" crc="104658941" seo="true" ref="index"/>
-    <file name="u417-13.png" crc="443531195" ref="index"/>
-    <file name="u417-13_2x.png" crc="219685513" ref="index"/>
-    <file name="structure.jpg" crc="3819663560" seo="true" ref="index"/>
-    <file name="structure_2x.jpg" crc="315720508" seo="true" ref="index"/>
-    <file name="map.jpg" crc="3835303504" seo="true" ref="index"/>
-    <file name="map_2x.jpg" crc="70423869" seo="true" ref="index"/>
+    <file name="u417-16.png" crc="195528437" ref="index"/>
+    <file name="u417-16_2x.png" crc="3937254542" ref="index"/>
+    <file name="u2459-4.png" crc="4013610360" ref="index"/>
+    <file name="u2459-4_2x.png" crc="4196454951" ref="index"/>
+    <file name="structure.png" crc="3883354345" seo="true" ref="index"/>
+    <file name="structure_2x.png" crc="354280140" seo="true" ref="index"/>
+    <file name="map.jpg" crc="157330235" seo="true" ref="index"/>
+    <file name="map_2x.jpg" crc="227446755" seo="true" ref="index"/>
     <file name="indicator.png" crc="4119194928" seo="true" ref="index"/>
     <file name="indicator_2x.png" crc="423485540" seo="true" ref="index"/>
     <file name="u450-9.png" crc="4276547807" ref="index"/>
@@ -142,9 +161,99 @@
     <file name="u1175-a_2x.png" crc="313801551" ref="media"/>
     <file name="u1188-4-a.png" crc="343194100" ref="media"/>
     <file name="u1188-4-a_2x.png" crc="4040696363" ref="media"/>
+    <file name="onstage.jpg" crc="311511889" seo="true" ref="media"/>
+    <file name="onstage_2x.jpg" crc="331759176" seo="true" ref="media"/>
     <file name="u1205-4.png" crc="3924936333" ref="media"/>
     <file name="u1205-4_2x.png" crc="425325913" ref="media"/>
+    <file name="slider-1.jpg" crc="387858815" seo="true" ref="media"/>
+    <file name="slider-1_2x.jpg" crc="4011445729" seo="true" ref="media"/>
+    <file name="slider-2.jpg" crc="4200509908" seo="true" ref="media"/>
+    <file name="slider-2_2x.jpg" crc="430536410" seo="true" ref="media"/>
+    <file name="slider-4.jpg" crc="436989484" seo="true" ref="media"/>
+    <file name="slider-4_2x.jpg" crc="25681282" seo="true" ref="media"/>
+    <file name="slider-5.jpg" crc="3933123921" seo="true" ref="media"/>
+    <file name="slider-5_2x.jpg" crc="4256969252" seo="true" ref="media"/>
+    <file name="slider-7.jpg" crc="4211000409" seo="true" ref="media"/>
+    <file name="slider-7_2x.jpg" crc="25561346" seo="true" ref="media"/>
+    <file name="slider-8.jpg" crc="57155373" seo="true" ref="media"/>
+    <file name="slider-8_2x.jpg" crc="32258803" seo="true" ref="media"/>
+    <file name="slider-9.jpg" crc="73786144" seo="true" ref="media"/>
+    <file name="slider-9_2x.jpg" crc="311798243" seo="true" ref="media"/>
+    <file name="slider-10.jpg" crc="4137735868" seo="true" ref="media"/>
+    <file name="slider-10_2x.jpg" crc="385347499" seo="true" ref="media"/>
+    <file name="slider-11.jpg" crc="4144040362" seo="true" ref="media"/>
+    <file name="slider-11_2x.jpg" crc="3856881026" seo="true" ref="media"/>
+    <file name="dscf6288.jpg" crc="140628124" seo="true" ref="media"/>
+    <file name="dscf6288_2x.jpg" crc="3856674271" seo="true" ref="media"/>
+    <file name="slider-13.jpg" crc="3782214564" seo="true" ref="media"/>
+    <file name="slider-13_2x.jpg" crc="3780871237" seo="true" ref="media"/>
+    <file name="slider-15.jpg" crc="4188632742" seo="true" ref="media"/>
+    <file name="slider-15_2x.jpg" crc="4216186524" seo="true" ref="media"/>
+    <file name="slider-16.jpg" crc="4122841858" seo="true" ref="media"/>
+    <file name="slider-16_2x.jpg" crc="3819909939" seo="true" ref="media"/>
+    <file name="slider-17.jpg" crc="3978661381" seo="true" ref="media"/>
+    <file name="slider-17_2x.jpg" crc="4212839739" seo="true" ref="media"/>
+    <file name="slider-18.jpg" crc="4071519359" seo="true" ref="media"/>
+    <file name="slider-18_2x.jpg" crc="4007849670" seo="true" ref="media"/>
+    <file name="slider-19.jpg" crc="245631768" seo="true" ref="media"/>
+    <file name="slider-19_2x.jpg" crc="4214393890" seo="true" ref="media"/>
+    <file name="slider-20.jpg" crc="462625040" seo="true" ref="media"/>
+    <file name="slider-20_2x.jpg" crc="3764189495" seo="true" ref="media"/>
+    <file name="slider-21.jpg" crc="117579362" seo="true" ref="media"/>
+    <file name="slider-21_2x.jpg" crc="519264746" seo="true" ref="media"/>
+    <file name="slider-22.jpg" crc="234484583" seo="true" ref="media"/>
+    <file name="slider-22_2x.jpg" crc="321644871" seo="true" ref="media"/>
+    <file name="slider-1-crop-u1208.jpg" crc="3763329026" ref="media"/>
+    <file name="slider-1-crop-u1208_2x.jpg" crc="461720797" ref="media"/>
+    <file name="slider-2-crop-u2160.jpg" crc="4129208234" ref="media"/>
+    <file name="slider-2-crop-u2160_2x.jpg" crc="502854571" ref="media"/>
+    <file name="slider-4-crop-u2169.jpg" crc="439837458" ref="media"/>
+    <file name="slider-4-crop-u2169_2x.jpg" crc="3960317205" ref="media"/>
+    <file name="slider-5-crop-u2178.jpg" crc="3969380579" ref="media"/>
+    <file name="slider-5-crop-u2178_2x.jpg" crc="4128839181" ref="media"/>
+    <file name="slider-7-crop-u2196.jpg" crc="74277361" ref="media"/>
+    <file name="slider-7-crop-u2196_2x.jpg" crc="4253436346" ref="media"/>
+    <file name="slider-8-crop-u2205.jpg" crc="186926851" ref="media"/>
+    <file name="slider-8-crop-u2205_2x.jpg" crc="148214002" ref="media"/>
+    <file name="slider-9-crop-u2214.jpg" crc="4091043124" ref="media"/>
+    <file name="slider-9-crop-u2214_2x.jpg" crc="131623738" ref="media"/>
+    <file name="slider-10-crop-u2223.jpg" crc="341348731" ref="media"/>
+    <file name="slider-10-crop-u2223_2x.jpg" crc="23326890" ref="media"/>
+    <file name="slider-11-crop-u2232.jpg" crc="459196590" ref="media"/>
+    <file name="slider-11-crop-u2232_2x.jpg" crc="125405835" ref="media"/>
+    <file name="dscf6288-crop-u2413.jpg" crc="259020592" ref="media"/>
+    <file name="dscf6288-crop-u2413_2x.jpg" crc="266809822" ref="media"/>
+    <file name="slider-13-crop-u2250.jpg" crc="4053727581" ref="media"/>
+    <file name="slider-13-crop-u2250_2x.jpg" crc="3897215603" ref="media"/>
+    <file name="slider-15-crop-u2259.jpg" crc="4073641978" ref="media"/>
+    <file name="slider-15-crop-u2259_2x.jpg" crc="3878582944" ref="media"/>
+    <file name="slider-16-crop-u2268.jpg" crc="4145955124" ref="media"/>
+    <file name="slider-16-crop-u2268_2x.jpg" crc="133765836" ref="media"/>
+    <file name="slider-17-crop-u2277.jpg" crc="40362627" ref="media"/>
+    <file name="slider-17-crop-u2277_2x.jpg" crc="163551632" ref="media"/>
+    <file name="slider-18-crop-u2286.jpg" crc="3868916952" ref="media"/>
+    <file name="slider-18-crop-u2286_2x.jpg" crc="4207084996" ref="media"/>
+    <file name="slider-1944x33.jpg" crc="4201918184" seo="true" ref="media"/>
+    <file name="slider-1944x33_2x.jpg" crc="4177130583" seo="true" ref="media"/>
+    <file name="slider-20-crop-u2304.jpg" crc="429094021" ref="media"/>
+    <file name="slider-20-crop-u2304_2x.jpg" crc="466480323" ref="media"/>
+    <file name="slider-21-crop-u2313.jpg" crc="36616667" ref="media"/>
+    <file name="slider-21-crop-u2313_2x.jpg" crc="3939046485" ref="media"/>
+    <file name="slider-22-crop-u2322.jpg" crc="3766800129" ref="media"/>
+    <file name="slider-22-crop-u2322_2x.jpg" crc="210307995" ref="media"/>
     <file name="loading.gif" crc="3815509949" ref="media"/>
+    <file name="u2373-4.png" crc="439041788" ref="media"/>
+    <file name="u2373-4_2x.png" crc="4035997481" ref="media"/>
+    <file name="anniversary-ieu2375-fr.png" crc="5450871" ref="media"/>
+    <file name="anniversary.jpg" crc="4201349539" ref="media"/>
+    <file name="anniversary-ieu2375-fr2.png" crc="147227877" ref="media"/>
+    <file name="anniversary_2x.jpg" crc="447160799" ref="media"/>
+    <file name="dscf3401.jpg" crc="4239075702" ref="media"/>
+    <file name="dscf3401_2x.jpg" crc="285561700" ref="media"/>
+    <file name="u2391-4.png" crc="298566364" ref="media"/>
+    <file name="u2391-4_2x.png" crc="58167112" ref="media"/>
+    <file name="u2496-4.png" crc="493430465" ref="media"/>
+    <file name="u2496-4_2x.png" crc="4121970881" ref="media"/>
     <file name="u1050.png" crc="3911400460" ref="leadership"/>
     <file name="u1050-r.png" crc="4166631725" ref="leadership"/>
     <file name="u1050-m.png" crc="152291208" ref="leadership"/>
@@ -183,12 +292,12 @@
     <file name="line triangle_2x.png" crc="162907823" seo="true" ref="leadership"/>
     <file name="girls.jpg" crc="3828934678" seo="true" ref="leadership"/>
     <file name="girls_2x.jpg" crc="3928332345" seo="true" ref="leadership"/>
-    <file name="pantagon.png" crc="244694045" seo="true" ref="leadership"/>
-    <file name="pantagon_2x.png" crc="3896742322" seo="true" ref="leadership"/>
-    <file name="u708-6.png" crc="388367158" ref="leadership"/>
-    <file name="u708-6_2x.png" crc="3832490801" ref="leadership"/>
-    <file name="u707-20.png" crc="4095641595" ref="leadership"/>
-    <file name="u707-20_2x.png" crc="60833435" ref="leadership"/>
+    <file name="pantagon.png" crc="452739118" seo="true" ref="leadership"/>
+    <file name="pantagon_2x.png" crc="26849070" seo="true" ref="leadership"/>
+    <file name="u708-6.png" crc="4042449924" ref="leadership"/>
+    <file name="u708-6_2x.png" crc="511494971" ref="leadership"/>
+    <file name="u707-20.png" crc="4027135017" ref="leadership"/>
+    <file name="u707-20_2x.png" crc="288606306" ref="leadership"/>
     <file name="huang.jpg" crc="65994573" seo="true" ref="leadership"/>
     <file name="huang_2x.jpg" crc="238637512" seo="true" ref="leadership"/>
     <file name="president.jpg" crc="439766676" seo="true" ref="leadership"/>
@@ -281,8 +390,8 @@
     <file name="u1134-r_2x.png" crc="53598243" ref="course"/>
     <file name="u1134-m_2x.png" crc="213050630" ref="course"/>
     <file name="u1134-a_2x.png" crc="4040696363" ref="course"/>
-    <file name="class.jpg" crc="4271246833" seo="true" ref="course"/>
-    <file name="class_2x.jpg" crc="4080639256" seo="true" ref="course"/>
+    <file name="class.jpg" crc="4068142512" seo="true" ref="course"/>
+    <file name="class_2x.jpg" crc="421336231" seo="true" ref="course"/>
     <file name="u933-4.png" crc="120767376" ref="course"/>
     <file name="u933-4_2x.png" crc="3988027097" ref="course"/>
     <file name="4circles.png" crc="355224877" seo="true" ref="course"/>
@@ -299,123 +408,26 @@
     <file name="alone_2x.jpg" crc="360012027" seo="true" ref="course"/>
     <file name="u955-4.png" crc="359031849" ref="course"/>
     <file name="u955-4_2x.png" crc="452674519" ref="course"/>
-    <file name="u954-10.png" crc="461367924" ref="course"/>
-    <file name="u954-10_2x.png" crc="4225092775" ref="course"/>
+    <file name="u954-10.png" crc="336485857" ref="course"/>
+    <file name="u954-10_2x.png" crc="3851941942" ref="course"/>
     <file name="u971-4.png" crc="11722000" ref="course"/>
     <file name="u971-4_2x.png" crc="3837991849" ref="course"/>
-    <file name="u970-7.png" crc="137570147" ref="course"/>
-    <file name="u970-7_2x.png" crc="22400284" ref="course"/>
+    <file name="u970-7.png" crc="4111551780" ref="course"/>
+    <file name="u970-7_2x.png" crc="156671506" ref="course"/>
     <file name="seperate.jpg" crc="85577430" seo="true" ref="course"/>
     <file name="seperate_2x.jpg" crc="3781301962" seo="true" ref="course"/>
     <file name="img_9097.jpg" crc="4000800963" seo="true" ref="course"/>
     <file name="img_9097_2x.jpg" crc="204393853" seo="true" ref="course"/>
     <file name="u982-4.png" crc="366904665" ref="course"/>
     <file name="u982-4_2x.png" crc="182574016" ref="course"/>
-    <file name="u981-10.png" crc="239255546" ref="course"/>
-    <file name="u981-10_2x.png" crc="314885401" ref="course"/>
+    <file name="u981-10.png" crc="137034263" ref="course"/>
+    <file name="u981-10_2x.png" crc="340462738" ref="course"/>
     <file name="u993-4.png" crc="4132722391" ref="course"/>
     <file name="u993-4_2x.png" crc="3908979651" ref="course"/>
-    <file name="u992-10.png" crc="3863148180" ref="course"/>
-    <file name="u992-10_2x.png" crc="517322977" ref="course"/>
+    <file name="u992-10.png" crc="3931216117" ref="course"/>
+    <file name="u992-10_2x.png" crc="285961754" ref="course"/>
     <file name="t class.jpg" crc="4147093645" seo="true" ref="course"/>
     <file name="t class_2x.jpg" crc="3910246139" seo="true" ref="course"/>
-    <file name="main line.png" crc="3786084271" seo="true" ref="index:media:leadership:course"/>
-    <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:media:leadership:course"/>
-    <file name="onstage.jpg" crc="3820770751" seo="true" ref="media"/>
-    <file name="onstage_2x.jpg" crc="53698987" seo="true" ref="media"/>
-    <file name="slider-1.jpg" crc="387858815" seo="true" ref="media"/>
-    <file name="slider-1_2x.jpg" crc="4011445729" seo="true" ref="media"/>
-    <file name="slider-2.jpg" crc="4200509908" seo="true" ref="media"/>
-    <file name="slider-2_2x.jpg" crc="430536410" seo="true" ref="media"/>
-    <file name="slider-4.jpg" crc="436989484" seo="true" ref="media"/>
-    <file name="slider-4_2x.jpg" crc="25681282" seo="true" ref="media"/>
-    <file name="slider-5.jpg" crc="3933123921" seo="true" ref="media"/>
-    <file name="slider-5_2x.jpg" crc="4256969252" seo="true" ref="media"/>
-    <file name="slider-7.jpg" crc="4211000409" seo="true" ref="media"/>
-    <file name="slider-7_2x.jpg" crc="25561346" seo="true" ref="media"/>
-    <file name="slider-8.jpg" crc="57155373" seo="true" ref="media"/>
-    <file name="slider-8_2x.jpg" crc="32258803" seo="true" ref="media"/>
-    <file name="slider-9.jpg" crc="73786144" seo="true" ref="media"/>
-    <file name="slider-9_2x.jpg" crc="311798243" seo="true" ref="media"/>
-    <file name="slider-10.jpg" crc="4137735868" seo="true" ref="media"/>
-    <file name="slider-10_2x.jpg" crc="385347499" seo="true" ref="media"/>
-    <file name="slider-11.jpg" crc="4144040362" seo="true" ref="media"/>
-    <file name="slider-11_2x.jpg" crc="3856881026" seo="true" ref="media"/>
-    <file name="slider-13.jpg" crc="3782214564" seo="true" ref="media"/>
-    <file name="slider-13_2x.jpg" crc="3780871237" seo="true" ref="media"/>
-    <file name="slider-15.jpg" crc="4188632742" seo="true" ref="media"/>
-    <file name="slider-15_2x.jpg" crc="4216186524" seo="true" ref="media"/>
-    <file name="slider-16.jpg" crc="4122841858" seo="true" ref="media"/>
-    <file name="slider-16_2x.jpg" crc="3819909939" seo="true" ref="media"/>
-    <file name="slider-17.jpg" crc="3978661381" seo="true" ref="media"/>
-    <file name="slider-17_2x.jpg" crc="4212839739" seo="true" ref="media"/>
-    <file name="slider-18.jpg" crc="4071519359" seo="true" ref="media"/>
-    <file name="slider-18_2x.jpg" crc="4007849670" seo="true" ref="media"/>
-    <file name="slider-19.jpg" crc="245631768" seo="true" ref="media"/>
-    <file name="slider-19_2x.jpg" crc="4214393890" seo="true" ref="media"/>
-    <file name="slider-20.jpg" crc="462625040" seo="true" ref="media"/>
-    <file name="slider-20_2x.jpg" crc="3764189495" seo="true" ref="media"/>
-    <file name="slider-21.jpg" crc="117579362" seo="true" ref="media"/>
-    <file name="slider-21_2x.jpg" crc="519264746" seo="true" ref="media"/>
-    <file name="slider-22.jpg" crc="234484583" seo="true" ref="media"/>
-    <file name="slider-22_2x.jpg" crc="321644871" seo="true" ref="media"/>
-    <file name="slider-1-crop-u1208.jpg" crc="3813726350" ref="media"/>
-    <file name="slider-1-crop-u1208_2x.jpg" crc="4017938378" ref="media"/>
-    <file name="slider-241x27.jpg" crc="134828880" seo="true" ref="media"/>
-    <file name="slider-241x27_2x.jpg" crc="3787640140" seo="true" ref="media"/>
-    <file name="slider-444x28.jpg" crc="3781573596" seo="true" ref="media"/>
-    <file name="slider-444x28_2x.jpg" crc="4198697227" seo="true" ref="media"/>
-    <file name="slider-541x27.jpg" crc="3972412933" seo="true" ref="media"/>
-    <file name="slider-541x27_2x.jpg" crc="3812799366" seo="true" ref="media"/>
-    <file name="slider-740x27.jpg" crc="3938741177" seo="true" ref="media"/>
-    <file name="slider-740x27_2x.jpg" crc="4120860127" seo="true" ref="media"/>
-    <file name="slider-841x27.jpg" crc="3920213245" seo="true" ref="media"/>
-    <file name="slider-841x27_2x.jpg" crc="311945427" seo="true" ref="media"/>
-    <file name="slider-941x27.jpg" crc="109853222" seo="true" ref="media"/>
-    <file name="slider-941x27_2x.jpg" crc="4088915855" seo="true" ref="media"/>
-    <file name="slider-1041x27.jpg" crc="498472282" seo="true" ref="media"/>
-    <file name="slider-1041x27_2x.jpg" crc="3948087566" seo="true" ref="media"/>
-    <file name="slider-1141x27.jpg" crc="211636534" seo="true" ref="media"/>
-    <file name="slider-1141x27_2x.jpg" crc="233170772" seo="true" ref="media"/>
-    <file name="slider-1340x27.jpg" crc="3912759682" seo="true" ref="media"/>
-    <file name="slider-1340x27_2x.jpg" crc="251850425" seo="true" ref="media"/>
-    <file name="slider-1542x27.jpg" crc="352121289" seo="true" ref="media"/>
-    <file name="slider-1542x27_2x.jpg" crc="163373443" seo="true" ref="media"/>
-    <file name="slider-1642x27.jpg" crc="49789643" seo="true" ref="media"/>
-    <file name="slider-1642x27_2x.jpg" crc="4072208993" seo="true" ref="media"/>
-    <file name="slider-1740x27.jpg" crc="263394908" seo="true" ref="media"/>
-    <file name="slider-1740x27_2x.jpg" crc="3987832800" seo="true" ref="media"/>
-    <file name="slider-1840x27.jpg" crc="84994917" seo="true" ref="media"/>
-    <file name="slider-1840x27_2x.jpg" crc="3881901013" seo="true" ref="media"/>
-    <file name="slider-1936x27.jpg" crc="133071298" seo="true" ref="media"/>
-    <file name="slider-1936x27_2x.jpg" crc="3860637144" seo="true" ref="media"/>
-    <file name="slider-2041x27.jpg" crc="3785623472" seo="true" ref="media"/>
-    <file name="slider-2041x27_2x.jpg" crc="4124792321" seo="true" ref="media"/>
-    <file name="slider-2141x27.jpg" crc="4179498299" seo="true" ref="media"/>
-    <file name="slider-2141x27_2x.jpg" crc="3858639928" seo="true" ref="media"/>
-    <file name="slider-2241x27.jpg" crc="4293345708" seo="true" ref="media"/>
-    <file name="slider-2241x27_2x.jpg" crc="4116094234" seo="true" ref="media"/>
-    <file name="u2373-4.png" crc="439041788" ref="media"/>
-    <file name="u2373-4_2x.png" crc="4035997481" ref="media"/>
-    <file name="anniversary-ieu2375-fr.png" crc="5450871" ref="media"/>
-    <file name="anniversary.jpg" crc="4201349539" ref="media"/>
-    <file name="anniversary-ieu2375-fr2.png" crc="147227877" ref="media"/>
-    <file name="anniversary_2x.jpg" crc="447160799" ref="media"/>
-    <file name="dscf3401.jpg" crc="4239075702" ref="media"/>
-    <file name="dscf3401_2x.jpg" crc="285561700" ref="media"/>
-    <file name="u2391-4.png" crc="298566364" ref="media"/>
-    <file name="u2391-4_2x.png" crc="58167112" ref="media"/>
-    <file name="u2393-4.png" crc="493430465" ref="media"/>
-    <file name="u2393-4_2x.png" crc="4121970881" ref="media"/>
-    <file name="favicon.ico" crc="478655589" ref="phone>index:index:media"/>
-    <file name="dscf6288.jpg" crc="140628124" seo="true" ref="media"/>
-    <file name="dscf6288_2x.jpg" crc="3856674271" seo="true" ref="media"/>
-    <file name="dscf628841x27.jpg" crc="3895975833" seo="true" ref="media"/>
-    <file name="dscf628841x27_2x.jpg" crc="227692389" seo="true" ref="media"/>
-    <file name="u164.png" crc="111812284" ref="index"/>
-    <file name="u164-r.png" crc="4124894913" ref="index"/>
-    <file name="u164_2x.png" crc="4023199867" ref="index"/>
-    <file name="u164-r_2x.png" crc="4255444793" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -423,8 +435,8 @@
     </folder>
     <file name="index.html" crc="294824913" seo="true" mt="1437581785142" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4272389167" seo="true" mt="1437616279490" redirect="true"/>
-  <file name="media.html" crc="3941755832" seo="true" mt="1437582830443" redirect="true"/>
-  <file name="leadership.html" crc="4097637313" seo="true" mt="1437582461277" redirect="true"/>
-  <file name="course.html" crc="394248367" seo="true" mt="1437582461277" redirect="true"/>
+  <file name="index.html" crc="3893284000" seo="true" mt="1437641368983" redirect="true"/>
+  <file name="media.html" crc="4246392916" seo="true" mt="1437641941338" redirect="true"/>
+  <file name="leadership.html" crc="129549076" seo="true" mt="1437641632974" redirect="true"/>
+  <file name="course.html" crc="3946166274" seo="true" mt="1437641732920" redirect="true"/>
 </manifest>
