@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437582849918">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437616324832">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_b-__.css" crc="57742920" ref="index:media:course:leadership"/>
-    <file name="index.css" crc="4098623015" ref="index"/>
+    <file name="index.css" crc="4102410761" ref="index"/>
     <file name="media.css" crc="212332174" ref="media"/>
     <file name="course.css" crc="4104538253" ref="course"/>
     <file name="leadership.css" crc="4159289706" ref="leadership"/>
@@ -34,8 +34,6 @@
     <file name="navigation logo118x61.png" crc="469171625" seo="true" ref="phone>index"/>
     <file name="navigation logo118x61_2x.png" crc="395130464" seo="true" ref="phone>index"/>
     <file name="large banner.jpg" crc="3826602296" ref="index"/>
-    <file name="navigation sign.png" crc="4224610797" seo="true" ref="index"/>
-    <file name="navigation sign_2x.png" crc="3891681119" seo="true" ref="index"/>
     <file name="navigation logo161x84.png" crc="90413581" seo="true" ref="index:media"/>
     <file name="navigation logo161x84_2x.png" crc="457371071" seo="true" ref="index:media"/>
     <file name="blank.gif" crc="4208392903" ref="index:media:leadership:course"/>
@@ -74,24 +72,24 @@
     <file name="stage.jpg" crc="4244155923" seo="true" ref="index"/>
     <file name="u309-4.png" crc="95962647" ref="index"/>
     <file name="u309-4_2x.png" crc="436018825" ref="index"/>
-    <file name="internet.jpg" crc="402018992" seo="true" ref="index"/>
-    <file name="internet_2x.jpg" crc="57789123" seo="true" ref="index"/>
-    <file name="mail.jpg" crc="38512139" seo="true" ref="index"/>
-    <file name="mail_2x.jpg" crc="45144529" seo="true" ref="index"/>
-    <file name="social.jpg" crc="437472498" seo="true" ref="index"/>
-    <file name="social_2x.jpg" crc="3947546749" seo="true" ref="index"/>
+    <file name="internet.jpg" crc="3802551165" seo="true" ref="index"/>
+    <file name="internet_2x.jpg" crc="318293753" seo="true" ref="index"/>
+    <file name="mail.jpg" crc="4291954769" seo="true" ref="index"/>
+    <file name="mail_2x.jpg" crc="204216646" seo="true" ref="index"/>
+    <file name="social.jpg" crc="216356893" seo="true" ref="index"/>
+    <file name="social_2x.jpg" crc="160173343" seo="true" ref="index"/>
     <file name="u375-4.png" crc="497434201" ref="index"/>
     <file name="u375-4_2x.png" crc="257038853" ref="index"/>
-    <file name="u354-4.png" crc="4216729176" ref="index"/>
-    <file name="u354-4_2x.png" crc="3898155180" ref="index"/>
-    <file name="u355-4.png" crc="168655613" ref="index"/>
-    <file name="u355-4_2x.png" crc="142913282" ref="index"/>
-    <file name="u356-4.png" crc="4058512403" ref="index"/>
-    <file name="u356-4_2x.png" crc="4239904243" ref="index"/>
+    <file name="u354-4.png" crc="4232877985" ref="index"/>
+    <file name="u354-4_2x.png" crc="30724187" ref="index"/>
+    <file name="u355-4.png" crc="193262834" ref="index"/>
+    <file name="u355-4_2x.png" crc="114965075" ref="index"/>
+    <file name="u356-4.png" crc="4219224449" ref="index"/>
+    <file name="u356-4_2x.png" crc="494023567" ref="index"/>
     <file name="short line.png" crc="258633909" seo="true" ref="index"/>
     <file name="short line_2x.png" crc="112547011" seo="true" ref="index"/>
-    <file name="rainbow logo-u359.png" crc="16870656" ref="index"/>
-    <file name="rainbow logo-u359_2x.png" crc="228953283" ref="index"/>
+    <file name="rainbow logo-u359.png" crc="4072177984" ref="index"/>
+    <file name="rainbow logo-u359_2x.png" crc="110188004" ref="index"/>
     <file name="guide.png" crc="4253622357" seo="true" ref="index"/>
     <file name="guide_2x.png" crc="75310604" seo="true" ref="index"/>
     <file name="u365-14.png" crc="4167845392" ref="index"/>
@@ -102,12 +100,12 @@
     <file name="800讚_2x.jpg" crc="314074695" seo="true" ref="index"/>
     <file name="tri-chart.png" crc="4123034808" seo="true" ref="index"/>
     <file name="tri-chart_2x.png" crc="104658941" seo="true" ref="index"/>
-    <file name="u417-13.png" crc="261846660" ref="index"/>
-    <file name="u417-13_2x.png" crc="4041981060" ref="index"/>
-    <file name="structure.jpg" crc="468290453" seo="true" ref="index"/>
-    <file name="structure_2x.jpg" crc="407858003" seo="true" ref="index"/>
-    <file name="map.jpg" crc="476214471" seo="true" ref="index"/>
-    <file name="map_2x.jpg" crc="466504768" seo="true" ref="index"/>
+    <file name="u417-13.png" crc="443531195" ref="index"/>
+    <file name="u417-13_2x.png" crc="219685513" ref="index"/>
+    <file name="structure.jpg" crc="3819663560" seo="true" ref="index"/>
+    <file name="structure_2x.jpg" crc="315720508" seo="true" ref="index"/>
+    <file name="map.jpg" crc="3835303504" seo="true" ref="index"/>
+    <file name="map_2x.jpg" crc="70423869" seo="true" ref="index"/>
     <file name="indicator.png" crc="4119194928" seo="true" ref="index"/>
     <file name="indicator_2x.png" crc="423485540" seo="true" ref="index"/>
     <file name="u450-9.png" crc="4276547807" ref="index"/>
@@ -414,6 +412,10 @@
     <file name="dscf6288_2x.jpg" crc="3856674271" seo="true" ref="media"/>
     <file name="dscf628841x27.jpg" crc="3895975833" seo="true" ref="media"/>
     <file name="dscf628841x27_2x.jpg" crc="227692389" seo="true" ref="media"/>
+    <file name="u164.png" crc="111812284" ref="index"/>
+    <file name="u164-r.png" crc="4124894913" ref="index"/>
+    <file name="u164_2x.png" crc="4023199867" ref="index"/>
+    <file name="u164-r_2x.png" crc="4255444793" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -421,7 +423,7 @@
     </folder>
     <file name="index.html" crc="294824913" seo="true" mt="1437581785142" redirect="true"/>
   </folder>
-  <file name="index.html" crc="379886561" seo="true" mt="1437582461277" redirect="true"/>
+  <file name="index.html" crc="4272389167" seo="true" mt="1437616279490" redirect="true"/>
   <file name="media.html" crc="3941755832" seo="true" mt="1437582830443" redirect="true"/>
   <file name="leadership.html" crc="4097637313" seo="true" mt="1437582461277" redirect="true"/>
   <file name="course.html" crc="394248367" seo="true" mt="1437582461277" redirect="true"/>
