@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.scrolleffects.js", "jquery.musemenu.js", "media.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "media.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -13,7 +13,7 @@
   <link rel="shortcut icon" href="images/favicon.ico?478655589"/>
   <title>媒體</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?453856629"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-__.css?57742920"/>
   <link rel="stylesheet" type="text/css" href="css/media.css?34966600" id="pagesheet"/>
   <!-- Other scripts -->
@@ -327,13 +327,13 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
-$('#u1156-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,0.07]},{"speed":[null,0],"in":[0.07,Infinity]}]);/* scroll effect */
+$('#u1156-bw').registerPositionScrollEffect([{"in":[-Infinity,0.07],"speed":[null,1]},{"in":[0.07,Infinity],"speed":[null,0]}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
-$('#u1159').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-0.47]},{"speed":[0,0],"in":[-0.47,Infinity]}]);/* scroll effect */
-$('#u1190').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-0.47]},{"speed":[0,0],"in":[-0.47,Infinity]}]);/* scroll effect */
+$('#u1159').registerPositionScrollEffect([{"in":[-Infinity,-0.47],"speed":[0,1]},{"in":[-0.47,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u1190').registerPositionScrollEffect([{"in":[-Infinity,-0.47],"speed":[0,1]},{"in":[-0.47,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu1161').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-0.48]},{"speed":[0,0],"in":[-0.48,Infinity]}]);/* scroll effect */
-$('#u1463').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
+$('#menuu1161').registerPositionScrollEffect([{"in":[-Infinity,-0.48],"speed":[0,1]},{"in":[-0.48,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u1463').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1]},{"in":[0,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.initWidget('#slideshowu1206', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:800,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu1206 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
