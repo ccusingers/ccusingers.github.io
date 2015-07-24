@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #A7BEBB;
+	color: #0000F3;
+	background-color: #6D986E;
 }
 
 @-ms-viewport
@@ -38,22 +38,17 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 931px;
+	min-height: 930.8499999999998px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-}
-
-#page_position_content
-{
-	margin-bottom: -4px;
-	width: 0.01px;
+	padding-bottom: 0px;
 }
 
 #u2697
 {
-	z-index: 69;
+	z-index: 71;
 	min-height: 71px;
 	background-color: #DFDFDF;
 	background-color: rgba(127,127,127,0.25);
@@ -63,7 +58,7 @@
 
 #u1411
 {
-	z-index: 72;
+	z-index: 74;
 	width: 126px;
 	background-color: transparent;
 	position: relative;
@@ -74,7 +69,7 @@
 
 #u2691
 {
-	z-index: 74;
+	z-index: 76;
 	width: 170px;
 	background-color: transparent;
 	position: relative;
@@ -85,13 +80,13 @@
 
 #u2697-bw
 {
-	z-index: 69;
+	z-index: 71;
 	min-height: 71px;
 }
 
 #pamphletu1413
 {
-	z-index: 17;
+	z-index: 19;
 	width: 0.01px;
 	height: 205px;
 	padding-bottom: 10px;
@@ -106,12 +101,12 @@
 
 #u1414popup
 {
-	z-index: 18;
+	z-index: 20;
 }
 
 #u1416
 {
-	z-index: 19;
+	z-index: 21;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -128,7 +123,7 @@
 
 #u1415
 {
-	z-index: 20;
+	z-index: 22;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -145,7 +140,7 @@
 
 #u1417
 {
-	z-index: 21;
+	z-index: 23;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -162,7 +157,7 @@
 
 #u1418
 {
-	z-index: 22;
+	z-index: 24;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -179,7 +174,7 @@
 
 #u2500
 {
-	z-index: 23;
+	z-index: 25;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -196,7 +191,7 @@
 
 #u2502
 {
-	z-index: 24;
+	z-index: 26;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -213,7 +208,7 @@
 
 #u2504
 {
-	z-index: 25;
+	z-index: 27;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -230,7 +225,7 @@
 
 #u2506
 {
-	z-index: 26;
+	z-index: 28;
 	width: 380px;
 	height: 215px;
 	border-color: #999999;
@@ -247,7 +242,7 @@
 
 #u1421
 {
-	z-index: 27;
+	z-index: 29;
 	width: 140px;
 	position: relative;
 	margin-right: -10000px;
@@ -601,7 +596,7 @@
 
 #u2605
 {
-	z-index: 16;
+	z-index: 18;
 	width: 335px;
 	-pie-box-shadow: 0px 0px 5px 1px #999999;
 	box-shadow: 0px 0px 5px rgba(0,0,0,0.4),0px 0px 5px rgba(0,0,0,0.4);
@@ -616,7 +611,7 @@
 
 #u2596
 {
-	z-index: 36;
+	z-index: 38;
 	width: 335px;
 	height: 90px;
 	border-radius: 3px 3px 0px 0px ;
@@ -633,14 +628,14 @@
 
 #u2597
 {
-	z-index: 37;
+	z-index: 39;
 	width: 335px;
 	background: #000000 url("../../images/u2597-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(#7F786B),color-stop(100%, #000000));
 	background: -webkit-linear-gradient(left,#7F786B ,#000000 100%);
 	background: linear-gradient(to right,#7F786B ,#000000 100%);
 	border-radius: 0px 0px 3px 3px ;
-	padding-bottom: 7px;
+	padding-bottom: 6px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 97px;
@@ -649,18 +644,18 @@
 
 #u2598-4
 {
-	z-index: 38;
+	z-index: 40;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
+	margin-top: 5px;
 	left: 230px;
 }
 
 #u2652
 {
-	z-index: 48;
+	z-index: 50;
 	width: 9px;
 	background-color: transparent;
 	position: relative;
@@ -671,7 +666,7 @@
 
 #u3323
 {
-	z-index: 76;
+	z-index: 78;
 	width: 350px;
 	height: 137px;
 	position: relative;
@@ -687,7 +682,7 @@
 
 #u2679
 {
-	z-index: 62;
+	z-index: 64;
 	width: 335px;
 	-pie-box-shadow: 0px 0px 5px 1px #999999;
 	box-shadow: 0px 0px 5px rgba(0,0,0,0.4),0px 0px 5px rgba(0,0,0,0.4);
@@ -702,7 +697,7 @@
 
 #u2680
 {
-	z-index: 63;
+	z-index: 65;
 	width: 335px;
 	height: 90px;
 	border-radius: 3px 3px 0px 0px ;
@@ -719,14 +714,14 @@
 
 #u2681
 {
-	z-index: 64;
+	z-index: 66;
 	width: 335px;
 	background: #000000 url("../../images/u2597-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(#7F786B),color-stop(100%, #000000));
 	background: -webkit-linear-gradient(left,#7F786B ,#000000 100%);
 	background: linear-gradient(to right,#7F786B ,#000000 100%);
 	border-radius: 0px 0px 3px 3px ;
-	padding-bottom: 6px;
+	padding-bottom: 5px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 94px;
@@ -735,18 +730,18 @@
 
 #u2682-4
 {
-	z-index: 65;
+	z-index: 67;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 6px;
 	left: 230px;
 }
 
 #u2683
 {
-	z-index: 70;
+	z-index: 72;
 	width: 9px;
 	background-color: transparent;
 	position: relative;
@@ -757,7 +752,7 @@
 
 #u3324
 {
-	z-index: 77;
+	z-index: 79;
 	width: 350px;
 	height: 137px;
 	position: relative;
@@ -766,7 +761,7 @@
 
 #u2620
 {
-	z-index: 42;
+	z-index: 44;
 	width: 335px;
 	-pie-box-shadow: 0px 0px 5px 1px #999999;
 	box-shadow: 0px 0px 5px rgba(0,0,0,0.4),0px 0px 5px rgba(0,0,0,0.4);
@@ -781,7 +776,7 @@
 
 #u2621
 {
-	z-index: 43;
+	z-index: 45;
 	width: 335px;
 	height: 90px;
 	border-radius: 3px 3px 0px 0px ;
@@ -800,14 +795,14 @@
 
 #u2622
 {
-	z-index: 44;
+	z-index: 46;
 	width: 335px;
 	background: #000000 url("../../images/u2597-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(#7F786B),color-stop(100%, #000000));
 	background: -webkit-linear-gradient(left,#7F786B ,#000000 100%);
 	background: linear-gradient(to right,#7F786B ,#000000 100%);
 	border-radius: 0px 0px 3px 3px ;
-	padding-bottom: 6px;
+	padding-bottom: 5px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 95px;
@@ -816,18 +811,18 @@
 
 #u2662-4
 {
-	z-index: 50;
+	z-index: 52;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 6px;
 	left: 230px;
 }
 
 #u2673
 {
-	z-index: 58;
+	z-index: 60;
 	width: 9px;
 	background-color: transparent;
 	position: relative;
@@ -838,7 +833,7 @@
 
 #u3325
 {
-	z-index: 78;
+	z-index: 80;
 	width: 350px;
 	height: 137px;
 	position: relative;
@@ -853,7 +848,7 @@
 
 #u2624
 {
-	z-index: 45;
+	z-index: 47;
 	width: 335px;
 	-pie-box-shadow: 0px 0px 5px 1px #999999;
 	box-shadow: 0px 0px 5px rgba(0,0,0,0.4),0px 0px 5px rgba(0,0,0,0.4);
@@ -868,7 +863,7 @@
 
 #u2625
 {
-	z-index: 46;
+	z-index: 48;
 	width: 335px;
 	height: 90px;
 	border-radius: 3px 3px 0px 0px ;
@@ -885,14 +880,14 @@
 
 #u2626
 {
-	z-index: 47;
+	z-index: 49;
 	width: 335px;
 	background: #000000 url("../../images/u2597-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(#7F786B),color-stop(100%, #000000));
 	background: -webkit-linear-gradient(left,#7F786B ,#000000 100%);
 	background: linear-gradient(to right,#7F786B ,#000000 100%);
 	border-radius: 0px 0px 3px 3px ;
-	padding-bottom: 7px;
+	padding-bottom: 6px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 97px;
@@ -901,18 +896,18 @@
 
 #u2666-4
 {
-	z-index: 54;
+	z-index: 56;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
+	margin-top: 5px;
 	left: 230px;
 }
 
 #u2676
 {
-	z-index: 60;
+	z-index: 62;
 	width: 9px;
 	background-color: transparent;
 	position: relative;
@@ -923,64 +918,58 @@
 
 #u3326
 {
-	z-index: 79;
+	z-index: 81;
 	width: 350px;
 	height: 137px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#pu2560
+#page_position_content,#pu2560
 {
 	width: 0.01px;
-	margin-top: 18px;
 }
 
 #u2560
 {
 	z-index: 2;
-	min-height: 36px;
-	padding-bottom: 29px;
+	min-height: 100.70000000000005px;
+	padding: 7px 14px 11.299999999999955px;
 }
 
 #u2561-4
 {
 	z-index: 3;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 14px;
+}
+
+#u2563-4
+{
+	z-index: 13;
+	margin-top: 53px;
 }
 
 #u2560-bw
 {
 	z-index: 2;
-	min-height: 36px;
+	min-height: 100.70000000000005px;
 }
 
-#u2562-4
+#u2562-6
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 22px;
-	left: 14px;
-}
-
-#u2563-4
-{
-	z-index: 11;
-	margin-right: -10000px;
-	margin-top: 42px;
+	margin-top: 26px;
 	left: 14px;
 }
 
 #u2564
 {
-	z-index: 15;
+	z-index: 17;
 	width: 157px;
-	height: 19px;
+	height: 30px;
 	margin-right: -10000px;
-	margin-top: 40px;
-	left: 6px;
+	margin-top: 84px;
+	left: 10px;
 }
 
 .ie #u3323,.ie #u3324,.ie #u3325,.ie #u3326,.ie #u2564
