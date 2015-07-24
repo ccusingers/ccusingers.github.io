@@ -1,6 +1,6 @@
-#u3452:active #u3453
+#u3433:active #u3435
 {
-	background: url("../../images/u3453-m.png") no-repeat 0px 0px;
+	background: url("../../images/u3435-m.png") no-repeat 0px 0px;
 }
 
 #u3459:active #u3461
@@ -8,20 +8,20 @@
 	background: url("../../images/u3461-m.png") no-repeat 0px 0px;
 }
 
+#u3452:active #u3453
+{
+	background: url("../../images/u3453-m.png") no-repeat 0px 0px;
+}
+
 #u3440:active #u3443
 {
 	background: url("../../images/u3443-m.png") no-repeat 0px 0px;
 }
 
-#u3433:active #u3435
-{
-	background: url("../../images/u3435-m.png") no-repeat 0px 0px;
-}
-
 .version.class /* version checker */
 {
-	color: #000010;
-	background-color: #81213A;
+	color: #0000E5;
+	background-color: #B7A768;
 }
 
 @-ms-viewport
@@ -656,13 +656,19 @@
 	position: relative;
 }
 
+#pu3477
+{
+	width: 0.01px;
+	margin-top: -1px;
+}
+
 #u3477
 {
 	z-index: 19;
-	min-height: 549.9181451612903px;
+	min-height: 571px;
 	background-color: #AAC29F;
 	background-color: rgba(149,179,135,0.8);
-	padding: 36px 16px 5.08185483870966px 5px;
+	padding: 36px 16px 10px 25px;
 	-pie-background: rgba(149,179,135,0.8);
 }
 
@@ -674,7 +680,7 @@
 	box-shadow: 0px 0px 4px rgba(0,0,0,0.2),0px 0px 4px rgba(0,0,0,0.2);
 	background-color: transparent;
 	border-radius: 2px;
-	margin-left: 39px;
+	margin-left: 19px;
 	position: relative;
 }
 
@@ -688,7 +694,7 @@
 	z-index: 143;
 	display: block;
 	vertical-align: top;
-	margin-left: 140px;
+	margin-left: 120px;
 	margin-top: 18px;
 	position: relative;
 }
@@ -699,7 +705,7 @@
 	width: 100px;
 	height: 2px;
 	background-color: #534741;
-	margin-left: 135px;
+	margin-left: 115px;
 	margin-top: 3px;
 	position: relative;
 }
@@ -709,29 +715,34 @@
 	z-index: 85;
 	display: block;
 	vertical-align: top;
-	margin-left: 20px;
 	margin-top: 14px;
 	position: relative;
 }
 
-#u3600
+#u3616
 {
-	z-index: 148;
-	width: 37px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #7F7F7F;
+	z-index: 149;
+	width: 36px;
 	background-color: transparent;
-	margin-top: 4px;
+	margin-left: 149px;
+	margin-top: 28px;
 	position: relative;
 }
 
 #u3477-bw
 {
 	z-index: 19;
-	min-height: 549.9181451612903px;
-	margin-top: -1px;
-	margin-bottom: -1px;
+	min-height: 571px;
+}
+
+#u3618
+{
+	z-index: 151;
+	width: 380px;
+	height: 56px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 561px;
 }
 
 #page_position_content,#pu2560
@@ -781,7 +792,7 @@
 	left: 10px;
 }
 
-.ie #u3467,.ie #u2564
+.ie #u3467,.ie #u3618,.ie #u2564
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
