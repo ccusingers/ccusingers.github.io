@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437751444211">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437753712799">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_b-__.css" crc="57742920" ref="index:course:media:leadership"/>
@@ -132,18 +132,20 @@
     <file name="800讚354x200_2x.jpg" crc="3997128212" seo="true" ref="phone>intro"/>
     <file name="u2817-4.png" crc="4162461294" ref="phone>intro"/>
     <file name="u2817-4_2x.png" crc="76914817" ref="phone>intro"/>
-    <file name="tri-chart146x215.png" crc="350883598" seo="true" ref="phone>intro"/>
-    <file name="tri-chart146x215_2x.png" crc="3838840130" seo="true" ref="phone>intro"/>
-    <file name="u2822-13.png" crc="78199016" ref="phone>intro"/>
-    <file name="u2822-13_2x.png" crc="63834249" ref="phone>intro"/>
+    <file name="tri-chart159x234.png" crc="194850793" seo="true" ref="phone>intro"/>
+    <file name="tri-chart159x234_2x.png" crc="4008529342" seo="true" ref="phone>intro"/>
+    <file name="u2822-17.png" crc="4070134414" ref="phone>intro"/>
+    <file name="u2822-17_2x.png" crc="137172941" ref="phone>intro"/>
     <file name="u2830-4.png" crc="60386816" ref="phone>intro"/>
     <file name="u2830-4_2x.png" crc="148392302" ref="phone>intro"/>
     <file name="structure380x194.png" crc="277185034" seo="true" ref="phone>intro"/>
     <file name="structure380x194_2x.png" crc="379659113" seo="true" ref="phone>intro"/>
     <file name="map352x197.jpg" crc="352317043" seo="true" ref="phone>intro"/>
     <file name="map352x197_2x.jpg" crc="4161645348" seo="true" ref="phone>intro"/>
-    <file name="indicator9x9.png" crc="3786807834" seo="true" ref="phone>intro"/>
-    <file name="indicator9x9_2x.png" crc="32505077" seo="true" ref="phone>intro"/>
+    <file name="indicator17x17.png" crc="4107585820" seo="true" ref="phone>intro"/>
+    <file name="indicator17x17_2x.png" crc="386512755" seo="true" ref="phone>intro"/>
+    <file name="arrow628.png" crc="168687732" seo="true" ref="phone>intro:phone>organization:phone>class:phone>medium"/>
+    <file name="arrow628_2x.png" crc="426664112" seo="true" ref="phone>intro:phone>organization:phone>class:phone>medium"/>
     <file name="u2838-6.png" crc="4134075930" ref="phone>intro"/>
     <file name="u2838-6_2x.png" crc="487473482" ref="phone>intro"/>
     <file name="u3407.png" crc="411739635" ref="phone>organization"/>
@@ -176,8 +178,8 @@
     <file name="u2889-4_2x.png" crc="462592337" ref="phone>organization"/>
     <file name="詳細介紹100x32.png" crc="123312007" seo="true" ref="phone>organization"/>
     <file name="詳細介紹100x32_2x.png" crc="4033908997" seo="true" ref="phone>organization"/>
-    <file name="y-t209x247.jpg" crc="192973717" seo="true" ref="phone>organization"/>
-    <file name="y-t209x247_2x.jpg" crc="264363872" seo="true" ref="phone>organization"/>
+    <file name="y-t217x257.jpg" crc="8006217" seo="true" ref="phone>organization"/>
+    <file name="y-t217x257_2x.jpg" crc="196836366" seo="true" ref="phone>organization"/>
     <file name="u2893-13.png" crc="4179733738" ref="phone>organization"/>
     <file name="u2893-13_2x.png" crc="533637438" ref="phone>organization"/>
     <file name="pantagon318x311.png" crc="4190440715" seo="true" ref="phone>organization"/>
@@ -244,8 +246,8 @@
     <file name="c1_2x.png" crc="510854937" seo="true" ref="phone>organization"/>
     <file name="u2960-4.png" crc="334913039" ref="phone>organization"/>
     <file name="u2960-4_2x.png" crc="299356099" ref="phone>organization"/>
-    <file name="u2961-8.png" crc="3782912310" ref="phone>organization"/>
-    <file name="u2961-8_2x.png" crc="3885676663" ref="phone>organization"/>
+    <file name="u2961-8.png" crc="3849099723" ref="phone>organization"/>
+    <file name="u2961-8_2x.png" crc="44792668" ref="phone>organization"/>
     <file name="c2.png" crc="4228863384" seo="true" ref="phone>organization"/>
     <file name="c2_2x.png" crc="4222019025" seo="true" ref="phone>organization"/>
     <file name="u2967-4.png" crc="3956488938" ref="phone>organization"/>
@@ -280,13 +282,13 @@
     <file name="u3461-a_2x.png" crc="3831513039" ref="phone>class"/>
     <file name="class381x136.jpg" crc="386065275" seo="true" ref="phone>class"/>
     <file name="class381x136_2x.jpg" crc="258579487" seo="true" ref="phone>class"/>
-    <file name="u3024-grad.png" crc="3879245245" ref="phone>class"/>
-    <file name="u3025-6.png" crc="3892776118" ref="phone>class"/>
-    <file name="u3025-6_2x.png" crc="4113244078" ref="phone>class"/>
-    <file name="thur129x130.png" crc="3973913417" seo="true" ref="phone>class"/>
-    <file name="thur129x130_2x.png" crc="186621756" seo="true" ref="phone>class"/>
+    <file name="u3024-grad.png" crc="3793151967" ref="phone>class"/>
+    <file name="u3025-6.png" crc="3891597274" ref="phone>class"/>
+    <file name="u3025-6_2x.png" crc="3933332954" ref="phone>class"/>
     <file name="tues129x130.png" crc="354753801" seo="true" ref="phone>class"/>
     <file name="tues129x130_2x.png" crc="344582656" seo="true" ref="phone>class"/>
+    <file name="thur129x130.png" crc="3973913417" seo="true" ref="phone>class"/>
+    <file name="thur129x130_2x.png" crc="186621756" seo="true" ref="phone>class"/>
     <file name="u3019-4.png" crc="266389763" ref="phone>class"/>
     <file name="u3019-4_2x.png" crc="3766396157" ref="phone>class"/>
     <file name="u3020-4.png" crc="356285239" ref="phone>class"/>
@@ -345,63 +347,82 @@
     <file name="onstage380x132_2x.jpg" crc="520632186" seo="true" ref="phone>medium"/>
     <file name="u3307-4.png" crc="413603309" ref="phone>medium"/>
     <file name="u3307-4_2x.png" crc="4017803176" ref="phone>medium"/>
-    <file name="slider-1.jpg" crc="3797278078" seo="true" ref="phone>medium"/>
-    <file name="slider-2.jpg" crc="343598597" seo="true" ref="phone>medium"/>
-    <file name="slider-4.jpg" crc="4265952789" seo="true" ref="phone>medium"/>
-    <file name="slider-5.jpg" crc="4157374334" seo="true" ref="phone>medium"/>
-    <file name="slider-7.jpg" crc="4152846945" seo="true" ref="phone>medium"/>
-    <file name="slider-8.jpg" crc="409105056" seo="true" ref="phone>medium"/>
-    <file name="slider-9.jpg" crc="4152001612" seo="true" ref="phone>medium"/>
-    <file name="slider-10.jpg" crc="262605218" seo="true" ref="phone>medium"/>
-    <file name="slider-11.jpg" crc="4059794572" seo="true" ref="phone>medium"/>
-    <file name="dscf6288.jpg" crc="475022435" seo="true" ref="phone>medium"/>
-    <file name="slider-13.jpg" crc="3780348718" seo="true" ref="phone>medium"/>
-    <file name="slider-15.jpg" crc="4028308030" seo="true" ref="phone>medium"/>
-    <file name="slider-16.jpg" crc="2246169" seo="true" ref="phone>medium"/>
-    <file name="slider-17.jpg" crc="4159899147" seo="true" ref="phone>medium"/>
-    <file name="slider-18.jpg" crc="22136813" seo="true" ref="phone>medium"/>
-    <file name="slider-19.jpg" crc="16946288" seo="true" ref="phone>medium"/>
-    <file name="slider-20.jpg" crc="4078581845" seo="true" ref="phone>medium"/>
-    <file name="slider-21.jpg" crc="4013389687" seo="true" ref="phone>medium"/>
-    <file name="slider-22.jpg" crc="404000264" seo="true" ref="phone>medium"/>
+    <file name="slider-1421x237.jpg" crc="92686472" seo="true" ref="phone>medium"/>
+    <file name="slider-1421x237_2x.jpg" crc="3758421489" seo="true" ref="phone>medium"/>
+    <file name="slider-2380x251.jpg" crc="369254136" seo="true" ref="phone>medium"/>
+    <file name="slider-2380x251_2x.jpg" crc="3836988635" seo="true" ref="phone>medium"/>
+    <file name="slider-4380x238.jpg" crc="123363138" seo="true" ref="phone>medium"/>
+    <file name="slider-4380x238_2x.jpg" crc="72877940" seo="true" ref="phone>medium"/>
+    <file name="slider-5380x251.jpg" crc="271768238" seo="true" ref="phone>medium"/>
+    <file name="slider-5380x251_2x.jpg" crc="4270565351" seo="true" ref="phone>medium"/>
+    <file name="slider-7380x262.jpg" crc="409107838" seo="true" ref="phone>medium"/>
+    <file name="slider-7380x262_2x.jpg" crc="3913235813" seo="true" ref="phone>medium"/>
+    <file name="slider-8380x254.jpg" crc="367429222" seo="true" ref="phone>medium"/>
+    <file name="slider-8380x254_2x.jpg" crc="152027633" seo="true" ref="phone>medium"/>
+    <file name="slider-9380x254.jpg" crc="3894266735" seo="true" ref="phone>medium"/>
+    <file name="slider-9380x254_2x.jpg" crc="506337960" seo="true" ref="phone>medium"/>
+    <file name="slider-10380x254.jpg" crc="4134958439" seo="true" ref="phone>medium"/>
+    <file name="slider-10380x254_2x.jpg" crc="21570320" seo="true" ref="phone>medium"/>
+    <file name="slider-11380x254.jpg" crc="3963670198" seo="true" ref="phone>medium"/>
+    <file name="slider-11380x254_2x.jpg" crc="3804386794" seo="true" ref="phone>medium"/>
+    <file name="dscf6288380x252.jpg" crc="40223218" seo="true" ref="phone>medium"/>
+    <file name="dscf6288380x252_2x.jpg" crc="4119435855" seo="true" ref="phone>medium"/>
+    <file name="slider-13380x261.jpg" crc="131019201" seo="true" ref="phone>medium"/>
+    <file name="slider-13380x261_2x.jpg" crc="235114970" seo="true" ref="phone>medium"/>
+    <file name="slider-15380x247.jpg" crc="160288154" seo="true" ref="phone>medium"/>
+    <file name="slider-15380x247_2x.jpg" crc="4178022857" seo="true" ref="phone>medium"/>
+    <file name="slider-16380x245.jpg" crc="317330743" seo="true" ref="phone>medium"/>
+    <file name="slider-16380x245_2x.jpg" crc="3907592369" seo="true" ref="phone>medium"/>
+    <file name="slider-17380x260.jpg" crc="153878437" seo="true" ref="phone>medium"/>
+    <file name="slider-17380x260_2x.jpg" crc="481390795" seo="true" ref="phone>medium"/>
+    <file name="slider-18380x261.jpg" crc="4133785563" seo="true" ref="phone>medium"/>
+    <file name="slider-18380x261_2x.jpg" crc="384748714" seo="true" ref="phone>medium"/>
+    <file name="slider-19380x286.jpg" crc="483516384" seo="true" ref="phone>medium"/>
+    <file name="slider-19380x286_2x.jpg" crc="4239870939" seo="true" ref="phone>medium"/>
+    <file name="slider-20380x255.jpg" crc="4059336176" seo="true" ref="phone>medium"/>
+    <file name="slider-20380x255_2x.jpg" crc="189879233" seo="true" ref="phone>medium"/>
+    <file name="slider-21380x254.jpg" crc="4171637198" seo="true" ref="phone>medium"/>
+    <file name="slider-21380x254_2x.jpg" crc="3805934876" seo="true" ref="phone>medium"/>
+    <file name="slider-22380x254.jpg" crc="482987633" seo="true" ref="phone>medium"/>
+    <file name="slider-22380x254_2x.jpg" crc="77586537" seo="true" ref="phone>medium"/>
     <file name="slider-127x15.jpg" crc="498217354" seo="true" ref="phone>medium"/>
     <file name="slider-127x15_2x.jpg" crc="340758327" seo="true" ref="phone>medium"/>
-    <file name="slider-224x16.jpg" crc="406362055" seo="true" ref="phone>medium"/>
-    <file name="slider-224x16_2x.jpg" crc="97743086" seo="true" ref="phone>medium"/>
-    <file name="slider-424x16.jpg" crc="367560001" seo="true" ref="phone>medium"/>
-    <file name="slider-424x16_2x.jpg" crc="3825420145" seo="true" ref="phone>medium"/>
+    <file name="slider-224x16.jpg" crc="110327205" seo="true" ref="phone>medium"/>
+    <file name="slider-224x16_2x.jpg" crc="4159442431" seo="true" ref="phone>medium"/>
+    <file name="slider-424x16.jpg" crc="4270698255" seo="true" ref="phone>medium"/>
+    <file name="slider-424x16_2x.jpg" crc="3764593251" seo="true" ref="phone>medium"/>
     <file name="slider-524x16.jpg" crc="433457287" seo="true" ref="phone>medium"/>
     <file name="slider-524x16_2x.jpg" crc="4255011875" seo="true" ref="phone>medium"/>
     <file name="slider-724x17.jpg" crc="220568883" seo="true" ref="phone>medium"/>
     <file name="slider-724x17_2x.jpg" crc="3966804702" seo="true" ref="phone>medium"/>
-    <file name="slider-824x16.jpg" crc="92294653" seo="true" ref="phone>medium"/>
-    <file name="slider-824x16_2x.jpg" crc="202251042" seo="true" ref="phone>medium"/>
-    <file name="slider-924x16.jpg" crc="69749601" seo="true" ref="phone>medium"/>
-    <file name="slider-924x16_2x.jpg" crc="270464637" seo="true" ref="phone>medium"/>
-    <file name="slider-1024x16.jpg" crc="31599292" seo="true" ref="phone>medium"/>
-    <file name="slider-1024x16_2x.jpg" crc="179821416" seo="true" ref="phone>medium"/>
-    <file name="slider-1124x16.jpg" crc="3987832336" seo="true" ref="phone>medium"/>
-    <file name="slider-1124x16_2x.jpg" crc="4116482873" seo="true" ref="phone>medium"/>
-    <file name="dscf628824x16.jpg" crc="4115342489" seo="true" ref="phone>medium"/>
-    <file name="dscf628824x16_2x.jpg" crc="81868664" seo="true" ref="phone>medium"/>
-    <file name="slider-1324x17.jpg" crc="319858270" seo="true" ref="phone>medium"/>
-    <file name="slider-1324x17_2x.jpg" crc="3933114256" seo="true" ref="phone>medium"/>
+    <file name="slider-824x16.jpg" crc="250104211" seo="true" ref="phone>medium"/>
+    <file name="slider-824x16_2x.jpg" crc="4004306413" seo="true" ref="phone>medium"/>
+    <file name="slider-924x16.jpg" crc="4136597873" seo="true" ref="phone>medium"/>
+    <file name="slider-924x16_2x.jpg" crc="3809276113" seo="true" ref="phone>medium"/>
+    <file name="slider-1024x16.jpg" crc="179993027" seo="true" ref="phone>medium"/>
+    <file name="slider-1024x16_2x.jpg" crc="3784875852" seo="true" ref="phone>medium"/>
+    <file name="slider-1124x16.jpg" crc="3977010166" seo="true" ref="phone>medium"/>
+    <file name="slider-1124x16_2x.jpg" crc="3986095586" seo="true" ref="phone>medium"/>
+    <file name="dscf628824x16.jpg" crc="3804896120" seo="true" ref="phone>medium"/>
+    <file name="dscf628824x16_2x.jpg" crc="411128811" seo="true" ref="phone>medium"/>
+    <file name="slider-1324x17.jpg" crc="3974009858" seo="true" ref="phone>medium"/>
+    <file name="slider-1324x17_2x.jpg" crc="4000471504" seo="true" ref="phone>medium"/>
     <file name="slider-1524x16.jpg" crc="267529051" seo="true" ref="phone>medium"/>
     <file name="slider-1524x16_2x.jpg" crc="3814827882" seo="true" ref="phone>medium"/>
-    <file name="slider-1624x16.jpg" crc="158934808" seo="true" ref="phone>medium"/>
-    <file name="slider-1624x16_2x.jpg" crc="208052775" seo="true" ref="phone>medium"/>
-    <file name="slider-1724x17.jpg" crc="119189542" seo="true" ref="phone>medium"/>
-    <file name="slider-1724x17_2x.jpg" crc="4234043980" seo="true" ref="phone>medium"/>
+    <file name="slider-1624x16.jpg" crc="510842724" seo="true" ref="phone>medium"/>
+    <file name="slider-1624x16_2x.jpg" crc="4024264894" seo="true" ref="phone>medium"/>
+    <file name="slider-1724x17.jpg" crc="4047663367" seo="true" ref="phone>medium"/>
+    <file name="slider-1724x17_2x.jpg" crc="3909662797" seo="true" ref="phone>medium"/>
     <file name="slider-1824x17.jpg" crc="94797453" seo="true" ref="phone>medium"/>
     <file name="slider-1824x17_2x.jpg" crc="171034505" seo="true" ref="phone>medium"/>
-    <file name="slider-1924x19.jpg" crc="4208489256" seo="true" ref="phone>medium"/>
-    <file name="slider-1924x19_2x.jpg" crc="4020792034" seo="true" ref="phone>medium"/>
-    <file name="slider-2024x17.jpg" crc="348256646" seo="true" ref="phone>medium"/>
-    <file name="slider-2024x17_2x.jpg" crc="145522841" seo="true" ref="phone>medium"/>
-    <file name="slider-2124x17.jpg" crc="398187554" seo="true" ref="phone>medium"/>
-    <file name="slider-2124x17_2x.jpg" crc="136346043" seo="true" ref="phone>medium"/>
-    <file name="slider-2224x16.jpg" crc="77362213" seo="true" ref="phone>medium"/>
-    <file name="slider-2224x16_2x.jpg" crc="4045579368" seo="true" ref="phone>medium"/>
+    <file name="slider-1924x19.jpg" crc="59323924" seo="true" ref="phone>medium"/>
+    <file name="slider-1924x19_2x.jpg" crc="4132980517" seo="true" ref="phone>medium"/>
+    <file name="slider-2024x17.jpg" crc="320152491" seo="true" ref="phone>medium"/>
+    <file name="slider-2024x17_2x.jpg" crc="4100078624" seo="true" ref="phone>medium"/>
+    <file name="slider-2124x17.jpg" crc="3871479916" seo="true" ref="phone>medium"/>
+    <file name="slider-2124x17_2x.jpg" crc="3863315814" seo="true" ref="phone>medium"/>
+    <file name="slider-2224x16.jpg" crc="4197632478" seo="true" ref="phone>medium"/>
+    <file name="slider-2224x16_2x.jpg" crc="152702908" seo="true" ref="phone>medium"/>
     <file name="loading.gif" crc="3815509949" ref="phone>medium:media"/>
     <file name="u3571-4.png" crc="513578254" ref="phone>medium"/>
     <file name="u3571-4_2x.png" crc="3848543586" ref="phone>medium"/>
@@ -545,50 +566,50 @@
     <file name="onstage_2x.jpg" crc="331759176" seo="true" ref="media"/>
     <file name="u1205-4.png" crc="3924936333" ref="media"/>
     <file name="u1205-4_2x.png" crc="425325913" ref="media"/>
-    <file name="slider-12.jpg" crc="387858815" seo="true" ref="media"/>
+    <file name="slider-1.jpg" crc="387858815" seo="true" ref="media"/>
     <file name="slider-1_2x.jpg" crc="4011445729" seo="true" ref="media"/>
-    <file name="slider-23.jpg" crc="533249740" seo="true" ref="media"/>
-    <file name="slider-2_2x.jpg" crc="333448825" seo="true" ref="media"/>
-    <file name="slider-42.jpg" crc="4002977621" seo="true" ref="media"/>
-    <file name="slider-4_2x.jpg" crc="131010583" seo="true" ref="media"/>
-    <file name="slider-52.jpg" crc="3933123921" seo="true" ref="media"/>
+    <file name="slider-2.jpg" crc="132610728" seo="true" ref="media"/>
+    <file name="slider-2_2x.jpg" crc="4072640663" seo="true" ref="media"/>
+    <file name="slider-4.jpg" crc="429166865" seo="true" ref="media"/>
+    <file name="slider-4_2x.jpg" crc="3928183414" seo="true" ref="media"/>
+    <file name="slider-5.jpg" crc="3933123921" seo="true" ref="media"/>
     <file name="slider-5_2x.jpg" crc="4256969252" seo="true" ref="media"/>
-    <file name="slider-72.jpg" crc="4211000409" seo="true" ref="media"/>
+    <file name="slider-7.jpg" crc="4211000409" seo="true" ref="media"/>
     <file name="slider-7_2x.jpg" crc="25561346" seo="true" ref="media"/>
-    <file name="slider-82.jpg" crc="217203978" seo="true" ref="media"/>
-    <file name="slider-8_2x.jpg" crc="3817858387" seo="true" ref="media"/>
-    <file name="slider-92.jpg" crc="4206243733" seo="true" ref="media"/>
-    <file name="slider-9_2x.jpg" crc="4159326709" seo="true" ref="media"/>
-    <file name="slider-102.jpg" crc="192814376" seo="true" ref="media"/>
-    <file name="slider-10_2x.jpg" crc="3761461130" seo="true" ref="media"/>
-    <file name="slider-112.jpg" crc="3974808430" seo="true" ref="media"/>
-    <file name="slider-11_2x.jpg" crc="31541583" seo="true" ref="media"/>
-    <file name="dscf62882.jpg" crc="242033581" seo="true" ref="media"/>
-    <file name="dscf6288_2x.jpg" crc="3860797671" seo="true" ref="media"/>
-    <file name="slider-132.jpg" crc="260914430" seo="true" ref="media"/>
-    <file name="slider-13_2x.jpg" crc="48459324" seo="true" ref="media"/>
-    <file name="slider-152.jpg" crc="4188632742" seo="true" ref="media"/>
+    <file name="slider-8.jpg" crc="4153496523" seo="true" ref="media"/>
+    <file name="slider-8_2x.jpg" crc="468199533" seo="true" ref="media"/>
+    <file name="slider-9.jpg" crc="3860436802" seo="true" ref="media"/>
+    <file name="slider-9_2x.jpg" crc="3825909707" seo="true" ref="media"/>
+    <file name="slider-10.jpg" crc="3770850996" seo="true" ref="media"/>
+    <file name="slider-10_2x.jpg" crc="370849451" seo="true" ref="media"/>
+    <file name="slider-11.jpg" crc="117118524" seo="true" ref="media"/>
+    <file name="slider-11_2x.jpg" crc="4290415478" seo="true" ref="media"/>
+    <file name="dscf6288.jpg" crc="4203907590" seo="true" ref="media"/>
+    <file name="dscf6288_2x.jpg" crc="4179150267" seo="true" ref="media"/>
+    <file name="slider-13.jpg" crc="3998168533" seo="true" ref="media"/>
+    <file name="slider-13_2x.jpg" crc="3966270539" seo="true" ref="media"/>
+    <file name="slider-15.jpg" crc="4188632742" seo="true" ref="media"/>
     <file name="slider-15_2x.jpg" crc="4216186524" seo="true" ref="media"/>
-    <file name="slider-162.jpg" crc="521126249" seo="true" ref="media"/>
-    <file name="slider-16_2x.jpg" crc="101059112" seo="true" ref="media"/>
-    <file name="slider-172.jpg" crc="259246395" seo="true" ref="media"/>
-    <file name="slider-17_2x.jpg" crc="4019012778" seo="true" ref="media"/>
-    <file name="slider-182.jpg" crc="4071519359" seo="true" ref="media"/>
+    <file name="slider-16.jpg" crc="4122841858" seo="true" ref="media"/>
+    <file name="slider-16_2x.jpg" crc="3819909939" seo="true" ref="media"/>
+    <file name="slider-17.jpg" crc="4198356790" seo="true" ref="media"/>
+    <file name="slider-17_2x.jpg" crc="445256722" seo="true" ref="media"/>
+    <file name="slider-18.jpg" crc="4071519359" seo="true" ref="media"/>
     <file name="slider-18_2x.jpg" crc="4007849670" seo="true" ref="media"/>
-    <file name="slider-192.jpg" crc="3902835550" seo="true" ref="media"/>
+    <file name="slider-19.jpg" crc="95340646" seo="true" ref="media"/>
     <file name="slider-19_2x.jpg" crc="261656092" seo="true" ref="media"/>
-    <file name="slider-202.jpg" crc="3848831930" seo="true" ref="media"/>
-    <file name="slider-20_2x.jpg" crc="184807290" seo="true" ref="media"/>
-    <file name="slider-212.jpg" crc="380966171" seo="true" ref="media"/>
-    <file name="slider-21_2x.jpg" crc="4017252216" seo="true" ref="media"/>
-    <file name="slider-222.jpg" crc="266534578" seo="true" ref="media"/>
-    <file name="slider-22_2x.jpg" crc="3972929489" seo="true" ref="media"/>
+    <file name="slider-20.jpg" crc="3994931893" seo="true" ref="media"/>
+    <file name="slider-20_2x.jpg" crc="3838411948" seo="true" ref="media"/>
+    <file name="slider-21.jpg" crc="389666990" seo="true" ref="media"/>
+    <file name="slider-21_2x.jpg" crc="188719024" seo="true" ref="media"/>
+    <file name="slider-22.jpg" crc="78715129" seo="true" ref="media"/>
+    <file name="slider-22_2x.jpg" crc="3931583338" seo="true" ref="media"/>
     <file name="slider-1-crop-u1208.jpg" crc="3763329026" ref="media"/>
     <file name="slider-1-crop-u1208_2x.jpg" crc="461720797" ref="media"/>
     <file name="slider-2-crop-u2160.jpg" crc="4129208234" ref="media"/>
     <file name="slider-2-crop-u2160_2x.jpg" crc="502854571" ref="media"/>
     <file name="slider-4-crop-u2169.jpg" crc="439837458" ref="media"/>
-    <file name="slider-4-crop-u2169_2x.jpg" crc="3857738176" ref="media"/>
+    <file name="slider-4-crop-u2169_2x.jpg" crc="3981684037" ref="media"/>
     <file name="slider-5-crop-u2178.jpg" crc="3866219986" ref="media"/>
     <file name="slider-5-crop-u2178_2x.jpg" crc="3920931235" ref="media"/>
     <file name="slider-7-crop-u2196.jpg" crc="74277361" ref="media"/>
@@ -608,13 +629,13 @@
     <file name="slider-15-crop-u2259.jpg" crc="4073641978" ref="media"/>
     <file name="slider-15-crop-u2259_2x.jpg" crc="3878582944" ref="media"/>
     <file name="slider-16-crop-u2268.jpg" crc="4145955124" ref="media"/>
-    <file name="slider-16-crop-u2268_2x.jpg" crc="386216178" ref="media"/>
+    <file name="slider-16-crop-u2268_2x.jpg" crc="133765836" ref="media"/>
     <file name="slider-17-crop-u2277.jpg" crc="40362627" ref="media"/>
     <file name="slider-17-crop-u2277_2x.jpg" crc="163551632" ref="media"/>
     <file name="slider-18-crop-u2286.jpg" crc="3868916952" ref="media"/>
     <file name="slider-18-crop-u2286_2x.jpg" crc="4207084996" ref="media"/>
-    <file name="slider-1944x33.jpg" crc="3965488121" seo="true" ref="media"/>
-    <file name="slider-1944x33_2x.jpg" crc="3984221685" seo="true" ref="media"/>
+    <file name="slider-1944x33.jpg" crc="394794639" seo="true" ref="media"/>
+    <file name="slider-1944x33_2x.jpg" crc="3943925378" seo="true" ref="media"/>
     <file name="slider-20-crop-u2304.jpg" crc="429094021" ref="media"/>
     <file name="slider-20-crop-u2304_2x.jpg" crc="466480323" ref="media"/>
     <file name="slider-21-crop-u2313.jpg" crc="36616667" ref="media"/>
@@ -809,20 +830,20 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-__.css" crc="4083259686" ref="phone>class:phone>index:phone>organization:phone>medium:phone>intro"/>
-      <file name="class.css" crc="4080554987" ref="phone>class"/>
+      <file name="class.css" crc="276898106" ref="phone>class"/>
       <file name="index.css" crc="4084045934" ref="phone>index"/>
-      <file name="organization.css" crc="396928172" ref="phone>organization"/>
-      <file name="medium.css" crc="2849121" ref="phone>medium"/>
-      <file name="intro.css" crc="3995812059" ref="phone>intro"/>
+      <file name="organization.css" crc="4159768370" ref="phone>organization"/>
+      <file name="medium.css" crc="4136458118" ref="phone>medium"/>
+      <file name="intro.css" crc="147283575" ref="phone>intro"/>
     </folder>
     <file name="index.html" crc="424851197" seo="true" mt="1437745378964" redirect="true"/>
-    <file name="intro.html" crc="358467806" seo="true" mt="1437751302329" redirect="true"/>
-    <file name="organization.html" crc="306829228" seo="true" mt="1437749954791" redirect="true"/>
-    <file name="class.html" crc="176929827" seo="true" mt="1437745378964" redirect="true"/>
-    <file name="medium.html" crc="335112590" seo="true" mt="1437751063952" redirect="true"/>
+    <file name="intro.html" crc="458194828" seo="true" mt="1437753161065" redirect="true"/>
+    <file name="organization.html" crc="198721582" seo="true" mt="1437753402928" redirect="true"/>
+    <file name="class.html" crc="3854510099" seo="true" mt="1437753531925" redirect="true"/>
+    <file name="medium.html" crc="409382287" seo="true" mt="1437753602425" redirect="true"/>
   </folder>
   <file name="index.html" crc="226695686" seo="true" mt="1437751116690" redirect="true"/>
-  <file name="media.html" crc="420268098" seo="true" mt="1437745691565" redirect="true"/>
+  <file name="media.html" crc="161692779" seo="true" mt="1437745691565" redirect="true"/>
   <file name="leadership.html" crc="4181584997" seo="true" mt="1437641632974" redirect="true"/>
   <file name="course.html" crc="3790897205" seo="true" mt="1437730504439" redirect="true"/>
 </manifest>
