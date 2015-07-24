@@ -5,6 +5,9 @@
     <loc>http://ccusingers.github.io/</loc>
     <changefreq>Weekly</changefreq>
     <image:image>
+      <image:loc>http://ccusingers.github.io/images/up164-u2646.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://ccusingers.github.io/images/navigation logo161x84.png</image:loc>
     </image:image>
     <image:image>
@@ -19,17 +22,6 @@
       <image:loc>http://ccusingers.github.io/images/u309-4.png</image:loc>
       <image:title>音樂，因團結而有力量。中正聲樂社，為愛而唱。 </image:title>
       <image:caption>音樂，因團結而有力量。中正聲樂社，為愛而唱。 </image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/internet.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/mail.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/social.jpg</image:loc>
-      <image:title>中正聲樂社粉絲專頁</image:title>
-      <image:caption>中正聲樂社粉絲專頁</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/u375-4.png</image:loc>
@@ -55,20 +47,35 @@
       <image:caption>臉書私訊報名</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/short line.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://ccusingers.github.io/images/rainbow logo-u359.png</image:loc>
       <image:title>中正聲樂社</image:title>
       <image:caption>中正聲樂社</image:caption>
     </image:image>
     <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2455-9.png</image:loc>
+      <image:title>"如果你是一張白紙，聲樂社會讓你變成一架飛機，</image:title>
+      <image:caption>"如果你是一張白紙，聲樂社會讓你變成一架飛機，</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2456-4.png</image:loc>
+      <image:title>藍色紙飛機的秘密</image:title>
+      <image:caption>藍色紙飛機的秘密</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>http://ccusingers.github.io/images/guide.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/u365-14.png</image:loc>
-      <image:title>"如果你是一張白紙，</image:title>
-      <image:caption>"如果你是一張白紙，</image:caption>
+      <image:loc>http://ccusingers.github.io/images/u365-13.png</image:loc>
+      <image:title>"聲樂社的logo是由鄭喬瑋先生所設計。</image:title>
+      <image:caption>"聲樂社的logo是由鄭喬瑋先生所設計。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2457-4.png</image:loc>
+      <image:title>We are CCU Singers</image:title>
+      <image:caption>We are CCU Singers</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/short line.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/u388-6.png</image:loc>
@@ -82,12 +89,17 @@
       <image:loc>http://ccusingers.github.io/images/tri-chart.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/u417-13.png</image:loc>
-      <image:title>國立中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績！ </image:title>
-      <image:caption>國立中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績！ </image:caption>
+      <image:loc>http://ccusingers.github.io/images/u417-16.png</image:loc>
+      <image:title>國立中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。 聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績。 </image:title>
+      <image:caption>國立中正大學聲樂社創立於2013年12月25日，成立於2014年5月13日，取名CCU Singers，簡稱中正聲樂社。 社團分成行政與音樂團隊，並由最高領導核心—團員大會選出社長。 聲樂社平時除了固定的社課外，團員還可自由選修個別聲樂課，透過加強訓練提升自己的實力。 平時，除了演唱合唱、獨唱、無伴奏等不同的音樂類型外，也會嘗試流行、古典等不同曲風的樂曲。 中正聲樂社在2015年，代表國立中正大學參加第十屆正興城灣盃第一屆a cappella大賽，取得第二名佳績。 </image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/structure.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/u2459-4.png</image:loc>
+      <image:title>細膩，只為了專注每個細節...</image:title>
+      <image:caption>細膩，只為了專注每個細節...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/structure.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/map.jpg</image:loc>
@@ -114,12 +126,6 @@
       <image:loc>http://ccusingers.github.io/images/u454-4.png</image:loc>
       <image:title>ccusingers.guithub.io</image:title>
       <image:caption>ccusingers.guithub.io</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u164-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u164-r_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/u214-r.png</image:loc>
@@ -192,6 +198,24 @@
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/u207-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2435-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2435-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2441-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2441-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2447-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u2447-r_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -549,58 +573,58 @@
       <image:loc>http://ccusingers.github.io/images/slider-1-crop-u1208.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-241x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-2-crop-u2160.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-444x28.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-4-crop-u2169.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-541x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-5-crop-u2178.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-740x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-7-crop-u2196.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-841x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-8-crop-u2205.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-941x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-9-crop-u2214.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1041x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-10-crop-u2223.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1141x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-11-crop-u2232.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/dscf628841x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/dscf6288-crop-u2413.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1340x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-13-crop-u2250.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1542x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-15-crop-u2259.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1642x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-16-crop-u2268.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1740x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-17-crop-u2277.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1840x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-18-crop-u2286.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-1936x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-1944x33.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-2041x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-20-crop-u2304.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-2141x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-21-crop-u2313.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/slider-2241x27.jpg</image:loc>
+      <image:loc>http://ccusingers.github.io/images/slider-22-crop-u2322.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ccusingers.github.io/images/u2373-4.png</image:loc>
@@ -613,7 +637,7 @@
       <image:caption>中正聲樂社-Happy Birthday!</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://ccusingers.github.io/images/u2393-4.png</image:loc>
+      <image:loc>http://ccusingers.github.io/images/u2496-4.png</image:loc>
       <image:title>第二屆公演「我們就要唱歌」</image:title>
       <image:caption>第二屆公演「我們就要唱歌」</image:caption>
     </image:image>
@@ -856,5 +880,5 @@
     </image:image>
   </url>
 </urlset>
-<!--<guid value="0b3cbe6f-9052-4924-bbae-4edb682f6a3c" />-->
+<!--<guid value="53c42f4a-fb02-4295-94b3-0ce79ba59413" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
