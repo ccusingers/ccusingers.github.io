@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000ED;
-	background-color: #0B52F5;
+	color: #0000EE;
+	background-color: #84FCC8;
 }
 
 .html
@@ -724,12 +724,21 @@
 #u2455-9
 {
 	z-index: 120;
-	display: block;
-	vertical-align: top;
+	width: 522px;
+	min-height: 39px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 27px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 63px;
 	left: 423px;
+}
+
+#u2455-7
+{
+	font-weight: bold;
 }
 
 #u2456-4

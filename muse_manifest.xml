@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437790196276">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437792033013">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
     <file name="master_main.css" crc="57742920" ref="index:course:leadership:media"/>
-    <file name="index.css" crc="3976942325" ref="index"/>
+    <file name="index.css" crc="4001692872" ref="index"/>
     <file name="course.css" crc="4234468575" ref="course"/>
     <file name="leadership.css" crc="301947810" ref="leadership"/>
     <file name="media.css" crc="4157061515" ref="media"/>
@@ -500,8 +500,6 @@
     <file name="u2447-r_2x.png" crc="225410125" ref="index"/>
     <file name="rainbow logo-u359.png" crc="4215719154" ref="index"/>
     <file name="rainbow logo-u359_2x.png" crc="3887916771" ref="index"/>
-    <file name="u2455-9.png" crc="3821373900" ref="index"/>
-    <file name="u2455-9_2x.png" crc="101896723" ref="index"/>
     <file name="u2456-4.png" crc="330148249" ref="index"/>
     <file name="u2456-4_2x.png" crc="4257169545" ref="index"/>
     <file name="guide.png" crc="3994271862" seo="true" ref="index"/>
@@ -842,8 +840,8 @@
     <file name="class.html" crc="3844073358" seo="true" mt="1437790128489" redirect="true"/>
     <file name="medium.html" crc="400731166" seo="true" mt="1437790128489" redirect="true"/>
   </folder>
-  <file name="index.html" crc="78964632" seo="true" mt="1437789659671" redirect="true"/>
-  <file name="media.html" crc="315247379" seo="true" mt="1437789697530" redirect="true"/>
-  <file name="leadership.html" crc="29636999" seo="true" mt="1437789674459" redirect="true"/>
-  <file name="course.html" crc="4181426801" seo="true" mt="1437789685781" redirect="true"/>
+  <file name="index.html" crc="4143829965" seo="true" mt="1437791990830" redirect="true"/>
+  <file name="media.html" crc="200981156" seo="true" mt="1437791516574" redirect="true"/>
+  <file name="leadership.html" crc="4289585254" seo="true" mt="1437791507859" redirect="true"/>
+  <file name="course.html" crc="373011908" seo="true" mt="1437791511868" redirect="true"/>
 </manifest>
