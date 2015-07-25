@@ -127,7 +127,7 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #000000;
 	direction: ltr;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-family: sourcehansans-tc;
 	font-size: 14px;
 	font-style: normal;
 	font-weight: normal;
