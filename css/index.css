@@ -20,9 +20,14 @@
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: "sourcehansans-tc";
 }
+.content {
 
+      font-family: "sourcehansans-tc";
+
+      font-weight: "200";
+
+}
 #page_position_content
 {
 	margin-bottom: -99px;
