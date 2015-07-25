@@ -3,6 +3,11 @@
 	background: url("../../images/u3435-m.png") no-repeat 0px 0px;
 }
 
+#u3459:active #u3461
+{
+	background: url("../../images/u3461-m.png") no-repeat 0px 0px;
+}
+
 #u3452:active #u3453
 {
 	background: url("../../images/u3453-m.png") no-repeat 0px 0px;
@@ -13,15 +18,10 @@
 	background: url("../../images/u3443-m.png") no-repeat 0px 0px;
 }
 
-#u3459:active #u3461
-{
-	background: url("../../images/u3461-m.png") no-repeat 0px 0px;
-}
-
 .version.class /* version checker */
 {
-	color: #0000E6;
-	background-color: #E2CAF2;
+	color: #000016;
+	background-color: #458DB6;
 }
 
 @-ms-viewport
@@ -58,7 +58,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 2996.524999999981px;
+	min-height: 2996.52499999998px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -79,7 +79,7 @@
 
 #u3427
 {
-	z-index: 97;
+	z-index: 99;
 	width: 126px;
 	background-color: transparent;
 	position: relative;
@@ -90,7 +90,7 @@
 
 #u3467
 {
-	z-index: 132;
+	z-index: 134;
 	width: 317px;
 	height: 9px;
 	position: relative;
@@ -107,7 +107,7 @@
 
 #menuu3429
 {
-	z-index: 99;
+	z-index: 101;
 	width: 349px;
 	border-style: none;
 	border-color: transparent;
@@ -401,7 +401,7 @@
 
 #u3465
 {
-	z-index: 130;
+	z-index: 132;
 	width: 380px;
 	background-color: transparent;
 	margin-top: 5px;
@@ -429,13 +429,15 @@
 #u3024
 {
 	z-index: 18;
-	min-height: 234.67690251073105px;
+	width: 380px;
 	background: transparent url("../../images/u3024-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0)),color-stop(36%, rgba(198,156,109,0.2)));
-	background: -webkit-linear-gradient(top,rgba(255,255,255,0) ,rgba(198,156,109,0.2) 36%);
-	background: linear-gradient(to bottom,rgba(255,255,255,0) ,rgba(198,156,109,0.2) 36%);
-	padding-top: 22px;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0)),color-stop(26%, rgba(198,156,109,0.2)));
+	background: -webkit-linear-gradient(top,rgba(255,255,255,0) ,rgba(198,156,109,0.2) 26%);
+	background: linear-gradient(to bottom,rgba(255,255,255,0) ,rgba(198,156,109,0.2) 26%);
+	padding-top: 19px;
 	padding-bottom: 20.323097489268946px;
+	margin-top: 1px;
+	position: relative;
 }
 
 #u3025-6
@@ -448,11 +450,11 @@
 
 #u3717
 {
-	z-index: 152;
+	z-index: 154;
 	width: 342px;
 	background-color: transparent;
 	margin-left: 19px;
-	margin-top: 13px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -461,7 +463,6 @@
 	width: 0.01px;
 	margin-left: 44px;
 	margin-top: 17px;
-	position: relative;
 }
 
 #u3017
@@ -488,7 +489,6 @@
 	width: 0.01px;
 	margin-left: 48px;
 	margin-top: 1px;
-	position: relative;
 }
 
 #u3019-4
@@ -510,20 +510,14 @@
 	left: 173px;
 }
 
-#u3024-bw
-{
-	z-index: 18;
-	min-height: 234.67690251073105px;
-	margin-top: 1px;
-}
-
 #u3470
 {
 	z-index: 22;
-	min-height: 607px;
+	width: 320px;
 	background-color: #DFD4D4;
 	background-color: rgba(216,202,202,0.8);
-	padding: 33px 25px 24px 35px;
+	position: relative;
+	padding: 33px 25px 41px 35px;
 	-pie-background: rgba(216,202,202,0.8);
 }
 
@@ -544,13 +538,13 @@
 	display: block;
 	vertical-align: top;
 	margin-left: 116px;
-	margin-top: 16px;
+	margin-top: 26px;
 	position: relative;
 }
 
 #u3048
 {
-	z-index: 70;
+	z-index: 72;
 	width: 100px;
 	height: 2px;
 	background-color: #534741;
@@ -564,22 +558,17 @@
 	z-index: 45;
 	display: block;
 	vertical-align: top;
-	margin-top: 13px;
+	margin-top: 23px;
 	position: relative;
-}
-
-#u3470-bw
-{
-	z-index: 22;
-	min-height: 607px;
 }
 
 #u3471
 {
 	z-index: 20;
-	min-height: 520px;
+	width: 320px;
 	background-color: #EFD5C3;
 	background-color: rgba(236,203,180,0.8);
+	position: relative;
 	padding: 33px 25px 28px 35px;
 	-pie-background: rgba(236,203,180,0.8);
 }
@@ -597,17 +586,17 @@
 
 #u3472-4
 {
-	z-index: 133;
+	z-index: 135;
 	display: block;
 	vertical-align: top;
 	margin-left: 110px;
-	margin-top: 20px;
+	margin-top: 30px;
 	position: relative;
 }
 
 #u3473
 {
-	z-index: 137;
+	z-index: 139;
 	width: 100px;
 	height: 2px;
 	background-color: #534741;
@@ -615,34 +604,29 @@
 	position: relative;
 }
 
-#u3041-9
+#u3041-11
 {
 	z-index: 61;
 	display: block;
 	vertical-align: top;
-	margin-top: 18px;
+	margin-top: 21px;
 	position: relative;
-}
-
-#u3471-bw
-{
-	z-index: 20;
-	min-height: 520px;
 }
 
 #u3474
 {
 	z-index: 21;
-	min-height: 589px;
+	width: 320px;
 	background-color: #EFEEAB;
 	background-color: rgba(235,234,150,0.8);
-	padding: 38px 25px 29px 35px;
+	position: relative;
+	padding: 38px 25px 27px 35px;
 	-pie-background: rgba(235,234,150,0.8);
 }
 
 #u3050
 {
-	z-index: 71;
+	z-index: 73;
 	width: 303px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 4px rgba(0,0,0,0.2),0px 0px 4px rgba(0,0,0,0.2);
@@ -653,17 +637,17 @@
 
 #u3475-4
 {
-	z-index: 138;
+	z-index: 140;
 	display: block;
 	vertical-align: top;
 	margin-left: 110px;
-	margin-top: 20px;
+	margin-top: 30px;
 	position: relative;
 }
 
 #u3476
 {
-	z-index: 142;
+	z-index: 144;
 	width: 100px;
 	height: 2px;
 	background-color: #534741;
@@ -673,17 +657,11 @@
 
 #u3052-10
 {
-	z-index: 73;
+	z-index: 75;
 	display: block;
 	vertical-align: top;
-	margin-top: 19px;
+	margin-top: 26px;
 	position: relative;
-}
-
-#u3474-bw
-{
-	z-index: 21;
-	min-height: 589px;
 }
 
 #pu3477
@@ -695,16 +673,18 @@
 #u3477
 {
 	z-index: 19;
-	min-height: 578px;
+	width: 339px;
 	background-color: #AAC29F;
 	background-color: rgba(149,179,135,0.8);
+	position: relative;
+	margin-right: -10000px;
 	padding: 36px 16px 10px 25px;
 	-pie-background: rgba(149,179,135,0.8);
 }
 
 #u3058
 {
-	z-index: 83;
+	z-index: 85;
 	width: 302px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 4px rgba(0,0,0,0.2),0px 0px 4px rgba(0,0,0,0.2);
@@ -721,17 +701,17 @@
 
 #u3478-4
 {
-	z-index: 143;
+	z-index: 145;
 	display: block;
 	vertical-align: top;
 	margin-left: 120px;
-	margin-top: 18px;
+	margin-top: 28px;
 	position: relative;
 }
 
 #u3479
 {
-	z-index: 147;
+	z-index: 149;
 	width: 100px;
 	height: 2px;
 	background-color: #534741;
@@ -742,16 +722,16 @@
 
 #u3060-12
 {
-	z-index: 85;
+	z-index: 87;
 	display: block;
 	vertical-align: top;
-	margin-top: 14px;
+	margin-top: 24px;
 	position: relative;
 }
 
 #u3616
 {
-	z-index: 149;
+	z-index: 151;
 	width: 36px;
 	background-color: transparent;
 	margin-left: 149px;
@@ -759,20 +739,14 @@
 	position: relative;
 }
 
-#u3477-bw
-{
-	z-index: 19;
-	min-height: 578px;
-}
-
 #u3618
 {
-	z-index: 151;
+	z-index: 153;
 	width: 380px;
 	height: 56px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 568px;
+	margin-top: 588px;
 }
 
 #pu2560
