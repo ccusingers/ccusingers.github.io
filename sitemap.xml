@@ -141,6 +141,130 @@
     </image:image>
   </url>
   <url>
+    <loc>http://ccusingers.github.io/leadership.html</loc>
+    <changefreq>Weekly</changefreq>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/navigation logo.png</image:loc>
+      <image:title>中正聲樂社</image:title>
+      <image:caption>中正聲樂社</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/blank.gif</image:loc>
+      <image:title>首頁</image:title>
+      <image:caption>首頁</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1056-4-a.png</image:loc>
+      <image:title>組織</image:title>
+      <image:caption>組織</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/main line.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/詳細介紹.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/y-t.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/line triangle.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/girls.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/pantagon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/huang.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/president.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/vice-p-1236x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/vice-p-2235x235.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/piano235x235.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/marketing236x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/finance236x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/equi-236x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/sheet236x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/c1236x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/c2236x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1050-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1050-m.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1050-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1050-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1050-m_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1050-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1044-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1044-m.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1044-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1044-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1044-m_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1044-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1065-r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1065-m.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1065-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1065-r_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1065-m_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/u1065-a_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://ccusingers.github.io/course.html</loc>
     <changefreq>Weekly</changefreq>
     <image:image>
@@ -379,6 +503,12 @@
       <image:loc>http://ccusingers.github.io/images/slider-22-crop-u2322.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://ccusingers.github.io/images/videoplaybutton.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ccusingers.github.io/images/sprite.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://ccusingers.github.io/images/u1179-r.png</image:loc>
     </image:image>
     <image:image>
@@ -433,130 +563,6 @@
       <image:loc>http://ccusingers.github.io/images/u1175-a_2x.png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://ccusingers.github.io/leadership.html</loc>
-    <changefreq>Weekly</changefreq>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/navigation logo.png</image:loc>
-      <image:title>中正聲樂社</image:title>
-      <image:caption>中正聲樂社</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/blank.gif</image:loc>
-      <image:title>首頁</image:title>
-      <image:caption>首頁</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1056-4-a.png</image:loc>
-      <image:title>組織</image:title>
-      <image:caption>組織</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/main line.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/詳細介紹.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/y-t.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/line triangle.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/girls.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/pantagon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/huang.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/president.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/vice-p-1236x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/vice-p-2235x235.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/piano235x235.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/marketing236x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/finance236x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/equi-236x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/sheet236x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/c1236x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/c2236x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1050-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1050-m.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1050-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1050-r_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1050-m_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1050-a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1044-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1044-m.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1044-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1044-r_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1044-m_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1044-a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1065-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1065-m.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1065-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1065-r_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1065-m_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ccusingers.github.io/images/u1065-a_2x.png</image:loc>
-    </image:image>
-  </url>
 </urlset>
-<!--<guid value="f84b638c-2731-4800-ad8d-e1edefeb9dc6" />-->
+<!--<guid value="b74832f0-1374-4712-8151-a8b2705ee0f8" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
