@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000000;
-	background-color: #E3736A;
+	color: #0000FD;
+	background-color: #B73777;
 }
 
 @-ms-viewport
@@ -653,14 +653,8 @@
 #u2598-4
 {
 	z-index: 21;
-	width: 81px;
-	min-height: 19px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #FFFFFF;
-	text-align: right;
-	font-size: 20px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -738,14 +732,8 @@
 #u2682-4
 {
 	z-index: 48;
-	width: 81px;
-	min-height: 19px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #FFFFFF;
-	text-align: right;
-	font-size: 20px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 6px;
@@ -825,14 +813,8 @@
 #u2662-4
 {
 	z-index: 33;
-	width: 81px;
-	min-height: 19px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #FFFFFF;
-	text-align: right;
-	font-size: 20px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 6px;
@@ -917,14 +899,8 @@
 #u2666-4
 {
 	z-index: 37;
-	width: 81px;
-	min-height: 19px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #FFFFFF;
-	text-align: right;
-	font-size: 20px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -986,36 +962,30 @@
 #u2560
 {
 	z-index: 2;
-	min-height: 95.70000000000005px;
-	padding: 12px 14px 11.299999999999955px;
+	min-height: 96.70000000000005px;
+	padding: 12px 14px 10.299999999999955px;
 }
 
 #u2561-4
 {
 	z-index: 3;
-	width: 162px;
-	min-height: 29px;
 }
 
 #u2563-4
 {
 	z-index: 13;
-	width: 352px;
-	min-height: 19px;
 	margin-top: 48px;
 }
 
 #u2560-bw
 {
 	z-index: 2;
-	min-height: 95.70000000000005px;
+	min-height: 96.70000000000005px;
 }
 
 #u2562-6
 {
 	z-index: 7;
-	width: 352px;
-	min-height: 29px;
 	margin-right: -10000px;
 	margin-top: 31px;
 	left: 14px;
