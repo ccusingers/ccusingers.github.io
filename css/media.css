@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #00000F;
-	background-color: #6EE55F;
+	color: #000014;
+	background-color: #388478;
 }
 
 .html
@@ -1338,13 +1338,11 @@
 
 #u3764:hover #u3767
 {
-	border-width: 3px;
-	border-style: solid;
 	border-color: #FF0000;
-	width: 322px;
-	height: 190px;
+	width: 325px;
+	height: 193px;
 	min-height: 0px;
-	margin: -1px -10002px -2px -1px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u3768
@@ -1404,6 +1402,52 @@
 	left: 836px;
 }
 
+#u3776
+{
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 20px;
+	top: -169px;
+	left: 735px;
+}
+
+.ie #u1190,.ie #u3776
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3776:hover
+{
+	background-color: #999999;
+	width: 48px;
+	height: 48px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3776:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u3776:active
+{
+	background-color: #6B6B6B;
+	width: 48px;
+	height: 48px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 .MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
 {
 	cursor: pointer;
@@ -1411,7 +1455,7 @@
 
 #pamphletu3851
 {
-	z-index: 188;
+	z-index: 189;
 	width: 0.01px;
 	height: 193px;
 	margin-left: 574px;
@@ -1422,7 +1466,7 @@
 
 #u3860
 {
-	z-index: 189;
+	z-index: 190;
 	width: 325px;
 	position: relative;
 	margin-right: -10000px;
@@ -1459,7 +1503,7 @@
 
 #u3863
 {
-	z-index: 191;
+	z-index: 192;
 	width: 88px;
 	background-color: transparent;
 	position: relative;
@@ -1487,7 +1531,7 @@
 
 #u3862
 {
-	z-index: 193;
+	z-index: 194;
 	width: 325px;
 	height: 193px;
 	border-style: none;
@@ -1502,13 +1546,11 @@
 
 #u3861:hover #u3862
 {
-	border-width: 3px;
-	border-style: solid;
 	border-color: #FF0000;
-	width: 322px;
-	height: 190px;
+	width: 325px;
+	height: 193px;
 	min-height: 0px;
-	margin: -1px -10002px -2px -1px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u3764.PamphletThumbSelected #u3767,#u3861.PamphletThumbSelected #u3862
@@ -1537,12 +1579,12 @@
 
 #u3856popup
 {
-	z-index: 194;
+	z-index: 195;
 }
 
 #u3857
 {
-	z-index: 195;
+	z-index: 196;
 	width: 876px;
 	height: 505px;
 	border-style: none;
@@ -1556,7 +1598,7 @@
 
 #u3858
 {
-	z-index: 196;
+	z-index: 197;
 	width: 854px;
 	min-height: 484px;
 	border-style: none;
@@ -1570,12 +1612,65 @@
 
 #u3874
 {
-	z-index: 197;
+	z-index: 198;
 	width: 40px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 836px;
+}
+
+#u3865
+{
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 20px;
+	top: -170px;
+	left: 349px;
+}
+
+.ie #u3865
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3865:hover
+{
+	background-color: #999999;
+	width: 48px;
+	height: 48px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3776:active,.ie #u3865:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u3865:active
+{
+	background-color: #6B6B6B;
+	width: 48px;
+	height: 48px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3865:active
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
 }
 
 #pu2389
@@ -1589,7 +1684,7 @@
 {
 	z-index: 132;
 	width: 3px;
-	height: 25px;
+	height: 20px;
 	background-color: #42410B;
 	position: relative;
 	margin-right: -10000px;
@@ -1607,14 +1702,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
-	left: 4px;
+	left: 5px;
 }
 
 #u2495
 {
 	z-index: 172;
 	width: 3px;
-	height: 25px;
+	height: 20px;
 	background-color: #42410B;
 	position: relative;
 	margin-right: -10000px;
@@ -1695,7 +1790,7 @@
 	left: 94px;
 }
 
-.ie #u1190,.ie #u455
+.ie #u455
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
