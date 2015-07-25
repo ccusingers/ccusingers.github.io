@@ -3,10 +3,32 @@
 	background-color: #71878A;
 }
 
-#u2561-4,#u2563-4,#u2562-6
+#u2561-4
 {
-	display: block;
-	vertical-align: top;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u2563-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 18px;
+	font-size: 15px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u2562-6
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 21px;
+	font-size: 14px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
 

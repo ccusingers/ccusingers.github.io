@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000011;
-	background-color: #BA2F37;
+	color: #000010;
+	background-color: #D888B5;
 }
 
 .html
@@ -522,7 +522,7 @@
 	line-height: 45px;
 	font-size: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
+	font-weight: normal;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 134px;
@@ -539,7 +539,7 @@
 	line-height: 36px;
 	font-size: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
+	font-weight: normal;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 217px;

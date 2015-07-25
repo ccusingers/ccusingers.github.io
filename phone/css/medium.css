@@ -1,8 +1,3 @@
-#u3514:active #u3517
-{
-	background: url("../../images/u3517-m.png") no-repeat 0px 0px;
-}
-
 #u3509:active #u3512
 {
 	background: url("../../images/u3512-m.png") no-repeat 0px 0px;
@@ -18,10 +13,15 @@
 	background: url("../../images/u3503-m.png") no-repeat 0px 0px;
 }
 
+#u3514:active #u3517
+{
+	background: url("../../images/u3517-m.png") no-repeat 0px 0px;
+}
+
 .version.medium /* version checker */
 {
-	color: #00000A;
-	background-color: #652CCD;
+	color: #0000E6;
+	background-color: #B1B2CE;
 }
 
 @-ms-viewport
@@ -435,8 +435,13 @@
 #u3307-4
 {
 	z-index: 112;
-	display: block;
-	vertical-align: top;
+	width: 189px;
+	min-height: 13px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
@@ -1098,11 +1103,10 @@
 	background-color: transparent;
 	border-radius: 2px 0px 0px 2px ;
 	padding: 10px;
-	color: #FFFFFF;
-	line-height: 25px;
+	color: #999999;
+	line-height: 20px;
 	text-align: center;
-	font-size: 18px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3120-5popup
@@ -1120,8 +1124,10 @@
 	background-color: transparent;
 	border-radius: 0px 2px 2px 0px ;
 	padding: 10px;
+	color: #999999;
+	line-height: 20px;
 	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	left: 324px;
 }
 
@@ -1130,17 +1136,9 @@
 	z-index: 106;
 }
 
-#u3121,#u3121-2
+#u3120-3,#u3121-4
 {
-	line-height: 20px;
-	color: #999999;
-}
-
-#u3121-3,#u3121-4
-{
-	font-size: 18px;
-	line-height: 25px;
-	color: #FFFFFF;
+	font-size: 14px;
 }
 
 .MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
@@ -1183,8 +1181,13 @@
 #u3571-4
 {
 	z-index: 163;
-	display: block;
-	vertical-align: top;
+	width: 189px;
+	min-height: 13px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 26px;
 	position: relative;
 }
@@ -1226,8 +1229,13 @@
 #u3320-4
 {
 	z-index: 119;
-	display: block;
-	vertical-align: top;
+	width: 206px;
+	min-height: 15px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 26px;
 	margin-top: 6px;
 	position: relative;
@@ -1241,7 +1249,7 @@
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 5px rgba(127,127,127,0.5),0px 0px 5px rgba(127,127,127,0.5);
 	border-radius: 5px;
-	margin-top: 24px;
+	margin-top: 25px;
 	position: relative;
 	background: transparent url("../../images/dscf3401-ieu3318-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../../images/dscf3401.jpg") no-repeat center center;
@@ -1259,7 +1267,7 @@
 	width: 251px;
 	height: 141px;
 	min-height: 0px;
-	margin: 23px -2px -2px -1px;
+	margin: 24px -2px -2px -1px;
 	background-size: cover;
 }
 
@@ -1271,8 +1279,13 @@
 #u3322-4
 {
 	z-index: 123;
-	display: block;
-	vertical-align: top;
+	width: 215px;
+	min-height: 15px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 17px;
 	margin-top: 6px;
 	position: relative;
@@ -1332,11 +1345,15 @@
 #u2561-4
 {
 	z-index: 3;
+	width: 162px;
+	min-height: 29px;
 }
 
 #u2563-4
 {
 	z-index: 13;
+	width: 352px;
+	min-height: 19px;
 	margin-top: 48px;
 }
 
@@ -1349,6 +1366,8 @@
 #u2562-6
 {
 	z-index: 7;
+	width: 352px;
+	min-height: 29px;
 	margin-right: -10000px;
 	margin-top: 31px;
 	left: 14px;
