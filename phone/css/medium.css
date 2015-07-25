@@ -20,8 +20,8 @@
 
 .version.medium /* version checker */
 {
-	color: #0000FF;
-	background-color: #DD8076;
+	color: #00000A;
+	background-color: #652CCD;
 }
 
 @-ms-viewport
@@ -1099,9 +1099,9 @@
 	border-radius: 2px 0px 0px 2px ;
 	padding: 10px;
 	color: #FFFFFF;
+	line-height: 25px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 25px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -1163,6 +1163,11 @@
 	margin-right: -10000px;
 	margin-top: 42px;
 	left: 105px;
+}
+
+#page_position_content,#pu3582
+{
+	width: 0.01px;
 }
 
 #u3582
@@ -1311,16 +1316,17 @@
 	margin-top: 429px;
 }
 
-#page_position_content,#pu3582,#pu2560
+#pu2560
 {
 	width: 0.01px;
+	margin-top: -2px;
 }
 
 #u2560
 {
 	z-index: 2;
-	min-height: 100.70000000000005px;
-	padding: 7px 14px 11.299999999999955px;
+	min-height: 95.70000000000005px;
+	padding: 12px 14px 11.299999999999955px;
 }
 
 #u2561-4
@@ -1331,20 +1337,20 @@
 #u2563-4
 {
 	z-index: 13;
-	margin-top: 53px;
+	margin-top: 48px;
 }
 
 #u2560-bw
 {
 	z-index: 2;
-	min-height: 100.70000000000005px;
+	min-height: 95.70000000000005px;
 }
 
 #u2562-6
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 26px;
+	margin-top: 31px;
 	left: 14px;
 }
 

@@ -20,8 +20,8 @@
 
 .version.intro /* version checker */
 {
-	color: #000012;
-	background-color: #761056;
+	color: #000014;
+	background-color: #822D52;
 }
 
 @-ms-viewport
@@ -734,6 +734,11 @@
 	position: relative;
 }
 
+#page_position_content,#pu2829
+{
+	width: 0.01px;
+}
+
 #u2829
 {
 	z-index: 135;
@@ -856,16 +861,17 @@
 	margin-right: -10000px;
 }
 
-#page_position_content,#pu2829,#pu2560
+#pu2560
 {
 	width: 0.01px;
+	margin-top: -2px;
 }
 
 #u2560
 {
 	z-index: 2;
-	min-height: 100.70000000000027px;
-	padding: 7px 14px 11.299999999999727px;
+	min-height: 95.70000000000027px;
+	padding: 12px 14px 11.299999999999727px;
 }
 
 #u2561-4
@@ -876,20 +882,20 @@
 #u2563-4
 {
 	z-index: 13;
-	margin-top: 53px;
+	margin-top: 48px;
 }
 
 #u2560-bw
 {
 	z-index: 2;
-	min-height: 100.70000000000027px;
+	min-height: 95.70000000000027px;
 }
 
 #u2562-6
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 26px;
+	margin-top: 31px;
 	left: 14px;
 }
 
