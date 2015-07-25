@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437792542598">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437792993015">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
     <file name="master_main.css" crc="57742920" ref="index:course:leadership:media"/>
@@ -23,7 +23,7 @@
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:media:leadership:course"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="478655589" ref="phone>index"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index:index"/>
     <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index"/>
     <file name="navigation logo132x69_2x.png" crc="4070611772" seo="true" ref="phone>index"/>
     <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
@@ -840,7 +840,7 @@
     <file name="class.html" crc="3844073358" seo="true" mt="1437790128489" redirect="true"/>
     <file name="medium.html" crc="400731166" seo="true" mt="1437790128489" redirect="true"/>
   </folder>
-  <file name="index.html" crc="530263929" seo="true" mt="1437792319088" redirect="true"/>
+  <file name="index.html" crc="3945019759" seo="true" mt="1437792981555" redirect="true"/>
   <file name="media.html" crc="200981156" seo="true" mt="1437791516574" redirect="true"/>
   <file name="leadership.html" crc="4289585254" seo="true" mt="1437791507859" redirect="true"/>
   <file name="course.html" crc="373011908" seo="true" mt="1437791511868" redirect="true"/>
