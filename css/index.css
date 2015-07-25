@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #84FCC8;
+	color: #000006;
+	background-color: #21159C;
 }
 
 .html
@@ -729,7 +729,7 @@
 	background-color: transparent;
 	font-size: 18px;
 	line-height: 27px;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-family: Times, Times New Roman, Georgia, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 63px;
