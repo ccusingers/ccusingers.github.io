@@ -20,8 +20,8 @@
 
 .version.organization /* version checker */
 {
-	color: #0000F4;
-	background-color: #859A84;
+	color: #000010;
+	background-color: #5AC561;
 }
 
 @-ms-viewport
@@ -506,7 +506,7 @@
 	box-shadow: 0px 0px 10px rgba(127,127,127,0.29),0px 0px 10px rgba(127,127,127,0.29);
 	background-color: #E2E2DA;
 	background-color: rgba(66,65,11,0.15);
-	margin-top: 15px;
+	margin-top: 25px;
 	position: relative;
 	padding: 21px 31px 25.24964991367733px;
 	-pie-background: rgba(66,65,11,0.15);
