@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #0000F7;
-	background-color: #C7B98B;
+	color: #00001C;
+	background-color: #4E86C5;
 }
 
 .html
@@ -390,8 +390,13 @@
 #u1205-4
 {
 	z-index: 16;
-	display: block;
-	vertical-align: top;
+	width: 372px;
+	min-height: 31px;
+	background-color: transparent;
+	line-height: 29px;
+	text-align: left;
+	font-size: 24px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 35px;
 	margin-top: 55px;
 	position: relative;
@@ -1185,7 +1190,7 @@
 	border-radius: 5px 0px 0px 5px ;
 	padding: 10px;
 	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	top: 1px;
 	left: 159px;
 }
@@ -1211,7 +1216,7 @@
 	border-radius: 0px 5px 5px 0px ;
 	padding: 10px;
 	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	left: 798px;
 }
 
@@ -1246,8 +1251,13 @@
 #u2373-4
 {
 	z-index: 127;
-	display: block;
-	vertical-align: top;
+	width: 372px;
+	min-height: 31px;
+	background-color: transparent;
+	line-height: 29px;
+	text-align: left;
+	font-size: 24px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 35px;
 	margin-top: 42px;
 	position: relative;
@@ -1346,8 +1356,12 @@
 #u2391-4
 {
 	z-index: 135;
-	display: block;
-	vertical-align: top;
+	width: 235px;
+	min-height: 38px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -1368,8 +1382,12 @@
 #u2496-4
 {
 	z-index: 175;
-	display: block;
-	vertical-align: top;
+	width: 235px;
+	min-height: 38px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -1396,12 +1414,16 @@
 #u452-4
 {
 	z-index: 3;
+	width: 200px;
+	min-height: 26px;
 	left: 105px;
 }
 
 #u453-4
 {
 	z-index: 7;
+	width: 488px;
+	min-height: 26px;
 	left: 105px;
 	margin-top: 5px;
 }
@@ -1409,6 +1431,8 @@
 #u454-4
 {
 	z-index: 11;
+	width: 231px;
+	min-height: 26px;
 	left: 105px;
 	margin-top: 30px;
 }
