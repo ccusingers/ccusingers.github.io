@@ -1,7 +1,7 @@
 .version.course /* version checker */
 {
-	color: #000015;
-	background-color: #6953A5;
+	color: #000005;
+	background-color: #6C2A80;
 }
 
 .html
@@ -417,7 +417,7 @@
 	text-align: center;
 	font-size: 25px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	margin-left: 217px;
+	margin-left: 175px;
 	margin-top: 35px;
 	position: relative;
 }
@@ -428,7 +428,7 @@
 	padding-bottom: 0px;
 	min-height: 41px;
 	width: 673px;
-	margin: 35px 0px 0px 217px;
+	margin: 35px 0px 0px 175px;
 }
 
 #u933-4:hover p,#u933-4:hover h2
