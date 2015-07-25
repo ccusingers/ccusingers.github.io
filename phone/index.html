@@ -32,9 +32,13 @@
 
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
 
-if(window.innerHeight > window.innerWidth){
-    document.getElementsByTagName("body").style.transform = "rotate(90deg)";
-}
+window.addEventListener('orientationchange', function ()
+{
+    if (window.innerHeight > window.innerWidth)
+    {
+        document.getElementsByTagName('body').style.transform = "rotate(90deg)";
+    }
+});
  </head>
  <body>
 
