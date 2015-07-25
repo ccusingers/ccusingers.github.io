@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000009;
-	background-color: #887C2A;
+	color: #000010;
+	background-color: #3F7D2F;
 }
 
 .html
@@ -518,8 +518,8 @@
 	width: 667px;
 	min-height: 55px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 45px;
+	color: #FFFFFF;
 	font-size: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
@@ -544,8 +544,8 @@
 	width: 342px;
 	min-height: 55px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
 	font-size: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;

@@ -20,8 +20,8 @@
 
 .version.medium /* version checker */
 {
-	color: #0000E6;
-	background-color: #B1B2CE;
+	color: #000018;
+	background-color: #DFCB17;
 }
 
 @-ms-viewport
@@ -1251,9 +1251,7 @@
 	border-radius: 5px;
 	margin-top: 25px;
 	position: relative;
-	background: transparent url("../../images/dscf3401-ieu3318-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../../images/dscf3401.jpg") no-repeat center center;
-	background-color: transparent;
+	background: transparent url("../../images/dscf3401-u3318-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1273,7 +1271,7 @@
 
 .hidpi #u3318
 {
-	background-image: url("../../images/dscf3401_2x.jpg");
+	background-image: url("../../images/dscf3401-u3318-fr_2x.jpg");
 }
 
 #u3322-4

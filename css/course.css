@@ -1,7 +1,7 @@
 .version.course /* version checker */
 {
-	color: #000005;
-	background-color: #6C2A80;
+	color: #0000ED;
+	background-color: #F64168;
 }
 
 .html
@@ -412,8 +412,8 @@
 	width: 673px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 30px;
+	color: #000000;
 	text-align: center;
 	font-size: 25px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;

@@ -20,8 +20,8 @@
 
 .version.class /* version checker */
 {
-	color: #000002;
-	background-color: #FFE771;
+	color: #0000F5;
+	background-color: #749F0A;
 }
 
 @-ms-viewport
@@ -444,8 +444,8 @@
 	width: 380px;
 	min-height: 27px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 24px;
+	color: #000000;
 	text-align: center;
 	font-size: 16px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
