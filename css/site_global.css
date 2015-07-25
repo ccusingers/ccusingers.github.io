@@ -68,7 +68,7 @@ input,button,textarea,select,optgroup,option
 
 body
 {
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-family: sourcehansans-tc;
 	text-align: left;
 	font-size: 14px;
 	line-height: 17px;
@@ -559,12 +559,4 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara /* disable Android font boosting */
 {
 	-ms-touch-action: none;
 	touch-action: none;
-}
-
-.content {
-
-      font-family: "sourcehansans-tc";
-
-      font-weight: "200";
-
 }
