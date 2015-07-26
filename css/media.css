@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #000015;
-	background-color: #0526D3;
+	color: #0000ED;
+	background-color: #5C55BA;
 }
 
 .html
@@ -451,9 +451,9 @@
 	width: 372px;
 	min-height: 31px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	margin-left: 35px;
@@ -1298,9 +1298,9 @@
 	width: 372px;
 	min-height: 31px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	margin-left: 35px;

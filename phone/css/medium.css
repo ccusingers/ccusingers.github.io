@@ -1,7 +1,7 @@
 .version.medium /* version checker */
 {
-	color: #0000FF;
-	background-color: #EB97E1;
+	color: #0000F4;
+	background-color: #35220C;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1107.9249999999995px;
+	min-height: 1107.5249999999996px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -508,11 +508,6 @@
 	height: 149px;
 }
 
-#page_position_content,#pu3581
-{
-	width: 0.01px;
-}
-
 #u3581
 {
 	z-index: 19;
@@ -531,9 +526,9 @@
 	width: 189px;
 	min-height: 13px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1284,13 +1279,18 @@
 	background: url("../../images/loading.gif") no-repeat center center;
 }
 
+#page_position_content,#pu3581,#pu3582
+{
+	width: 0.01px;
+}
+
 #u3582
 {
 	z-index: 18;
-	min-height: 385px;
+	min-height: 475px;
 	background-color: #D1D0E0;
 	background-color: rgba(27,20,100,0.2);
-	padding: 23px 61px 1px 65px;
+	padding: 23px 61px 15px 65px;
 	-pie-background: rgba(27,20,100,0.2);
 }
 
@@ -1300,9 +1300,9 @@
 	width: 189px;
 	min-height: 13px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 26px;
@@ -1430,12 +1430,6 @@
 	margin: 40px -10000px 0px 0px;
 }
 
-#u3582-bw
-{
-	z-index: 18;
-	min-height: 385px;
-}
-
 #u3322-4
 {
 	z-index: 121;
@@ -1446,15 +1440,9 @@
 	text-align: center;
 	font-size: 16px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	margin-left: 82px;
-	margin-top: 5px;
+	margin-left: 17px;
+	margin-top: 6px;
 	position: relative;
-}
-
-#pu3620
-{
-	width: 0.01px;
-	margin-top: 19px;
 }
 
 #u3620
@@ -1462,10 +1450,15 @@
 	z-index: 167;
 	width: 36px;
 	background-color: transparent;
+	margin-left: 105px;
+	margin-top: 29px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 170px;
+}
+
+#u3582-bw
+{
+	z-index: 18;
+	min-height: 475px;
 }
 
 #u3622
@@ -1475,6 +1468,7 @@
 	height: 56px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 452px;
 }
 
 #pu2560

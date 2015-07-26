@@ -1,7 +1,7 @@
 .version.class /* version checker */
 {
-	color: #0000F3;
-	background-color: #6F126E;
+	color: #000002;
+	background-color: #46BC7F;
 }
 
 @-ms-viewport
@@ -615,9 +615,9 @@
 	min-height: 38px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 }
@@ -657,9 +657,9 @@
 	width: 77px;
 	min-height: 16px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 116px;
@@ -720,9 +720,9 @@
 	width: 89px;
 	min-height: 16px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 110px;
@@ -782,9 +782,9 @@
 	width: 89px;
 	min-height: 16px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 110px;
@@ -857,9 +857,9 @@
 	width: 89px;
 	min-height: 16px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 120px;
