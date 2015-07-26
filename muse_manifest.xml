@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437925811147">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437926037011">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
     <file name="master_main.css" crc="3807688692" ref="media:course:leadership:index"/>
@@ -399,11 +399,11 @@
       <file name="medium.css" crc="4112693502" ref="phone>medium"/>
       <file name="intro.css" crc="429318734" ref="phone>intro"/>
     </folder>
-    <file name="index.html" crc="347762960" seo="true" mt="1437925790757" redirect="true"/>
-    <file name="intro.html" crc="3907896500" seo="true" mt="1437925725023" redirect="true"/>
-    <file name="organization.html" crc="4175926555" seo="true" mt="1437925725023" redirect="true"/>
-    <file name="class.html" crc="4248131763" seo="true" mt="1437925725023" redirect="true"/>
-    <file name="medium.html" crc="105078977" seo="true" mt="1437925725023" redirect="true"/>
+    <file name="index.html" crc="4241149723" seo="true" mt="1437925989586" redirect="true"/>
+    <file name="intro.html" crc="4028858831" seo="true" mt="1437925989586" redirect="true"/>
+    <file name="organization.html" crc="315697649" seo="true" mt="1437925989586" redirect="true"/>
+    <file name="class.html" crc="53884499" seo="true" mt="1437925989586" redirect="true"/>
+    <file name="medium.html" crc="250829825" seo="true" mt="1437925989586" redirect="true"/>
   </folder>
   <file name="index.html" crc="4051749778" seo="true" mt="1437924399271" redirect="true"/>
   <file name="media.html" crc="4253645990" seo="true" mt="1437924705539" redirect="true"/>
