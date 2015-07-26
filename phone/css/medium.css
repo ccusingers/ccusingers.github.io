@@ -20,8 +20,8 @@
 
 .version.medium /* version checker */
 {
-	color: #000017;
-	background-color: #08F2E1;
+	color: #0000F3;
+	background-color: #E2965D;
 }
 
 @-ms-viewport
@@ -1276,7 +1276,8 @@
 #u2560
 {
 	z-index: 2;
-	min-height: 96.70000000000005px;
+	width: 352px;
+	margin-right: -10000px;
 	padding: 12px 14px 10.299999999999955px;
 }
 
@@ -1289,12 +1290,6 @@
 {
 	z-index: 13;
 	margin-top: 48px;
-}
-
-#u2560-bw
-{
-	z-index: 2;
-	min-height: 96.70000000000005px;
 }
 
 #u2562-6

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437892389341">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437892654303">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="57742920" ref="media:course:leadership:index"/>
@@ -848,18 +848,18 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-__.css" crc="4083259686" ref="phone>organization:phone>class:phone>index:phone>medium:phone>intro"/>
-      <file name="organization.css" crc="4205353694" ref="phone>organization"/>
-      <file name="class.css" crc="373657014" ref="phone>class"/>
-      <file name="index.css" crc="4256642935" ref="phone>index"/>
-      <file name="medium.css" crc="386462433" ref="phone>medium"/>
-      <file name="intro.css" crc="3822606352" ref="phone>intro"/>
+      <file name="master_a-__.css" crc="4072257644" ref="phone>organization:phone>class:phone>index:phone>medium:phone>intro"/>
+      <file name="organization.css" crc="8422873" ref="phone>organization"/>
+      <file name="class.css" crc="4125019951" ref="phone>class"/>
+      <file name="index.css" crc="337634320" ref="phone>index"/>
+      <file name="medium.css" crc="4091713117" ref="phone>medium"/>
+      <file name="intro.css" crc="345207479" ref="phone>intro"/>
     </folder>
-    <file name="index.html" crc="510450552" seo="true" mt="1437892336658" redirect="true"/>
-    <file name="intro.html" crc="292894327" seo="true" mt="1437892336658" redirect="true"/>
-    <file name="organization.html" crc="388393460" seo="true" mt="1437892336658" redirect="true"/>
-    <file name="class.html" crc="4017169561" seo="true" mt="1437892336658" redirect="true"/>
-    <file name="medium.html" crc="471841633" seo="true" mt="1437892336658" redirect="true"/>
+    <file name="index.html" crc="4034541812" seo="true" mt="1437892569446" redirect="true"/>
+    <file name="intro.html" crc="309100949" seo="true" mt="1437892569446" redirect="true"/>
+    <file name="organization.html" crc="90040423" seo="true" mt="1437892569446" redirect="true"/>
+    <file name="class.html" crc="4015462463" seo="true" mt="1437892569446" redirect="true"/>
+    <file name="medium.html" crc="243549451" seo="true" mt="1437892569446" redirect="true"/>
   </folder>
   <file name="index.html" crc="4148465235" seo="true" mt="1437848721664" redirect="true"/>
   <file name="media.html" crc="4183921609" seo="true" mt="1437847029132" redirect="true"/>
