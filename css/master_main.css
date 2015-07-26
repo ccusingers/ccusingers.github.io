@@ -5,8 +5,11 @@
 
 #u452-4,#u453-4,#u454-4
 {
-	display: block;
-	vertical-align: top;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
 

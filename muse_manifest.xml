@@ -1,11 +1,12 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437916290579">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437923399559">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
-    <file name="master_main.css" crc="57742920" ref="media:course:leadership:index"/>
-    <file name="media.css" crc="180837148" ref="media"/>
-    <file name="course.css" crc="407033635" ref="course"/>
-    <file name="leadership.css" crc="4195620140" ref="leadership"/>
-    <file name="index.css" crc="4259437458" ref="index"/>
+    <file name="master_main.css" crc="3807688692" ref="media:course:leadership:index"/>
+    <file name="media.css" crc="349067370" ref="media"/>
+    <file name="course.css" crc="4056813960" ref="course"/>
+    <file name="leadership.css" crc="477602856" ref="leadership"/>
+    <file name="index.css" crc="3936144904" ref="index"/>
+    <file name="iefonts_media.css" crc="467662511" ref="media"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium:index:media:leadership:course"/>
@@ -17,13 +18,13 @@
     <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:phone>medium:media"/>
     <file name="touchswipe.js" crc="4038331989" ref="phone>index:phone>medium:media"/>
     <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium:index:media:leadership:course"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>intro:phone>organization:phone>class:phone>medium:index:media:leadership:course"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>intro:phone>organization:phone>class:phone>medium:index:media:course:leadership"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>intro:phone>organization:phone>class:phone>medium:index:media:leadership:course"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:media:leadership:course"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="478655589" ref="phone>index"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index:index:phone>organization"/>
     <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index"/>
     <file name="navigation logo132x69_2x.png" crc="4070611772" seo="true" ref="phone>index"/>
     <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
@@ -48,303 +49,89 @@
     <file name="about.jpg" crc="212783943" ref="phone>index"/>
     <file name="about_2x.jpg" crc="3237852" ref="phone>index"/>
     <file name="u2597-grad.png" crc="156952368" ref="phone>index"/>
-    <file name="u2598-4.png" crc="191778269" ref="phone>index"/>
-    <file name="u2598-4_2x.png" crc="3874752560" ref="phone>index"/>
     <file name="right.png" crc="367210270" seo="true" ref="phone>index"/>
     <file name="right_2x.png" crc="199219553" seo="true" ref="phone>index"/>
     <file name="admin.jpg" crc="181349663" ref="phone>index"/>
     <file name="admin_2x.jpg" crc="197988407" ref="phone>index"/>
-    <file name="u2682-4.png" crc="4217339233" ref="phone>index"/>
-    <file name="u2682-4_2x.png" crc="4195714608" ref="phone>index"/>
     <file name="course-ieu2621-fr.png" crc="3829001419" ref="phone>index"/>
     <file name="course.jpg" crc="3829001419" ref="phone>index"/>
     <file name="course-ieu2621-fr2.png" crc="311781867" ref="phone>index"/>
     <file name="course_2x.jpg" crc="441178674" ref="phone>index"/>
-    <file name="u2662-4.png" crc="472938168" ref="phone>index"/>
-    <file name="u2662-4_2x.png" crc="457582514" ref="phone>index"/>
     <file name="media.jpg" crc="377621840" ref="phone>index"/>
     <file name="media_2x.jpg" crc="170072306" ref="phone>index"/>
-    <file name="u2666-4.png" crc="234883788" ref="phone>index"/>
-    <file name="u2666-4_2x.png" crc="4276139295" ref="phone>index"/>
     <file name="up166.png" crc="4046588569" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
     <file name="up166_2x.png" crc="230276788" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="u2561-4.png" crc="4262627571" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="u2561-4_2x.png" crc="116217153" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="u2563-4.png" crc="4069152828" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="u2563-4_2x.png" crc="4055045738" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="u2562-6.png" crc="459643075" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="u2562-6_2x.png" crc="384059777" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="navigation logo126x66.png" crc="30654478" seo="true" ref="phone>intro"/>
-    <file name="navigation logo126x66_2x.png" crc="3939289936" seo="true" ref="phone>intro"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>intro:phone>organization:phone>class:phone>medium:index:media:leadership:course"/>
-    <file name="u2728.png" crc="468065903" ref="phone>intro"/>
-    <file name="u2728-m.png" crc="3880786141" ref="phone>intro"/>
-    <file name="u2728-a.png" crc="215394407" ref="phone>intro"/>
-    <file name="u2728_2x.png" crc="165531297" ref="phone>intro"/>
-    <file name="u2728-m_2x.png" crc="3776313302" ref="phone>intro"/>
-    <file name="u2728-a_2x.png" crc="4210641068" ref="phone>intro"/>
-    <file name="u2738-4-a.png" crc="4153380851" ref="phone>intro"/>
-    <file name="u2738-4-a_2x.png" crc="55821033" ref="phone>intro"/>
-    <file name="u2746.png" crc="4251178099" ref="phone>intro"/>
-    <file name="u2746-m.png" crc="313416594" ref="phone>intro"/>
-    <file name="u2746-a.png" crc="4165827847" ref="phone>intro"/>
-    <file name="u2746_2x.png" crc="3908102972" ref="phone>intro"/>
-    <file name="u2746-m_2x.png" crc="4276484047" ref="phone>intro"/>
-    <file name="u2746-a_2x.png" crc="50152603" ref="phone>intro"/>
-    <file name="u2753.png" crc="394409244" ref="phone>intro"/>
-    <file name="u2753-m.png" crc="4247707320" ref="phone>intro"/>
-    <file name="u2753-a.png" crc="4165622333" ref="phone>intro"/>
-    <file name="u2753_2x.png" crc="420183277" ref="phone>intro"/>
-    <file name="u2753-m_2x.png" crc="3767819831" ref="phone>intro"/>
-    <file name="u2753-a_2x.png" crc="3771718482" ref="phone>intro"/>
-    <file name="u2757.png" crc="4221225593" ref="phone>intro"/>
-    <file name="u2757-m.png" crc="3924498854" ref="phone>intro"/>
-    <file name="u2757-a.png" crc="4235123345" ref="phone>intro"/>
-    <file name="u2757_2x.png" crc="29991089" ref="phone>intro"/>
-    <file name="u2757-m_2x.png" crc="4050644991" ref="phone>intro"/>
-    <file name="u2757-a_2x.png" crc="196112926" ref="phone>intro"/>
+    <file name="navigation logo126x66.png" crc="30654478" seo="true" ref="phone>intro:phone>organization"/>
+    <file name="navigation logo126x66_2x.png" crc="3939289936" seo="true" ref="phone>intro:phone>organization"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>medium:media"/>
     <file name="internet77x73.png" crc="279608313" seo="true" ref="phone>intro"/>
     <file name="internet77x73_2x.png" crc="71390246" seo="true" ref="phone>intro"/>
-    <file name="u2782-4.png" crc="4003459486" ref="phone>intro"/>
-    <file name="u2782-4_2x.png" crc="207297327" ref="phone>intro"/>
     <file name="mail77x73.png" crc="297077529" seo="true" ref="phone>intro"/>
     <file name="mail77x73_2x.png" crc="442510539" seo="true" ref="phone>intro"/>
-    <file name="u2785-4.png" crc="512792527" ref="phone>intro"/>
-    <file name="u2785-4_2x.png" crc="108943240" ref="phone>intro"/>
     <file name="fb77x73.png" crc="39684733" seo="true" ref="phone>intro"/>
     <file name="fb77x73_2x.png" crc="3876584217" seo="true" ref="phone>intro"/>
-    <file name="u2786-4.png" crc="335151879" ref="phone>intro"/>
-    <file name="u2786-4_2x.png" crc="405017662" ref="phone>intro"/>
     <file name="stage 2.jpg" crc="349138623" ref="phone>intro"/>
-    <file name="u2792-6.png" crc="490730617" ref="phone>intro"/>
-    <file name="u2792-6_2x.png" crc="193504231" ref="phone>intro"/>
-    <file name="u2793-4.png" crc="190570017" ref="phone>intro"/>
-    <file name="u2793-4_2x.png" crc="4153826841" ref="phone>intro"/>
     <file name="rainbow logo237x184.png" crc="438638805" seo="true" ref="phone>intro"/>
     <file name="rainbow logo237x184_2x.png" crc="140835893" seo="true" ref="phone>intro"/>
-    <file name="u2798-7.png" crc="465435243" ref="phone>intro"/>
-    <file name="u2798-7_2x.png" crc="80110633" ref="phone>intro"/>
     <file name="short line293x7.png" crc="206020042" seo="true" ref="phone>intro"/>
     <file name="short line293x7_2x.png" crc="194570500" seo="true" ref="phone>intro"/>
     <file name="guide256x146.png" crc="3847200511" seo="true" ref="phone>intro"/>
     <file name="guide256x146_2x.png" crc="528654103" seo="true" ref="phone>intro"/>
-    <file name="u2813-14.png" crc="4059912914" ref="phone>intro"/>
-    <file name="u2813-14_2x.png" crc="3958101217" ref="phone>intro"/>
     <file name="800讚354x200.jpg" crc="3978014532" seo="true" ref="phone>intro"/>
     <file name="800讚354x200_2x.jpg" crc="3997128212" seo="true" ref="phone>intro"/>
-    <file name="u2817-4.png" crc="315615695" ref="phone>intro"/>
-    <file name="u2817-4_2x.png" crc="3779465611" ref="phone>intro"/>
     <file name="tri-chart184x271.png" crc="4244742239" seo="true" ref="phone>intro"/>
     <file name="tri-chart184x271_2x.png" crc="187235211" seo="true" ref="phone>intro"/>
-    <file name="u2822-17.png" crc="4099198521" ref="phone>intro"/>
-    <file name="u2822-17_2x.png" crc="252483611" ref="phone>intro"/>
-    <file name="u2830-4.png" crc="4202594529" ref="phone>intro"/>
-    <file name="u2830-4_2x.png" crc="423013561" ref="phone>intro"/>
-    <file name="structure380x194.png" crc="277185034" seo="true" ref="phone>intro"/>
-    <file name="structure380x194_2x.png" crc="379659113" seo="true" ref="phone>intro"/>
-    <file name="map352x197.jpg" crc="352317043" seo="true" ref="phone>intro"/>
-    <file name="map352x197_2x.jpg" crc="4161645348" seo="true" ref="phone>intro"/>
+    <file name="structure380x194.png" crc="60262338" seo="true" ref="phone>intro"/>
+    <file name="structure380x194_2x.png" crc="489895857" seo="true" ref="phone>intro"/>
+    <file name="map352x197.jpg" crc="119531737" seo="true" ref="phone>intro"/>
+    <file name="map352x197_2x.jpg" crc="4068278347" seo="true" ref="phone>intro"/>
     <file name="indicator17x17.png" crc="4107585820" seo="true" ref="phone>intro"/>
     <file name="indicator17x17_2x.png" crc="386512755" seo="true" ref="phone>intro"/>
-    <file name="u2838-6.png" crc="3891756500" ref="phone>intro"/>
-    <file name="u2838-6_2x.png" crc="39622210" ref="phone>intro"/>
-    <file name="u3407.png" crc="468065903" ref="phone>organization"/>
-    <file name="u3407-m.png" crc="3880786141" ref="phone>organization"/>
-    <file name="u3407-a.png" crc="215394407" ref="phone>organization"/>
-    <file name="u3407_2x.png" crc="165531297" ref="phone>organization"/>
-    <file name="u3407-m_2x.png" crc="3776313302" ref="phone>organization"/>
-    <file name="u3407-a_2x.png" crc="4210641068" ref="phone>organization"/>
-    <file name="u3400.png" crc="3974482380" ref="phone>organization"/>
-    <file name="u3400-m.png" crc="392901162" ref="phone>organization"/>
-    <file name="u3400-a.png" crc="4153380851" ref="phone>organization"/>
-    <file name="u3400_2x.png" crc="3806939377" ref="phone>organization"/>
-    <file name="u3400-m_2x.png" crc="205665617" ref="phone>organization"/>
-    <file name="u3400-a_2x.png" crc="55821033" ref="phone>organization"/>
-    <file name="u3391-4-a.png" crc="4165827847" ref="phone>organization"/>
-    <file name="u3391-4-a_2x.png" crc="50152603" ref="phone>organization"/>
-    <file name="u3412.png" crc="394409244" ref="phone>organization"/>
-    <file name="u3412-m.png" crc="4247707320" ref="phone>organization"/>
-    <file name="u3412-a.png" crc="4165622333" ref="phone>organization"/>
-    <file name="u3412_2x.png" crc="420183277" ref="phone>organization"/>
-    <file name="u3412-m_2x.png" crc="3767819831" ref="phone>organization"/>
-    <file name="u3412-a_2x.png" crc="3771718482" ref="phone>organization"/>
-    <file name="u3419.png" crc="4221225593" ref="phone>organization"/>
-    <file name="u3419-m.png" crc="3924498854" ref="phone>organization"/>
-    <file name="u3419-a.png" crc="4235123345" ref="phone>organization"/>
-    <file name="u3419_2x.png" crc="29991089" ref="phone>organization"/>
-    <file name="u3419-m_2x.png" crc="4050644991" ref="phone>organization"/>
-    <file name="u3419-a_2x.png" crc="196112926" ref="phone>organization"/>
-    <file name="u2889-4.png" crc="386713325" ref="phone>organization"/>
-    <file name="u2889-4_2x.png" crc="244346906" ref="phone>organization"/>
     <file name="詳細介紹100x32.png" crc="123312007" seo="true" ref="phone>organization"/>
     <file name="詳細介紹100x32_2x.png" crc="4033908997" seo="true" ref="phone>organization"/>
     <file name="y-t210x249.jpg" crc="168221757" seo="true" ref="phone>organization"/>
     <file name="y-t210x249_2x.jpg" crc="3775325008" seo="true" ref="phone>organization"/>
     <file name="pantagon318x311.png" crc="4190440715" seo="true" ref="phone>organization"/>
     <file name="pantagon318x311_2x.png" crc="4137276026" seo="true" ref="phone>organization"/>
-    <file name="u2896-4.png" crc="3929880589" ref="phone>organization"/>
-    <file name="u2896-4_2x.png" crc="3807959799" ref="phone>organization"/>
-    <file name="u2895-20.png" crc="4064734552" ref="phone>organization"/>
-    <file name="u2895-20_2x.png" crc="84756057" ref="phone>organization"/>
     <file name="huang291x192.jpg" crc="4211227216" seo="true" ref="phone>organization"/>
     <file name="huang291x192_2x.jpg" crc="3995598285" seo="true" ref="phone>organization"/>
-    <file name="u2905-4.png" crc="4074177642" ref="phone>organization"/>
-    <file name="u2905-4_2x.png" crc="283033719" ref="phone>organization"/>
-    <file name="u2906-4.png" crc="4157225302" ref="phone>organization"/>
-    <file name="u2906-4_2x.png" crc="3805029602" ref="phone>organization"/>
     <file name="president291x192.jpg" crc="4015592208" seo="true" ref="phone>organization"/>
     <file name="president291x192_2x.jpg" crc="502557492" seo="true" ref="phone>organization"/>
-    <file name="u2913-4.png" crc="41140251" ref="phone>organization"/>
-    <file name="u2913-4_2x.png" crc="4249993275" ref="phone>organization"/>
-    <file name="u2914-4.png" crc="163699049" ref="phone>organization"/>
-    <file name="u2914-4_2x.png" crc="32600334" ref="phone>organization"/>
     <file name="vice-p-1.png" crc="3886302037" seo="true" ref="phone>organization"/>
     <file name="vice-p-1_2x.png" crc="3994129492" seo="true" ref="phone>organization"/>
-    <file name="u2918-4.png" crc="120934439" ref="phone>organization"/>
-    <file name="u2918-4_2x.png" crc="3979680233" ref="phone>organization"/>
-    <file name="u2919-4.png" crc="260900981" ref="phone>organization"/>
-    <file name="u2919-4_2x.png" crc="142617559" ref="phone>organization"/>
     <file name="vice-p-2.png" crc="427353888" seo="true" ref="phone>organization"/>
     <file name="vice-p-2_2x.png" crc="256176423" seo="true" ref="phone>organization"/>
-    <file name="u2924-4.png" crc="394720591" ref="phone>organization"/>
-    <file name="u2924-4_2x.png" crc="46407095" ref="phone>organization"/>
-    <file name="u2925-4.png" crc="265751032" ref="phone>organization"/>
-    <file name="u2925-4_2x.png" crc="4194742038" ref="phone>organization"/>
     <file name="piano.png" crc="4190697757" seo="true" ref="phone>organization"/>
     <file name="piano_2x.png" crc="171098502" seo="true" ref="phone>organization"/>
-    <file name="u2930-4.png" crc="4155086364" ref="phone>organization"/>
-    <file name="u2930-4_2x.png" crc="4077097496" ref="phone>organization"/>
-    <file name="u2931-4.png" crc="178969630" ref="phone>organization"/>
-    <file name="u2931-4_2x.png" crc="18105974" ref="phone>organization"/>
     <file name="marketing.png" crc="3909037131" seo="true" ref="phone>organization"/>
     <file name="marketing_2x.png" crc="4160078982" seo="true" ref="phone>organization"/>
-    <file name="u2936-4.png" crc="3958860713" ref="phone>organization"/>
-    <file name="u2936-4_2x.png" crc="136559356" ref="phone>organization"/>
-    <file name="u2937-4.png" crc="3794962352" ref="phone>organization"/>
-    <file name="u2937-4_2x.png" crc="32202867" ref="phone>organization"/>
     <file name="finance.png" crc="151588781" seo="true" ref="phone>organization"/>
     <file name="finance_2x.png" crc="104119857" seo="true" ref="phone>organization"/>
-    <file name="u2942-4.png" crc="14492154" ref="phone>organization"/>
-    <file name="u2942-4_2x.png" crc="3850866946" ref="phone>organization"/>
-    <file name="u2943-4.png" crc="39811537" ref="phone>organization"/>
-    <file name="u2943-4_2x.png" crc="53365192" ref="phone>organization"/>
     <file name="equi-.png" crc="102781561" seo="true" ref="phone>organization"/>
     <file name="equi-_2x.png" crc="3778150897" seo="true" ref="phone>organization"/>
-    <file name="u2948-4.png" crc="26392640" ref="phone>organization"/>
-    <file name="u2948-4_2x.png" crc="4080763220" ref="phone>organization"/>
-    <file name="u2949-4.png" crc="506674088" ref="phone>organization"/>
-    <file name="u2949-4_2x.png" crc="292968612" ref="phone>organization"/>
     <file name="sheet.png" crc="214428875" seo="true" ref="phone>organization"/>
     <file name="sheet_2x.png" crc="4244627767" seo="true" ref="phone>organization"/>
-    <file name="u2954-4.png" crc="300931892" ref="phone>organization"/>
-    <file name="u2954-4_2x.png" crc="290517236" ref="phone>organization"/>
-    <file name="u2955-4.png" crc="508849921" ref="phone>organization"/>
-    <file name="u2955-4_2x.png" crc="412048291" ref="phone>organization"/>
     <file name="c1.png" crc="139841321" seo="true" ref="phone>organization"/>
     <file name="c1_2x.png" crc="510854937" seo="true" ref="phone>organization"/>
-    <file name="u2960-4.png" crc="4028519162" ref="phone>organization"/>
-    <file name="u2960-4_2x.png" crc="317942208" ref="phone>organization"/>
-    <file name="u2961-6.png" crc="221001518" ref="phone>organization"/>
-    <file name="u2961-6_2x.png" crc="3925261879" ref="phone>organization"/>
     <file name="c2.png" crc="4228863384" seo="true" ref="phone>organization"/>
     <file name="c2_2x.png" crc="4222019025" seo="true" ref="phone>organization"/>
-    <file name="u2967-4.png" crc="184527736" ref="phone>organization"/>
-    <file name="u2967-4_2x.png" crc="4065721336" ref="phone>organization"/>
-    <file name="u2968-4.png" crc="4289385677" ref="phone>organization"/>
-    <file name="u2968-4_2x.png" crc="16435130" ref="phone>organization"/>
-    <file name="u3453.png" crc="468065903" ref="phone>class"/>
-    <file name="u3453-m.png" crc="3880786141" ref="phone>class"/>
-    <file name="u3453-a.png" crc="215394407" ref="phone>class"/>
-    <file name="u3453_2x.png" crc="165531297" ref="phone>class"/>
-    <file name="u3453-m_2x.png" crc="3776313302" ref="phone>class"/>
-    <file name="u3453-a_2x.png" crc="4210641068" ref="phone>class"/>
-    <file name="u3435.png" crc="3974482380" ref="phone>class"/>
-    <file name="u3435-m.png" crc="392901162" ref="phone>class"/>
-    <file name="u3435-a.png" crc="4153380851" ref="phone>class"/>
-    <file name="u3435_2x.png" crc="3806939377" ref="phone>class"/>
-    <file name="u3435-m_2x.png" crc="205665617" ref="phone>class"/>
-    <file name="u3435-a_2x.png" crc="55821033" ref="phone>class"/>
-    <file name="u3443.png" crc="4251178099" ref="phone>class"/>
-    <file name="u3443-m.png" crc="313416594" ref="phone>class"/>
-    <file name="u3443-a.png" crc="4165827847" ref="phone>class"/>
-    <file name="u3443_2x.png" crc="3908102972" ref="phone>class"/>
-    <file name="u3443-m_2x.png" crc="4276484047" ref="phone>class"/>
-    <file name="u3443-a_2x.png" crc="50152603" ref="phone>class"/>
-    <file name="u3449-4-a.png" crc="4165622333" ref="phone>class"/>
-    <file name="u3449-4-a_2x.png" crc="3771718482" ref="phone>class"/>
-    <file name="u3461.png" crc="4221225593" ref="phone>class"/>
-    <file name="u3461-m.png" crc="3924498854" ref="phone>class"/>
-    <file name="u3461-a.png" crc="4235123345" ref="phone>class"/>
-    <file name="u3461_2x.png" crc="29991089" ref="phone>class"/>
-    <file name="u3461-m_2x.png" crc="4050644991" ref="phone>class"/>
-    <file name="u3461-a_2x.png" crc="196112926" ref="phone>class"/>
     <file name="class381x136.jpg" crc="386065275" seo="true" ref="phone>class"/>
     <file name="class381x136_2x.jpg" crc="258579487" seo="true" ref="phone>class"/>
     <file name="u3024-grad.png" crc="21862668" ref="phone>class"/>
-    <file name="u3025-6.png" crc="426331905" ref="phone>class"/>
-    <file name="u3025-6_2x.png" crc="458514826" ref="phone>class"/>
     <file name="short line342x7.png" crc="77887938" seo="true" ref="phone>class"/>
     <file name="short line342x7_2x.png" crc="3973910577" seo="true" ref="phone>class"/>
     <file name="tues129x130.png" crc="354753801" seo="true" ref="phone>class"/>
     <file name="tues129x130_2x.png" crc="344582656" seo="true" ref="phone>class"/>
     <file name="thur129x130.png" crc="3973913417" seo="true" ref="phone>class"/>
     <file name="thur129x130_2x.png" crc="186621756" seo="true" ref="phone>class"/>
-    <file name="u3019-4.png" crc="417257870" ref="phone>class"/>
-    <file name="u3019-4_2x.png" crc="4082519635" ref="phone>class"/>
-    <file name="u3020-4.png" crc="4218484690" ref="phone>class"/>
-    <file name="u3020-4_2x.png" crc="3999517260" ref="phone>class"/>
     <file name="alone302x208.jpg" crc="332954436" seo="true" ref="phone>class"/>
     <file name="alone302x208_2x.jpg" crc="377043076" seo="true" ref="phone>class"/>
-    <file name="u3034-4.png" crc="4134429967" ref="phone>class"/>
-    <file name="u3034-4_2x.png" crc="3989967920" ref="phone>class"/>
-    <file name="u3033-10.png" crc="133261919" ref="phone>class"/>
-    <file name="u3033-10_2x.png" crc="3790766614" ref="phone>class"/>
     <file name="seperate303x208.jpg" crc="3916516903" seo="true" ref="phone>class"/>
     <file name="seperate303x208_2x.jpg" crc="298240639" seo="true" ref="phone>class"/>
-    <file name="u3472-4.png" crc="3804337107" ref="phone>class"/>
-    <file name="u3472-4_2x.png" crc="234965078" ref="phone>class"/>
-    <file name="u3041-11.png" crc="4036552558" ref="phone>class"/>
-    <file name="u3041-11_2x.png" crc="4261358535" ref="phone>class"/>
     <file name="img_9097303x208.jpg" crc="78740081" seo="true" ref="phone>class"/>
     <file name="img_9097303x208_2x.jpg" crc="3923752792" seo="true" ref="phone>class"/>
-    <file name="u3475-4.png" crc="446508749" ref="phone>class"/>
-    <file name="u3475-4_2x.png" crc="4069544756" ref="phone>class"/>
-    <file name="u3052-10.png" crc="3998121701" ref="phone>class"/>
-    <file name="u3052-10_2x.png" crc="3890625390" ref="phone>class"/>
     <file name="t class303x209.jpg" crc="357688069" seo="true" ref="phone>class"/>
     <file name="t class303x209_2x.jpg" crc="3767768600" seo="true" ref="phone>class"/>
-    <file name="u3478-4.png" crc="4036957210" ref="phone>class"/>
-    <file name="u3478-4_2x.png" crc="3806945832" ref="phone>class"/>
-    <file name="u3060-12.png" crc="188837032" ref="phone>class"/>
-    <file name="u3060-12_2x.png" crc="44009502" ref="phone>class"/>
-    <file name="u3512.png" crc="468065903" ref="phone>medium"/>
-    <file name="u3512-m.png" crc="3880786141" ref="phone>medium"/>
-    <file name="u3512-a.png" crc="215394407" ref="phone>medium"/>
-    <file name="u3512_2x.png" crc="165531297" ref="phone>medium"/>
-    <file name="u3512-m_2x.png" crc="3776313302" ref="phone>medium"/>
-    <file name="u3512-a_2x.png" crc="4210641068" ref="phone>medium"/>
-    <file name="u3517.png" crc="3974482380" ref="phone>medium"/>
-    <file name="u3517-m.png" crc="392901162" ref="phone>medium"/>
-    <file name="u3517-a.png" crc="4153380851" ref="phone>medium"/>
-    <file name="u3517_2x.png" crc="3806939377" ref="phone>medium"/>
-    <file name="u3517-m_2x.png" crc="205665617" ref="phone>medium"/>
-    <file name="u3517-a_2x.png" crc="55821033" ref="phone>medium"/>
-    <file name="u3498.png" crc="4251178099" ref="phone>medium"/>
-    <file name="u3498-m.png" crc="313416594" ref="phone>medium"/>
-    <file name="u3498-a.png" crc="4165827847" ref="phone>medium"/>
-    <file name="u3498_2x.png" crc="3908102972" ref="phone>medium"/>
-    <file name="u3498-m_2x.png" crc="4276484047" ref="phone>medium"/>
-    <file name="u3498-a_2x.png" crc="50152603" ref="phone>medium"/>
-    <file name="u3503.png" crc="394409244" ref="phone>medium"/>
-    <file name="u3503-m.png" crc="4247707320" ref="phone>medium"/>
-    <file name="u3503-a.png" crc="4165622333" ref="phone>medium"/>
-    <file name="u3503_2x.png" crc="420183277" ref="phone>medium"/>
-    <file name="u3503-m_2x.png" crc="3767819831" ref="phone>medium"/>
-    <file name="u3503-a_2x.png" crc="3771718482" ref="phone>medium"/>
-    <file name="u3489-4-a.png" crc="4235123345" ref="phone>medium"/>
-    <file name="u3489-4-a_2x.png" crc="196112926" ref="phone>medium"/>
-    <file name="u3307-4.png" crc="3951110765" ref="phone>medium"/>
-    <file name="u3307-4_2x.png" crc="4036646185" ref="phone>medium"/>
     <file name="slider-1421x237.jpg" crc="92686472" seo="true" ref="phone>medium"/>
     <file name="slider-1421x237_2x.jpg" crc="3758421489" seo="true" ref="phone>medium"/>
     <file name="slider-2380x251.jpg" crc="369254136" seo="true" ref="phone>medium"/>
@@ -421,78 +208,20 @@
     <file name="slider-2124x17_2x.jpg" crc="3863315814" seo="true" ref="phone>medium"/>
     <file name="slider-2224x16.jpg" crc="4197632478" seo="true" ref="phone>medium"/>
     <file name="slider-2224x16_2x.jpg" crc="152702908" seo="true" ref="phone>medium"/>
-    <file name="u3120-5.png" crc="4007831766" ref="phone>medium"/>
-    <file name="u3120-5_2x.png" crc="316190957" ref="phone>medium"/>
-    <file name="u3121-6.png" crc="3780851864" ref="phone>medium"/>
-    <file name="u3121-6_2x.png" crc="266905721" ref="phone>medium"/>
     <file name="loading.gif" crc="3815509949" ref="phone>medium:media"/>
     <file name="onstage.jpg" crc="72429703" ref="phone>medium"/>
-    <file name="u3571-4.png" crc="4286614871" ref="phone>medium"/>
-    <file name="u3571-4_2x.png" crc="4127486968" ref="phone>medium"/>
     <file name="anniversary-u3317-fr.jpg" crc="85193533" ref="phone>medium"/>
     <file name="anniversary-u3317-fr_2x.jpg" crc="4129793332" ref="phone>medium"/>
-    <file name="u3320-4.png" crc="338617288" ref="phone>medium"/>
-    <file name="u3320-4_2x.png" crc="154232284" ref="phone>medium"/>
     <file name="dscf3401-u3318-fr.jpg" crc="3880193899" ref="phone>medium"/>
     <file name="dscf3401-u3318-fr_2x.jpg" crc="17405183" ref="phone>medium"/>
-    <file name="u3322-4.png" crc="3807604856" ref="phone>medium"/>
-    <file name="u3322-4_2x.png" crc="120825990" ref="phone>medium"/>
     <file name="large banner.jpg" crc="3826602296" ref="index"/>
-    <file name="u2425-4.png" crc="4080128650" ref="index"/>
-    <file name="u2425-4_2x.png" crc="3961824344" ref="index"/>
     <file name="up164-u2646.png" crc="4238310036" ref="index"/>
     <file name="up164-u2646_2x.png" crc="3943438312" ref="index"/>
     <file name="navigation logo.png" crc="3917517852" seo="true" ref="index:media:leadership:course"/>
     <file name="navigation logo_2x.png" crc="4033823828" seo="true" ref="index:media:leadership:course"/>
-    <file name="u214.png" crc="50552626" ref="index"/>
-    <file name="u214-r.png" crc="4106890710" ref="index"/>
-    <file name="u214-m.png" crc="330697121" ref="index"/>
-    <file name="u214-a.png" crc="3984303456" ref="index"/>
-    <file name="u214_2x.png" crc="4263418048" ref="index"/>
-    <file name="u214-r_2x.png" crc="472332853" ref="index"/>
-    <file name="u214-m_2x.png" crc="482381966" ref="index"/>
-    <file name="u214-a_2x.png" crc="4111324129" ref="index"/>
-    <file name="u191.png" crc="42076271" ref="index"/>
-    <file name="u191-r.png" crc="4122157574" ref="index"/>
-    <file name="u191-m.png" crc="4053282721" ref="index"/>
-    <file name="u191-a.png" crc="144596545" ref="index"/>
-    <file name="u191_2x.png" crc="3909738191" ref="index"/>
-    <file name="u191-r_2x.png" crc="3940186883" ref="index"/>
-    <file name="u191-m_2x.png" crc="3958375328" ref="index"/>
-    <file name="u191-a_2x.png" crc="473561576" ref="index"/>
-    <file name="u198.png" crc="4246101406" ref="index"/>
-    <file name="u198-r.png" crc="382076529" ref="index"/>
-    <file name="u198-m.png" crc="3765481322" ref="index"/>
-    <file name="u198-a.png" crc="4251860089" ref="index"/>
-    <file name="u198_2x.png" crc="4149268775" ref="index"/>
-    <file name="u198-r_2x.png" crc="4259742189" ref="index"/>
-    <file name="u198-m_2x.png" crc="4118633691" ref="index"/>
-    <file name="u198-a_2x.png" crc="342607005" ref="index"/>
-    <file name="u207.png" crc="212700440" ref="index"/>
-    <file name="u207-r.png" crc="159787942" ref="index"/>
-    <file name="u207-m.png" crc="3913465445" ref="index"/>
-    <file name="u207-a.png" crc="4018344759" ref="index"/>
-    <file name="u207_2x.png" crc="4013007083" ref="index"/>
-    <file name="u207-r_2x.png" crc="4069003452" ref="index"/>
-    <file name="u207-m_2x.png" crc="441591594" ref="index"/>
-    <file name="u207-a_2x.png" crc="263177516" ref="index"/>
     <file name="stage.jpg" crc="167367752" seo="true" ref="index"/>
-    <file name="u309.png" crc="306897709" ref="index"/>
-    <file name="u309-r.png" crc="306897709" ref="index"/>
-    <file name="u309_2x.png" crc="4183522320" ref="index"/>
-    <file name="u309-r_2x.png" crc="4183522320" ref="index"/>
-    <file name="u375.png" crc="3908940557" ref="index"/>
-    <file name="u375-r.png" crc="3908940557" ref="index"/>
-    <file name="u375_2x.png" crc="3979064734" ref="index"/>
-    <file name="u375-r_2x.png" crc="3979064734" ref="index"/>
     <file name="main line.png" crc="3786084271" seo="true" ref="index:media:leadership:course"/>
     <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:media:leadership:course"/>
-    <file name="u354-4.png" crc="47384227" ref="index"/>
-    <file name="u354-4_2x.png" crc="4279177085" ref="index"/>
-    <file name="u355-4.png" crc="105767519" ref="index"/>
-    <file name="u355-4_2x.png" crc="4179796870" ref="index"/>
-    <file name="u356-4.png" crc="3960667492" ref="index"/>
-    <file name="u356-4_2x.png" crc="3842407182" ref="index"/>
     <file name="u2435.png" crc="4128584350" ref="index"/>
     <file name="u2435-r.png" crc="3920297347" ref="index"/>
     <file name="u2435_2x.png" crc="361988338" ref="index"/>
@@ -507,72 +236,21 @@
     <file name="u2447-r_2x.png" crc="225410125" ref="index"/>
     <file name="rainbow logo-u359.png" crc="4215719154" ref="index"/>
     <file name="rainbow logo-u359_2x.png" crc="3887916771" ref="index"/>
-    <file name="u2455-9.png" crc="505668827" ref="index"/>
-    <file name="u2455-9_2x.png" crc="4263956293" ref="index"/>
-    <file name="u2456-4.png" crc="4134870665" ref="index"/>
-    <file name="u2456-4_2x.png" crc="449168150" ref="index"/>
     <file name="guide.png" crc="3994271862" seo="true" ref="index"/>
     <file name="guide_2x.png" crc="3989920284" seo="true" ref="index"/>
-    <file name="u365-13.png" crc="3969564664" ref="index"/>
-    <file name="u365-13_2x.png" crc="311446924" ref="index"/>
-    <file name="u2457-4.png" crc="323296390" ref="index"/>
-    <file name="u2457-4_2x.png" crc="4283210070" ref="index"/>
     <file name="short line.png" crc="258633909" seo="true" ref="index"/>
     <file name="short line_2x.png" crc="112547011" seo="true" ref="index"/>
-    <file name="u388-6.png" crc="20389018" ref="index"/>
-    <file name="u388-6_2x.png" crc="273296074" ref="index"/>
     <file name="800讚.jpg" crc="87690938" seo="true" ref="index"/>
     <file name="800讚_2x.jpg" crc="4077302504" seo="true" ref="index"/>
     <file name="tri-chart.png" crc="4123034808" seo="true" ref="index"/>
     <file name="tri-chart_2x.png" crc="104658941" seo="true" ref="index"/>
-    <file name="u417-16.png" crc="379192882" ref="index"/>
-    <file name="u417-16_2x.png" crc="3820511706" ref="index"/>
-    <file name="u2459-4.png" crc="400089554" ref="index"/>
-    <file name="u2459-4_2x.png" crc="4244123503" ref="index"/>
-    <file name="structure.png" crc="3883354345" seo="true" ref="index"/>
-    <file name="structure_2x.png" crc="354280140" seo="true" ref="index"/>
-    <file name="map.jpg" crc="157330235" seo="true" ref="index"/>
-    <file name="map_2x.jpg" crc="227446755" seo="true" ref="index"/>
+    <file name="structure.png" crc="3383790" seo="true" ref="index"/>
+    <file name="structure_2x.png" crc="4179060128" seo="true" ref="index"/>
+    <file name="map.jpg" crc="508923720" seo="true" ref="index"/>
+    <file name="map_2x.jpg" crc="209525782" seo="true" ref="index"/>
     <file name="indicator.png" crc="4119194928" seo="true" ref="index"/>
     <file name="indicator_2x.png" crc="423485540" seo="true" ref="index"/>
-    <file name="u450-9.png" crc="87715721" ref="index"/>
-    <file name="u450-9_2x.png" crc="314299259" ref="index"/>
-    <file name="u452-4.png" crc="68101155" ref="index:media:leadership:course"/>
-    <file name="u452-4_2x.png" crc="459185652" ref="index:media:leadership:course"/>
-    <file name="u453-4.png" crc="44539025" ref="index:media:leadership:course"/>
-    <file name="u453-4_2x.png" crc="3917637794" ref="index:media:leadership:course"/>
-    <file name="u454-4.png" crc="119162639" ref="index:media:leadership:course"/>
-    <file name="u454-4_2x.png" crc="4051397214" ref="index:media:leadership:course"/>
-    <file name="u1179.png" crc="50552626" ref="media"/>
-    <file name="u1179-r.png" crc="4106890710" ref="media"/>
-    <file name="u1179-m.png" crc="330697121" ref="media"/>
-    <file name="u1179-a.png" crc="3984303456" ref="media"/>
-    <file name="u1179_2x.png" crc="4263418048" ref="media"/>
-    <file name="u1179-r_2x.png" crc="472332853" ref="media"/>
-    <file name="u1179-m_2x.png" crc="482381966" ref="media"/>
-    <file name="u1179-a_2x.png" crc="4111324129" ref="media"/>
-    <file name="u1166.png" crc="42076271" ref="media"/>
-    <file name="u1166-r.png" crc="4122157574" ref="media"/>
-    <file name="u1166-m.png" crc="4053282721" ref="media"/>
-    <file name="u1166-a.png" crc="144596545" ref="media"/>
-    <file name="u1166_2x.png" crc="3909738191" ref="media"/>
-    <file name="u1166-r_2x.png" crc="3940186883" ref="media"/>
-    <file name="u1166-m_2x.png" crc="3958375328" ref="media"/>
-    <file name="u1166-a_2x.png" crc="473561576" ref="media"/>
-    <file name="u1175.png" crc="4246101406" ref="media"/>
-    <file name="u1175-r.png" crc="382076529" ref="media"/>
-    <file name="u1175-m.png" crc="3765481322" ref="media"/>
-    <file name="u1175-a.png" crc="4251860089" ref="media"/>
-    <file name="u1175_2x.png" crc="4149268775" ref="media"/>
-    <file name="u1175-r_2x.png" crc="4259742189" ref="media"/>
-    <file name="u1175-m_2x.png" crc="4118633691" ref="media"/>
-    <file name="u1175-a_2x.png" crc="342607005" ref="media"/>
-    <file name="u1188-4-a.png" crc="4018344759" ref="media"/>
-    <file name="u1188-4-a_2x.png" crc="263177516" ref="media"/>
-    <file name="onstage2.jpg" crc="311511889" seo="true" ref="media"/>
     <file name="onstage_2x.jpg" crc="331759176" seo="true" ref="media"/>
-    <file name="u1205-4.png" crc="358577992" ref="media"/>
-    <file name="u1205-4_2x.png" crc="495858258" ref="media"/>
     <file name="slider-1.jpg" crc="387858815" seo="true" ref="media"/>
     <file name="slider-1_2x.jpg" crc="4011445729" seo="true" ref="media"/>
     <file name="slider-2.jpg" crc="132610728" seo="true" ref="media"/>
@@ -653,8 +331,6 @@
     <file name="u1222-13_2x.png" crc="147544298" ref="media"/>
     <file name="u1228-13.png" crc="4092172435" ref="media"/>
     <file name="u1228-13_2x.png" crc="3845148229" ref="media"/>
-    <file name="u2373-4.png" crc="4124191402" ref="media"/>
-    <file name="u2373-4_2x.png" crc="3842456047" ref="media"/>
     <file name="anniversary-ieu3764-fr.png" crc="507288554" ref="media"/>
     <file name="anniversary.jpg" crc="257755185" ref="media"/>
     <file name="videoplaybutton.png" crc="183251686" seo="true" ref="media"/>
@@ -663,38 +339,6 @@
     <file name="sprite_2x.png" crc="3811760408" seo="true" ref="media"/>
     <file name="dscf3401-ieu3861-fr.png" crc="3815541223" ref="media"/>
     <file name="dscf3401.jpg" crc="4252838402" ref="media"/>
-    <file name="u2391-4.png" crc="4238924543" ref="media"/>
-    <file name="u2391-4_2x.png" crc="4072222378" ref="media"/>
-    <file name="u2496-4.png" crc="231097716" ref="media"/>
-    <file name="u2496-4_2x.png" crc="3920325526" ref="media"/>
-    <file name="u1050.png" crc="50552626" ref="leadership"/>
-    <file name="u1050-r.png" crc="4106890710" ref="leadership"/>
-    <file name="u1050-m.png" crc="330697121" ref="leadership"/>
-    <file name="u1050-a.png" crc="3984303456" ref="leadership"/>
-    <file name="u1050_2x.png" crc="4263418048" ref="leadership"/>
-    <file name="u1050-r_2x.png" crc="472332853" ref="leadership"/>
-    <file name="u1050-m_2x.png" crc="482381966" ref="leadership"/>
-    <file name="u1050-a_2x.png" crc="4111324129" ref="leadership"/>
-    <file name="u1056-4-a.png" crc="144596545" ref="leadership"/>
-    <file name="u1056-4-a_2x.png" crc="473561576" ref="leadership"/>
-    <file name="u1044.png" crc="4246101406" ref="leadership"/>
-    <file name="u1044-r.png" crc="382076529" ref="leadership"/>
-    <file name="u1044-m.png" crc="3765481322" ref="leadership"/>
-    <file name="u1044-a.png" crc="4251860089" ref="leadership"/>
-    <file name="u1044_2x.png" crc="4149268775" ref="leadership"/>
-    <file name="u1044-r_2x.png" crc="4259742189" ref="leadership"/>
-    <file name="u1044-m_2x.png" crc="4118633691" ref="leadership"/>
-    <file name="u1044-a_2x.png" crc="342607005" ref="leadership"/>
-    <file name="u1065.png" crc="212700440" ref="leadership"/>
-    <file name="u1065-r.png" crc="159787942" ref="leadership"/>
-    <file name="u1065-m.png" crc="3913465445" ref="leadership"/>
-    <file name="u1065-a.png" crc="4018344759" ref="leadership"/>
-    <file name="u1065_2x.png" crc="4013007083" ref="leadership"/>
-    <file name="u1065-r_2x.png" crc="4069003452" ref="leadership"/>
-    <file name="u1065-m_2x.png" crc="441591594" ref="leadership"/>
-    <file name="u1065-a_2x.png" crc="263177516" ref="leadership"/>
-    <file name="u464-4.png" crc="150724202" ref="leadership"/>
-    <file name="u464-4_2x.png" crc="50076620" ref="leadership"/>
     <file name="詳細介紹.png" crc="191498485" seo="true" ref="leadership"/>
     <file name="詳細介紹_2x.png" crc="4246493799" seo="true" ref="leadership"/>
     <file name="y-t.jpg" crc="129304895" seo="true" ref="leadership"/>
@@ -705,161 +349,64 @@
     <file name="girls_2x.jpg" crc="3928332345" seo="true" ref="leadership"/>
     <file name="pantagon.png" crc="452739118" seo="true" ref="leadership"/>
     <file name="pantagon_2x.png" crc="26849070" seo="true" ref="leadership"/>
-    <file name="u708-6.png" crc="466670424" ref="leadership"/>
-    <file name="u708-6_2x.png" crc="4253809660" ref="leadership"/>
-    <file name="u707-20.png" crc="14316427" ref="leadership"/>
-    <file name="u707-20_2x.png" crc="3769185524" ref="leadership"/>
     <file name="huang.jpg" crc="65994573" seo="true" ref="leadership"/>
     <file name="huang_2x.jpg" crc="238637512" seo="true" ref="leadership"/>
     <file name="president.jpg" crc="439766676" seo="true" ref="leadership"/>
     <file name="president_2x.jpg" crc="4096393665" seo="true" ref="leadership"/>
-    <file name="u749-4.png" crc="110180588" ref="leadership"/>
-    <file name="u749-4_2x.png" crc="378382352" ref="leadership"/>
-    <file name="u750-4.png" crc="516891619" ref="leadership"/>
-    <file name="u750-4_2x.png" crc="23152502" ref="leadership"/>
-    <file name="u752-4.png" crc="214966598" ref="leadership"/>
-    <file name="u752-4_2x.png" crc="154319129" ref="leadership"/>
-    <file name="u753-4.png" crc="148588046" ref="leadership"/>
-    <file name="u753-4_2x.png" crc="3973466331" ref="leadership"/>
     <file name="vice-p-1236x236.png" crc="272290391" seo="true" ref="leadership"/>
     <file name="vice-p-1236x236_2x.png" crc="4216505219" seo="true" ref="leadership"/>
     <file name="vice-p-2235x235.png" crc="3996086188" seo="true" ref="leadership"/>
     <file name="vice-p-2235x235_2x.png" crc="198919285" seo="true" ref="leadership"/>
     <file name="piano235x235.png" crc="3955638513" seo="true" ref="leadership"/>
     <file name="piano235x235_2x.png" crc="4053040903" seo="true" ref="leadership"/>
-    <file name="u791-4.png" crc="4008126262" ref="leadership"/>
-    <file name="u791-4_2x.png" crc="4294460731" ref="leadership"/>
-    <file name="u797-4.png" crc="477107726" ref="leadership"/>
-    <file name="u797-4_2x.png" crc="93637221" ref="leadership"/>
-    <file name="u800-4.png" crc="16784518" ref="leadership"/>
-    <file name="u800-4_2x.png" crc="255283841" ref="leadership"/>
-    <file name="u792-4.png" crc="4041597292" ref="leadership"/>
-    <file name="u792-4_2x.png" crc="179137989" ref="leadership"/>
-    <file name="u798-4.png" crc="3820735926" ref="leadership"/>
-    <file name="u798-4_2x.png" crc="511372930" ref="leadership"/>
-    <file name="u801-4.png" crc="4103775872" ref="leadership"/>
-    <file name="u801-4_2x.png" crc="4163956810" ref="leadership"/>
     <file name="marketing236x236.png" crc="4267611692" seo="true" ref="leadership"/>
     <file name="marketing236x236_2x.png" crc="4051921800" seo="true" ref="leadership"/>
     <file name="finance236x236.png" crc="258744858" seo="true" ref="leadership"/>
     <file name="finance236x236_2x.png" crc="478835441" seo="true" ref="leadership"/>
     <file name="equi-236x236.png" crc="494304572" seo="true" ref="leadership"/>
     <file name="equi-236x236_2x.png" crc="389999164" seo="true" ref="leadership"/>
-    <file name="u815-4.png" crc="4180340998" ref="leadership"/>
-    <file name="u815-4_2x.png" crc="4257103408" ref="leadership"/>
-    <file name="u824-4.png" crc="812110" ref="leadership"/>
-    <file name="u824-4_2x.png" crc="3977979584" ref="leadership"/>
-    <file name="u833-4.png" crc="235674902" ref="leadership"/>
-    <file name="u833-4_2x.png" crc="397547835" ref="leadership"/>
-    <file name="u816-4.png" crc="3820735926" ref="leadership"/>
-    <file name="u816-4_2x.png" crc="511372930" ref="leadership"/>
-    <file name="u825-4.png" crc="4103775872" ref="leadership"/>
-    <file name="u825-4_2x.png" crc="4163956810" ref="leadership"/>
-    <file name="u834-4.png" crc="3987215828" ref="leadership"/>
-    <file name="u834-4_2x.png" crc="4073951545" ref="leadership"/>
     <file name="sheet236x236.png" crc="4259647909" seo="true" ref="leadership"/>
     <file name="sheet236x236_2x.png" crc="4012022907" seo="true" ref="leadership"/>
     <file name="c1236x236.png" crc="4113886339" seo="true" ref="leadership"/>
     <file name="c1236x236_2x.png" crc="347803251" seo="true" ref="leadership"/>
     <file name="c2236x236.png" crc="95719753" seo="true" ref="leadership"/>
     <file name="c2236x236_2x.png" crc="3883297125" seo="true" ref="leadership"/>
-    <file name="u842-4.png" crc="3988889694" ref="leadership"/>
-    <file name="u842-4_2x.png" crc="305388362" ref="leadership"/>
-    <file name="u851-4.png" crc="3874703098" ref="leadership"/>
-    <file name="u851-4_2x.png" crc="3863567996" ref="leadership"/>
-    <file name="u860-4.png" crc="4058202512" ref="leadership"/>
-    <file name="u860-4_2x.png" crc="4214396629" ref="leadership"/>
-    <file name="u843-4.png" crc="137948429" ref="leadership"/>
-    <file name="u843-4_2x.png" crc="221644511" ref="leadership"/>
-    <file name="u852-8.png" crc="532721276" ref="leadership"/>
-    <file name="u852-8_2x.png" crc="110962934" ref="leadership"/>
-    <file name="u861-4.png" crc="3763204609" ref="leadership"/>
-    <file name="u861-4_2x.png" crc="3772492920" ref="leadership"/>
-    <file name="u1139.png" crc="50552626" ref="course"/>
-    <file name="u1139-r.png" crc="4106890710" ref="course"/>
-    <file name="u1139-m.png" crc="330697121" ref="course"/>
-    <file name="u1139-a.png" crc="3984303456" ref="course"/>
-    <file name="u1139_2x.png" crc="4263418048" ref="course"/>
-    <file name="u1139-r_2x.png" crc="472332853" ref="course"/>
-    <file name="u1139-m_2x.png" crc="482381966" ref="course"/>
-    <file name="u1139-a_2x.png" crc="4111324129" ref="course"/>
-    <file name="u1120.png" crc="42076271" ref="course"/>
-    <file name="u1120-r.png" crc="4122157574" ref="course"/>
-    <file name="u1120-m.png" crc="4053282721" ref="course"/>
-    <file name="u1120-a.png" crc="144596545" ref="course"/>
-    <file name="u1120_2x.png" crc="3909738191" ref="course"/>
-    <file name="u1120-r_2x.png" crc="3940186883" ref="course"/>
-    <file name="u1120-m_2x.png" crc="3958375328" ref="course"/>
-    <file name="u1120-a_2x.png" crc="473561576" ref="course"/>
-    <file name="u1125-4-a.png" crc="4251860089" ref="course"/>
-    <file name="u1125-4-a_2x.png" crc="342607005" ref="course"/>
-    <file name="u1134.png" crc="212700440" ref="course"/>
-    <file name="u1134-r.png" crc="159787942" ref="course"/>
-    <file name="u1134-m.png" crc="3913465445" ref="course"/>
-    <file name="u1134-a.png" crc="4018344759" ref="course"/>
-    <file name="u1134_2x.png" crc="4013007083" ref="course"/>
-    <file name="u1134-r_2x.png" crc="4069003452" ref="course"/>
-    <file name="u1134-m_2x.png" crc="441591594" ref="course"/>
-    <file name="u1134-a_2x.png" crc="263177516" ref="course"/>
     <file name="class.jpg" crc="4068142512" seo="true" ref="course"/>
     <file name="class_2x.jpg" crc="421336231" seo="true" ref="course"/>
-    <file name="u933.png" crc="3996763999" ref="course"/>
-    <file name="u933-r.png" crc="3996763999" ref="course"/>
-    <file name="u933_2x.png" crc="536132812" ref="course"/>
-    <file name="u933-r_2x.png" crc="536132812" ref="course"/>
     <file name="4circles.png" crc="355224877" seo="true" ref="course"/>
     <file name="4circles_2x.png" crc="431705612" seo="true" ref="course"/>
     <file name="tues.png" crc="3962945407" seo="true" ref="course"/>
     <file name="tues_2x.png" crc="4059804251" seo="true" ref="course"/>
     <file name="thur.png" crc="3855477895" seo="true" ref="course"/>
     <file name="thur_2x.png" crc="3893869869" seo="true" ref="course"/>
-    <file name="u1009-4.png" crc="185724584" ref="course"/>
-    <file name="u1009-4_2x.png" crc="3792712476" ref="course"/>
-    <file name="u1010-4.png" crc="4191130357" ref="course"/>
-    <file name="u1010-4_2x.png" crc="307801798" ref="course"/>
     <file name="alone.jpg" crc="4171080385" seo="true" ref="course"/>
     <file name="alone_2x.jpg" crc="360012027" seo="true" ref="course"/>
-    <file name="u955-4.png" crc="3990673244" ref="course"/>
-    <file name="u955-4_2x.png" crc="4090961573" ref="course"/>
-    <file name="u954-10.png" crc="3950868085" ref="course"/>
-    <file name="u954-10_2x.png" crc="3974224225" ref="course"/>
-    <file name="u971-4.png" crc="297900056" ref="course"/>
-    <file name="u971-4_2x.png" crc="4053820089" ref="course"/>
-    <file name="u970-7.png" crc="195053982" ref="course"/>
-    <file name="u970-7_2x.png" crc="3797163494" ref="course"/>
     <file name="seperate.jpg" crc="85577430" seo="true" ref="course"/>
     <file name="seperate_2x.jpg" crc="3781301962" seo="true" ref="course"/>
     <file name="img_9097.jpg" crc="4000800963" seo="true" ref="course"/>
     <file name="img_9097_2x.jpg" crc="204393853" seo="true" ref="course"/>
-    <file name="u982-4.png" crc="3958111075" ref="course"/>
-    <file name="u982-4_2x.png" crc="388624306" ref="course"/>
-    <file name="u981-10.png" crc="460942350" ref="course"/>
-    <file name="u981-10_2x.png" crc="3929330757" ref="course"/>
-    <file name="u993-4.png" crc="398412765" ref="course"/>
-    <file name="u993-4_2x.png" crc="89891253" ref="course"/>
-    <file name="u992-10.png" crc="3939981109" ref="course"/>
-    <file name="u992-10_2x.png" crc="3953367744" ref="course"/>
     <file name="t class.jpg" crc="4147093645" seo="true" ref="course"/>
     <file name="t class_2x.jpg" crc="3910246139" seo="true" ref="course"/>
+    <file name="u3913-grad.png" crc="216870104" ref="course"/>
+    <file name="onstage2.jpg" crc="311511889" seo="true" ref="media"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-__.css" crc="4072257644" ref="phone>organization:phone>class:phone>index:phone>medium:phone>intro"/>
-      <file name="organization.css" crc="4191841474" ref="phone>organization"/>
-      <file name="class.css" crc="4125019951" ref="phone>class"/>
-      <file name="index.css" crc="337634320" ref="phone>index"/>
-      <file name="medium.css" crc="4091713117" ref="phone>medium"/>
-      <file name="intro.css" crc="345207479" ref="phone>intro"/>
-      <file name="iefonts_organization.css" crc="3925724156" ref="phone>organization"/>
+      <file name="master_a-__.css" crc="461844691" ref="phone>organization:phone>class:phone>index:phone>medium:phone>intro"/>
+      <file name="organization.css" crc="418532456" ref="phone>organization"/>
+      <file name="class.css" crc="4267134411" ref="phone>class"/>
+      <file name="index.css" crc="456051280" ref="phone>index"/>
+      <file name="medium.css" crc="117873877" ref="phone>medium"/>
+      <file name="intro.css" crc="4164933230" ref="phone>intro"/>
     </folder>
-    <file name="index.html" crc="339475461" seo="true" mt="1437916039949" redirect="true"/>
-    <file name="intro.html" crc="3976141829" seo="true" mt="1437916039949" redirect="true"/>
-    <file name="organization.html" crc="4276542898" seo="true" mt="1437916194382" redirect="true"/>
-    <file name="class.html" crc="4227850159" seo="true" mt="1437916039950" redirect="true"/>
-    <file name="medium.html" crc="9938715" seo="true" mt="1437916039950" redirect="true"/>
+    <file name="index.html" crc="118738880" seo="true" mt="1437922790490" redirect="true"/>
+    <file name="intro.html" crc="4245974902" seo="true" mt="1437923135314" redirect="true"/>
+    <file name="organization.html" crc="3955241534" seo="true" mt="1437923346287" redirect="true"/>
+    <file name="class.html" crc="223570336" seo="true" mt="1437923383109" redirect="true"/>
+    <file name="medium.html" crc="3839483247" seo="true" mt="1437922905076" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4148465235" seo="true" mt="1437916039947" redirect="true"/>
-  <file name="media.html" crc="4183921609" seo="true" mt="1437916039947" redirect="true"/>
-  <file name="leadership.html" crc="297912292" seo="true" mt="1437916236831" redirect="true"/>
-  <file name="course.html" crc="4176097218" seo="true" mt="1437916039948" redirect="true"/>
+  <file name="index.html" crc="207957217" seo="true" mt="1437923219365" redirect="true"/>
+  <file name="media.html" crc="478319386" seo="true" mt="1437922172650" redirect="true"/>
+  <file name="leadership.html" crc="268135195" seo="true" mt="1437922187438" redirect="true"/>
+  <file name="course.html" crc="4254689345" seo="true" mt="1437922123448" redirect="true"/>
 </manifest>
