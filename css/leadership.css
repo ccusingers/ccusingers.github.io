@@ -1,7 +1,7 @@
 .version.leadership /* version checker */
 {
-	color: #0000FC;
-	background-color: #0CE6DB;
+	color: #0000E0;
+	background-color: #CEC932;
 }
 
 .html
@@ -128,9 +128,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -203,9 +203,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -284,9 +284,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -358,9 +358,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -449,8 +449,8 @@
 	width: 211px;
 	min-height: 52px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -462,9 +462,9 @@
 	width: 538px;
 	min-height: 312px;
 	background-color: transparent;
+	line-height: 30px;
 	text-align: justify;
 	font-size: 20px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 10px;
 	position: relative;
@@ -613,9 +613,9 @@
 	width: 337px;
 	min-height: 66px;
 	background-color: transparent;
+	line-height: 27px;
 	text-align: right;
 	font-size: 18px;
-	line-height: 27px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 8px;
 	position: relative;
@@ -656,7 +656,7 @@
 {
 	width: 0.01px;
 	margin-left: 96px;
-	margin-top: 12px;
+	margin-top: 10px;
 }
 
 #u748
@@ -674,6 +674,7 @@
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
+	margin-top: 2px;
 	margin-left: 6px;
 }
 
@@ -683,8 +684,8 @@
 	width: 304px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -696,8 +697,8 @@
 	width: 274px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 7px;
 	position: relative;
@@ -711,14 +712,16 @@
 	background-color: #42410B;
 	position: relative;
 	margin-right: -10000px;
-	left: 470px;
+	left: 468px;
 }
 
 #pu752-4
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-left: 475px;
+	margin-top: 2px;
+	margin-left: 474px;
 }
 
 #u752-4
@@ -727,11 +730,10 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
-	margin-left: 1px;
 	position: relative;
 }
 
@@ -741,9 +743,10 @@
 	width: 337px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	margin-left: 1px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -825,8 +828,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -839,8 +842,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -854,8 +857,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -869,8 +872,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -882,8 +885,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -896,8 +899,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -987,8 +990,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1001,8 +1004,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1016,8 +1019,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1038,8 +1041,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1051,8 +1054,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1065,8 +1068,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1156,8 +1159,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1170,8 +1173,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1185,8 +1188,8 @@
 	width: 213px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 22px;
 	line-height: 26px;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1207,8 +1210,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1220,8 +1223,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 27px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1234,8 +1237,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 25px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
