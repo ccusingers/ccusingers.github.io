@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001B;
-	background-color: #2ECA50;
+	color: #0000E4;
+	background-color: #8E0313;
 }
 
 @-ms-viewport
@@ -115,12 +115,12 @@
 	z-index: 65;
 	width: 380px;
 	height: 215px;
-	-pie-box-shadow: 0px 0px 10px 3px #DFDFDF;
+	-pie-box-shadow: none;
 	box-shadow: 0px 0px 10px rgba(127,127,127,0.25),0px 0px 10px rgba(127,127,127,0.25);
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/0.jpg") no-repeat center center;
+	background: transparent url("../../images/0.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -137,7 +137,7 @@
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/1.jpg") no-repeat center center;
+	background: transparent url("../../images/1.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -154,7 +154,7 @@
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/2.jpg") no-repeat center center;
+	background: transparent url("../../images/2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -171,13 +171,13 @@
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/fp-boys.jpg") no-repeat center center;
+	background: transparent url("../../images/3-u1418-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u1418
 {
-	background-image: url("../../images/fp-boys_2x.jpg");
+	background-image: url("../../images/3-u1418-fr_2x.jpg");
 }
 
 #u2500
@@ -188,7 +188,7 @@
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/4.jpg") no-repeat center center;
+	background: transparent url("../../images/4.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -205,7 +205,7 @@
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/5.jpg") no-repeat center center;
+	background: transparent url("../../images/5.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -222,7 +222,7 @@
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/6.jpg") no-repeat center center;
+	background: transparent url("../../images/6.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -239,7 +239,7 @@
 	border-color: #999999;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../../images/7.jpg") no-repeat center center;
+	background: transparent url("../../images/7.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -423,7 +423,7 @@
 .hidpi #u1422.PamphletThumbSelected
 {
 	background-image: url("../../images/3_2x.jpg");
-	background-size: 819px 453px;
+	background-size: 650px 359.5px;
 }
 
 #u2501
