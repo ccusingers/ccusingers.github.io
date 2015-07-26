@@ -1,7 +1,7 @@
 .version.leadership /* version checker */
 {
-	color: #0000F8;
-	background-color: #0B294B;
+	color: #0000FA;
+	background-color: #14152C;
 }
 
 .html
@@ -405,8 +405,14 @@
 #u478-15
 {
 	z-index: 24;
-	display: block;
-	vertical-align: top;
+	width: 487px;
+	min-height: 312px;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
 	margin-top: 32px;
 	position: relative;
 }
