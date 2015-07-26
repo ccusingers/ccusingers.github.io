@@ -1,7 +1,7 @@
 .version.medium /* version checker */
 {
-	color: #000007;
-	background-color: #069CD5;
+	color: #0000E9;
+	background-color: #D2C8D4;
 }
 
 @-ms-viewport
@@ -491,23 +491,33 @@
 	position: relative;
 }
 
-#pu3581
+#u3923
 {
-	width: 0.01px;
+	z-index: 170;
+	height: 149px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 4px rgba(0,0,0,0.2),0px 0px 4px rgba(0,0,0,0.2);
+	background: transparent url("../../images/onstage.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u3923-bw
+{
+	z-index: 170;
 	margin-top: 7px;
+	height: 149px;
 }
 
 #u3581
 {
 	z-index: 19;
-	width: 189px;
-	background-color: #DCCFC3;
-	background-color: rgba(140,98,57,0.3);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 128px;
-	padding: 34px 96px 333px 95px;
-	-pie-background: rgba(140,98,57,0.3);
+	min-height: 28px;
+	background: -webkit-gradient(linear, center top, center bottom, from(#FFFFFF),color-stop(100%, rgba(96,56,19,0.2)));
+	background: -webkit-linear-gradient(top,#FFFFFF ,rgba(96,56,19,0.2) 100%);
+	background: linear-gradient(to bottom,#FFFFFF ,rgba(96,56,19,0.2) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#33603813, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#33603813', GradientType=0)";
+	padding: 33px 96px 333px 95px;
 }
 
 #u3307-4
@@ -535,6 +545,12 @@
 	position: relative;
 }
 
+#u3581-bw
+{
+	z-index: 19;
+	min-height: 28px;
+}
+
 #slideshowu3117
 {
 	z-index: 20;
@@ -542,7 +558,7 @@
 	height: 301px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 206px;
+	margin-top: 77px;
 }
 
 #u3123
@@ -1232,21 +1248,7 @@
 	background: url("../../images/loading.gif") no-repeat center center;
 }
 
-#u3923
-{
-	z-index: 170;
-	height: 149px;
-	background: transparent url("../../images/onstage.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u3923-bw
-{
-	z-index: 170;
-	height: 149px;
-}
-
-#page_position_content,#pu3582
+#page_position_content,#pu3581,#pu3582
 {
 	width: 0.01px;
 }

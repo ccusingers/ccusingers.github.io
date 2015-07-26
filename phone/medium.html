@@ -16,7 +16,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?453856629"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-__.css?461844691"/>
-  <link rel="stylesheet" type="text/css" href="css/medium.css?117873877" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/medium.css?3922905300" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -63,12 +63,17 @@
     <div class="clip_frame colelem" id="u3520"><!-- image -->
      <img class="block" id="u3520_img" src="../images/line.png" alt="" width="380" height="1"/>
     </div>
+    <div class="browser_width colelem" id="u3923-bw">
+     <div class="shadow museBGSize" id="u3923"><!-- simple frame --></div>
+    </div>
     <div class="clearfix colelem" id="pu3581"><!-- group -->
-     <div class="rgba-background clearfix grpelem" id="u3581"><!-- column -->
-      <div class="clearfix colelem" id="u3307-4"><!-- content -->
-       <h1>抓住每一瞬間的感動</h1>
+     <div class="browser_width grpelem" id="u3581-bw">
+      <div class="gradient clearfix" id="u3581"><!-- column -->
+       <div class="clearfix colelem" id="u3307-4"><!-- content -->
+        <h1>抓住每一瞬間的感動</h1>
+       </div>
+       <div class="colelem" id="u3308"><!-- simple frame --></div>
       </div>
-      <div class="colelem" id="u3308"><!-- simple frame --></div>
      </div>
      <div class="SlideShowWidget clearfix grpelem" id="slideshowu3117"><!-- none box -->
       <div class="popup_anchor" id="u3123popup">
@@ -281,9 +286,6 @@
        </div>
       </div>
      </div>
-     <div class="browser_width grpelem" id="u3923-bw">
-      <div class="museBGSize" id="u3923"><!-- simple frame --></div>
-     </div>
     </div>
     <div class="clearfix colelem" id="pu3582"><!-- group -->
      <div class="rgba-background clearfix grpelem" id="u3582"><!-- column -->
@@ -312,7 +314,7 @@
        <p>國立中正大學聲樂社</p>
       </div>
       <div class="clearfix colelem" id="u2563-4"><!-- content -->
-       <p>ccusingers.github.io</p>
+       <p>http://ccusingers.github.io</p>
       </div>
      </div>
      <div class="clearfix grpelem" id="u2562-6"><!-- content -->
@@ -332,12 +334,12 @@
 </script>
   <script src="../scripts/museutils.js?183364071" type="text/javascript"></script>
   <script src="../scripts/jquery.musemenu.js?3957776250" type="text/javascript"></script>
+  <script src="../scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
+  <script src="../scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <script src="../scripts/webpro.js?3803554875" type="text/javascript"></script>
   <script src="../scripts/musewpslideshow.js?242596657" type="text/javascript"></script>
   <script src="../scripts/jquery.museoverlay.js?493285861" type="text/javascript"></script>
   <script src="../scripts/touchswipe.js?4038331989" type="text/javascript"></script>
-  <script src="../scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
-  <script src="../scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -348,8 +350,8 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#slideshowu3117', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:800,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu3117 */
 Muse.Utils.resizeHeight()/* resize height */
+Muse.Utils.initWidget('#slideshowu3117', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:800,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu3117 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

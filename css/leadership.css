@@ -1,7 +1,7 @@
 .version.leadership /* version checker */
 {
-	color: #00001C;
-	background-color: #77A428;
+	color: #0000FC;
+	background-color: #0CE6DB;
 }
 
 .html
@@ -459,7 +459,7 @@
 #u478-13
 {
 	z-index: 24;
-	width: 520px;
+	width: 538px;
 	min-height: 312px;
 	background-color: transparent;
 	text-align: justify;
@@ -1279,7 +1279,7 @@
 #u454-4
 {
 	z-index: 11;
-	width: 231px;
+	width: 281px;
 	min-height: 26px;
 	left: 125px;
 	margin-top: 30px;
@@ -1298,7 +1298,7 @@
 	height: 43px;
 	margin-right: -10000px;
 	margin-top: 101px;
-	left: 114px;
+	left: 120px;
 }
 
 .ie #u4103,.ie #u455

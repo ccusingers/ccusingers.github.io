@@ -1,7 +1,7 @@
 .version.course /* version checker */
 {
-	color: #0000F1;
-	background-color: #CE1188;
+	color: #00000E;
+	background-color: #B495F1;
 }
 
 .html
@@ -1108,7 +1108,7 @@
 #u454-4
 {
 	z-index: 11;
-	width: 231px;
+	width: 281px;
 	min-height: 26px;
 	left: 125px;
 	margin-top: 30px;
@@ -1127,7 +1127,7 @@
 	height: 43px;
 	margin-right: -10000px;
 	margin-top: 101px;
-	left: 114px;
+	left: 120px;
 }
 
 .ie #u455
