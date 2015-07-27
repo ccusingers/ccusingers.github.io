@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "museredirect.js", "jquery.scrolleffects.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museredirect.js", "jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musemenu.js", "index.css"], "outOfDate":[]};
 </script>
   
   <script src="scripts/museredirect.js?40941066" type="text/javascript"></script>
@@ -22,7 +22,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
   <link rel="stylesheet" type="text/css" href="css/master_main.css?49520642"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?437920388" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?290113128" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -104,7 +104,7 @@
      <img class="block" id="u1437_img" src="images/main%20line.png" data-hidpi-src="images/main%20line_2x.png" alt="" width="1024" height="4"/>
     </div>
     <div class="clearfix colelem" id="pu2434"><!-- group -->
-     <div class="shadow rgba-background clearfix grpelem" id="u2434"><!-- group -->
+     <div class="shadow rgba-background rounded-corners clearfix grpelem" id="u2434"><!-- group -->
       <div class="clearfix grpelem" id="u354-4"><!-- content -->
        <p>線上報名</p>
       </div>
@@ -120,7 +120,7 @@
      <a class="nonblock nontext grpelem" id="u2447" href="https://docs.google.com/forms/d/12M3pwWz1T5D9vq9OpsqIS2HOpktZHk4zjUgxlJJXD_U/viewform" target="_blank"><!-- state-based BG images --></a>
     </div>
     <div class="clearfix colelem" id="pu2453"><!-- group -->
-     <div class="shadow rgba-background clearfix grpelem" id="u2453"><!-- group -->
+     <div class="shadow rgba-background rounded-corners clearfix grpelem" id="u2453"><!-- group -->
       <img class="grpelem" id="u359" alt="" title="中正聲樂社" width="300" height="234" src="images/rainbow%20logo-u359.png" data-hidpi-src="images/rainbow%20logo-u359_2x.png"/><!-- rasterized frame -->
      </div>
      <div class="clearfix grpelem" id="u2455-10"><!-- content -->
@@ -129,21 +129,21 @@
       <p>&nbsp;</p>
       <p>如果你已經是一架飛機，聲樂社將帶你到屬於你的藍天。</p>
      </div>
+     <div class="grpelem" id="u2467"><!-- simple frame --></div>
      <div class="clearfix grpelem" id="u2456-4"><!-- content -->
       <h1>藍色紙飛機的秘密</h1>
      </div>
-     <div class="grpelem" id="u2467"><!-- simple frame --></div>
     </div>
     <div class="clearfix colelem" id="pu2458"><!-- group -->
-     <div class="shadow rgba-background clearfix grpelem" id="u2458"><!-- group -->
+     <div class="shadow rgba-background rounded-corners clearfix grpelem" id="u2458"><!-- group -->
       <div class="clip_frame grpelem" id="u366"><!-- image -->
        <img class="block" id="u366_img" src="images/guide.png" data-hidpi-src="images/guide_2x.png" alt="" width="336" height="192"/>
       </div>
      </div>
      <div class="clearfix grpelem" id="u365-17"><!-- content -->
-      <p>聲樂社的 logo 是由鄭喬瑋先生所設計。</p>
-      <p>社徽本體是由 S、A、T、B 四個字組成，</p>
-      <p id="u365-8"><span id="u365-5">象徵一個簡單的理念</span><span id="u365-6">：</span><span id="u365-7">&quot;Singers are the best.&quot;</span></p>
+      <p>聲樂社的社徽是由鄭喬瑋先生所設計。</p>
+      <p>本體由 S、A、T、B 四個字組成，象徵</p>
+      <p id="u365-8"><span id="u365-5">一個簡單的理念</span><span id="u365-6">：</span><span id="u365-7">&quot;Singers are the best.&quot;</span></p>
       <p>&nbsp;</p>
       <p>同時，也代表聲樂社主要的四個聲部：<br/>Soprano（女高音）、Alto（女低音）、Tenor（男高音）、</p>
       <p>Bass（男低音）。</p>
@@ -264,7 +264,7 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 $('#u151-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
-$('#u151').registerOpacityScrollEffect([{"opacity":100,"fade":0,"in":[-Infinity,0]},{"opacity":100,"in":[0,0]},{"opacity":0,"fade":631,"in":[0,Infinity]}]);/* scroll effect */
+$('#u151').registerOpacityScrollEffect([{"opacity":100,"in":[-Infinity,0],"fade":0},{"opacity":100,"in":[0,0]},{"opacity":0,"in":[0,Infinity],"fade":631}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
 $('#u222-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,690.9]},{"speed":[null,0],"in":[690.9,Infinity]}]);/* scroll effect */
 $('#u288').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,690.7]},{"speed":[0,0],"in":[690.7,Infinity]}]);/* scroll effect */

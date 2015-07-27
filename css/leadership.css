@@ -1,7 +1,7 @@
 .version.leadership /* version checker */
 {
-	color: #0000FC;
-	background-color: #B9502D;
+	color: #0000F3;
+	background-color: #89C700;
 }
 
 .html
@@ -478,7 +478,7 @@
 	border-style: solid;
 	border-color: #7F7F7F;
 	background-color: transparent;
-	border-radius: 6px;
+	border-radius: 3px;
 	padding-bottom: 3px;
 	margin-bottom: -1px;
 	position: relative;
@@ -496,7 +496,7 @@
 	left: -2px;
 	bottom: -2px;
 	right: -2px;
-	border-radius: 6px;
+	border-radius: 3px;
 	box-shadow: inset 0px 0px 8px rgba(0,0,0,0.5), inset 0px 0px 8px rgba(0,0,0,0.5);
 }
 
@@ -547,7 +547,7 @@
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 5px rgba(0,0,0,0.5),0px 0px 5px rgba(0,0,0,0.5);
 	background-color: transparent;
-	border-radius: 5px;
+	border-radius: 3px;
 	margin-left: 97px;
 	margin-top: 13px;
 	position: relative;
@@ -555,7 +555,7 @@
 
 #u653 .clip_frame
 {
-	-webkit-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 3px 3px 3px 3px;
 }
 
 #u2471
@@ -566,7 +566,7 @@
 	box-shadow: 0px 0px 5px rgba(0,0,0,0.5),0px 0px 5px rgba(0,0,0,0.5);
 	background-color: #E2E2DA;
 	background-color: rgba(66,65,11,0.15);
-	border-radius: 5px;
+	border-radius: 3px;
 	padding-bottom: 13px;
 	margin-left: 96px;
 	margin-top: 19px;
@@ -697,8 +697,8 @@
 	width: 274px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 7px;
 	position: relative;
@@ -743,8 +743,8 @@
 	width: 337px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 1px;
 	margin-top: 7px;
@@ -872,8 +872,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -885,8 +885,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -899,8 +899,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1041,8 +1041,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1054,8 +1054,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1068,8 +1068,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1210,8 +1210,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1223,8 +1223,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 27px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1237,8 +1237,8 @@
 	width: 290px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 25px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1297,11 +1297,11 @@
 #u455
 {
 	z-index: 15;
-	width: 270px;
-	height: 43px;
+	width: 320px;
+	height: 68px;
 	margin-right: -10000px;
-	margin-top: 101px;
-	left: 120px;
+	margin-top: 86px;
+	left: 111px;
 }
 
 .ie #u4103,.ie #u455
