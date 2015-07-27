@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437961284013">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1437962594772">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_main.css" crc="49520642" ref="media:index:leadership:course"/>
-    <file name="media.css" crc="513016023" ref="media"/>
+    <file name="master_main.css" crc="3807688692" ref="index:course:media:leadership"/>
+    <file name="index.css" crc="3368388" ref="index"/>
+    <file name="course.css" crc="3924825094" ref="course"/>
+    <file name="media.css" crc="3899278266" ref="media"/>
     <file name="iefonts_media.css" crc="467662511" ref="media"/>
-    <file name="index.css" crc="290113128" ref="index"/>
-    <file name="leadership.css" crc="4085892864" ref="leadership"/>
-    <file name="course.css" crc="3981955094" ref="course"/>
+    <file name="leadership.css" crc="3920112811" ref="leadership"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium:index:media:leadership:course"/>
@@ -392,21 +392,21 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-__.css" crc="520786716" ref="phone>medium:phone>organization:phone>index:phone>class:phone>intro"/>
-      <file name="medium.css" crc="3867050498" ref="phone>medium"/>
-      <file name="organization.css" crc="493386680" ref="phone>organization"/>
-      <file name="index.css" crc="467295347" ref="phone>index"/>
-      <file name="class.css" crc="330385997" ref="phone>class"/>
-      <file name="intro.css" crc="3937528352" ref="phone>intro"/>
+      <file name="master_a-__.css" crc="4159367680" ref="phone>organization:phone>class:phone>index:phone>medium:phone>intro"/>
+      <file name="organization.css" crc="398562426" ref="phone>organization"/>
+      <file name="class.css" crc="4223000655" ref="phone>class"/>
+      <file name="index.css" crc="314061760" ref="phone>index"/>
+      <file name="medium.css" crc="3812178509" ref="phone>medium"/>
+      <file name="intro.css" crc="192521399" ref="phone>intro"/>
     </folder>
-    <file name="index.html" crc="4086577520" seo="true" mt="1437960631223" redirect="true"/>
-    <file name="intro.html" crc="4184160588" seo="true" mt="1437960899512" redirect="true"/>
+    <file name="index.html" crc="4086577520" seo="true" mt="1437962391458" redirect="true"/>
+    <file name="intro.html" crc="4161422875" seo="true" mt="1437962398065" redirect="true"/>
     <file name="organization.html" crc="3862811719" seo="true" mt="1437960779649" redirect="true"/>
-    <file name="class.html" crc="4270585326" seo="true" mt="1437958763343" redirect="true"/>
-    <file name="medium.html" crc="4189056178" seo="true" mt="1437960869350" redirect="true"/>
+    <file name="class.html" crc="3864348947" seo="true" mt="1437962404026" redirect="true"/>
+    <file name="medium.html" crc="107161792" seo="true" mt="1437962407813" redirect="true"/>
   </folder>
-  <file name="index.html" crc="522094000" seo="true" mt="1437961261066" redirect="true"/>
-  <file name="media.html" crc="89865549" seo="true" mt="1437961140691" redirect="true"/>
-  <file name="leadership.html" crc="332231193" seo="true" mt="1437961086823" redirect="true"/>
-  <file name="course.html" crc="3769041839" seo="true" mt="1437961123312" redirect="true"/>
+  <file name="index.html" crc="4191540926" seo="true" mt="1437962585174" redirect="true"/>
+  <file name="media.html" crc="447014976" seo="true" mt="1437961140691" redirect="true"/>
+  <file name="leadership.html" crc="25380399" seo="true" mt="1437961086823" redirect="true"/>
+  <file name="course.html" crc="3803486674" seo="true" mt="1437961123312" redirect="true"/>
 </manifest>

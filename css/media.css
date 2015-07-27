@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #00001E;
-	background-color: #9400D7;
+	color: #0000E8;
+	background-color: #6A43BA;
 }
 
 .html
@@ -136,9 +136,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
+	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -209,9 +209,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
+	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -290,9 +290,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
+	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -365,9 +365,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
+	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -456,9 +456,9 @@
 	width: 372px;
 	min-height: 31px;
 	background-color: transparent;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	margin-left: 35px;
@@ -1395,9 +1395,9 @@
 	width: 372px;
 	min-height: 31px;
 	background-color: transparent;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	margin-left: 35px;
@@ -1769,8 +1769,8 @@
 	width: 320px;
 	min-height: 38px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1795,8 +1795,8 @@
 	width: 314px;
 	min-height: 38px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 300;
 	position: relative;
