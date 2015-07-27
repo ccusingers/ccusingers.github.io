@@ -1,7 +1,7 @@
 .version.medium /* version checker */
 {
-	color: #0000E3;
-	background-color: #393A4D;
+	color: #000015;
+	background-color: #EE0F7E;
 }
 
 @-ms-viewport
@@ -1290,7 +1290,7 @@
 	min-height: 472.5250000000044px;
 	background-color: #D1D0E0;
 	background-color: rgba(27,20,100,0.2);
-	padding: 23px 61px 17.47499999999559px 65px;
+	padding: 23px 61px 23.47499999999559px 65px;
 	-pie-background: rgba(27,20,100,0.2);
 }
 
@@ -1465,7 +1465,7 @@
 {
 	z-index: 172;
 	width: 380px;
-	height: 69px;
+	height: 75px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 444px;
