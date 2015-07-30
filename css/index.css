@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001D;
-	background-color: #5EEEC3;
+	color: #0000FA;
+	background-color: #101DCB;
 }
 
 .html
@@ -55,7 +55,7 @@
 
 #u2425-4
 {
-	z-index: 111;
+	z-index: 107;
 	width: 513px;
 	min-height: 37px;
 	background-color: transparent;
@@ -74,7 +74,7 @@
 
 #u2646
 {
-	z-index: 151;
+	z-index: 147;
 	margin-left: 479px;
 	margin-top: 349px;
 	position: relative;
@@ -88,7 +88,7 @@
 
 #u222
 {
-	z-index: 153;
+	z-index: 149;
 	height: 103px;
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.97);
@@ -97,7 +97,7 @@
 
 #u222-bw
 {
-	z-index: 153;
+	z-index: 149;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -113,7 +113,7 @@
 
 #u288
 {
-	z-index: 154;
+	z-index: 150;
 	width: 161px;
 	background-color: transparent;
 	position: fixed;
@@ -123,7 +123,7 @@
 
 #u358
 {
-	z-index: 181;
+	z-index: 177;
 	width: 93px;
 	height: 52px;
 	position: fixed;
@@ -133,7 +133,7 @@
 
 #menuu188
 {
-	z-index: 156;
+	z-index: 152;
 	width: 345px;
 	border-style: none;
 	border-color: transparent;
@@ -478,11 +478,6 @@
 	font-weight: bold;
 }
 
-.MenuItem /* unifiedNavBar */
-{
-	cursor: pointer;
-}
-
 #pu305
 {
 	width: 0.01px;
@@ -598,7 +593,7 @@
 
 #u1437
 {
-	z-index: 183;
+	z-index: 179;
 	width: 1024px;
 	background-color: transparent;
 	position: fixed;
@@ -678,15 +673,15 @@
 
 #u2435
 {
-	z-index: 116;
-	height: 146px;
-	width: 146px;
+	z-index: 112;
+	height: 142px;
+	width: 142px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 679px;
-	background: url("../images/u2435.png") no-repeat 2px 2px;
+	margin-top: 16px;
+	left: 681px;
+	background: url("../images/u2435.png") no-repeat 0px 0px;
 }
 
 #u2435:hover
@@ -696,7 +691,7 @@
 
 #u2435:active
 {
-	background: url("../images/u2435-m.png") no-repeat 2px 2px;
+	background: url("../images/u2435-m.png") no-repeat 0px 0px;
 }
 
 .hidpi #u2435
@@ -708,7 +703,7 @@
 .hidpi #u2435:hover
 {
 	background-image: url("../images/u2435-r_2x.png");
-	background-size: 146px 146px;
+	background-size: 142px 142px;
 }
 
 .hidpi #u2435:active
@@ -719,15 +714,15 @@
 
 #u2441
 {
-	z-index: 120;
-	height: 146px;
-	width: 146px;
+	z-index: 116;
+	height: 142px;
+	width: 142px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 412px;
-	background: url("../images/u2441.png") no-repeat 2px 2px;
+	margin-top: 16px;
+	left: 414px;
+	background: url("../images/u2441.png") no-repeat 0px 0px;
 }
 
 #u2441:hover
@@ -737,7 +732,7 @@
 
 #u2441:active
 {
-	background: url("../images/u2441-m.png") no-repeat 2px 2px;
+	background: url("../images/u2441-m.png") no-repeat 0px 0px;
 }
 
 .hidpi #u2441
@@ -749,7 +744,7 @@
 .hidpi #u2441:hover
 {
 	background-image: url("../images/u2441-r_2x.png");
-	background-size: 146px 146px;
+	background-size: 142px 142px;
 }
 
 .hidpi #u2441:active
@@ -760,7 +755,7 @@
 
 #u2447
 {
-	z-index: 124;
+	z-index: 120;
 	height: 142px;
 	width: 142px;
 	vertical-align: top;
@@ -825,7 +820,7 @@
 
 #u2455-9
 {
-	z-index: 126;
+	z-index: 122;
 	width: 522px;
 	min-height: 39px;
 	background-color: transparent;
@@ -841,7 +836,7 @@
 
 #u2467
 {
-	z-index: 135;
+	z-index: 131;
 	width: 210px;
 	height: 5px;
 	background-color: #754C24;
@@ -853,7 +848,7 @@
 
 #u2456-4
 {
-	z-index: 136;
+	z-index: 132;
 	width: 335px;
 	min-height: 81px;
 	background-color: transparent;
@@ -935,7 +930,7 @@
 
 #u2457-4
 {
-	z-index: 140;
+	z-index: 136;
 	width: 335px;
 	min-height: 81px;
 	background-color: transparent;
@@ -951,7 +946,7 @@
 
 #u2468
 {
-	z-index: 150;
+	z-index: 146;
 	width: 250px;
 	height: 5px;
 	background-color: #754C24;
@@ -1025,6 +1020,11 @@
 	width: 617px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u376 .clip_frame
+{
+	-webkit-border-radius: 3px 3px 3px 3px;
 }
 
 #u376_clip
@@ -1119,7 +1119,7 @@
 
 #u2459-4
 {
-	z-index: 144;
+	z-index: 140;
 	width: 437px;
 	min-height: 72px;
 	background-color: transparent;
@@ -1135,7 +1135,7 @@
 
 #u2461
 {
-	z-index: 148;
+	z-index: 144;
 	width: 681px;
 	background-color: transparent;
 	position: relative;
@@ -1144,57 +1144,183 @@
 	left: 172px;
 }
 
-#pu433
+#pamphletu4513
 {
+	z-index: 181;
 	width: 0.01px;
-	margin-left: 44px;
-	margin-top: 34px;
+	height: 110px;
+	padding-bottom: 233px;
+	position: fixed;
+	top: 3518px;
+	left: 50%;
+	margin-left: -469px;
 }
 
-#u433
+#u4514
 {
-	z-index: 97;
-	width: 614px;
-	-pie-box-shadow: none;
-	box-shadow: 0px 0px 6px rgba(0,0,0,0.2),0px 0px 6px rgba(0,0,0,0.2);
-	border-color: #7F7F7F;
-	background-color: transparent;
-	border-radius: 3px;
+	z-index: 182;
+	width: 35px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 75px;
+	left: 451px;
 }
 
-#u376 .clip_frame,#u433 .clip_frame
+#u4515
 {
-	-webkit-border-radius: 3px 3px 3px 3px;
+	position: absolute;
+	width: 614px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.4),0px 0px 5px rgba(0,0,0,0.4);
+	border-style: none;
+	border-color: transparent;
+	border-radius: 8px;
+	padding-bottom: 233px;
+	top: -75px;
+	left: -451px;
+	background: transparent url("../images/anniversary-ieu4515-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/anniversary.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u4515:hover
+{
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.4),0px 0px 5px rgba(0,0,0,0.4);
+	border-style: none;
+	border-color: transparent;
+	border-radius: 8px;
+	width: 614px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../images/anniversary-ieu4515-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/anniversary.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
 }
 
 #u439
 {
-	z-index: 99;
+	z-index: 184;
 	width: 35px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 72px;
-	left: 460px;
+	margin-top: 75px;
+	left: 451px;
+}
+
+#u4515:hover #u439
+{
+	width: 35px;
+	min-height: 0px;
+	margin: 75px -10000px 0px 0px;
+}
+
+#u4515.PamphletThumbSelected #u439
+{
+	width: 35px;
+	min-height: 0px;
+	margin: 75px -10000px 0px 0px;
+}
+
+#u4524
+{
+	position: absolute;
+	width: 1190px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #7F7F7F;
+	background-color: rgba(0,0,0,0.5);
+	padding-bottom: 44px;
+	top: -252px;
+	left: -124px;
+	-pie-background: rgba(0,0,0,0.5);
+}
+
+#u4524popup
+{
+	z-index: 186;
+}
+
+#u4525
+{
+	z-index: 187;
+	width: 1146px;
+	height: 646px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u4526
+{
+	z-index: 188;
+	width: 854px;
+	min-height: 484px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 6px;
+}
+
+#u4523
+{
+	position: absolute;
+	width: 48px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 20px;
+	padding-bottom: 8px;
+	top: -265px;
+	left: 1033px;
+}
+
+#u4528
+{
+	z-index: 190;
+	width: 40px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 8px;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#pu451
+{
+	width: 0.01px;
+	margin-left: 681px;
+	margin-top: 274px;
 }
 
 #u451
 {
-	z-index: 110;
+	z-index: 106;
 	width: 2px;
 	height: 96px;
 	background-color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 242px;
-	left: 637px;
+	margin-top: 2px;
 }
 
 #u450-9
 {
-	z-index: 101;
+	z-index: 97;
 	width: 306px;
 	min-height: 99px;
 	background-color: transparent;
@@ -1203,15 +1329,14 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 240px;
-	left: 642px;
+	left: 5px;
 }
 
 #pu448
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 37px;
+	margin-top: 41px;
 }
 
 #u448_align_to_page
