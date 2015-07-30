@@ -1,7 +1,7 @@
 .version.intro /* version checker */
 {
-	color: #0000EB;
-	background-color: #1C17BD;
+	color: #000008;
+	background-color: #589F48;
 }
 
 @-ms-viewport
@@ -124,10 +124,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #000000;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -196,10 +196,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #000000;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -271,10 +271,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #000000;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -344,10 +344,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #000000;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -426,10 +426,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #000000;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -533,13 +533,11 @@
 
 #u2774:hover
 {
-	border-width: 2px;
-	border-style: solid;
 	border-color: #C1272D;
 	border-radius: 100px;
 	width: 76px;
 	min-height: 0px;
-	margin: -2px -2px -2px -1px;
+	margin: 0px 0px 0px 1px;
 }
 
 #u2782-4
@@ -548,9 +546,9 @@
 	width: 81px;
 	min-height: 15px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 7px;
 	position: relative;
@@ -575,13 +573,11 @@
 
 #u2775:hover
 {
-	border-width: 2px;
-	border-style: solid;
 	border-color: #C1272D;
 	border-radius: 100px;
 	width: 76px;
 	min-height: 0px;
-	margin: -2px -2px -2px 13px;
+	margin: 0px 0px 0px 15px;
 }
 
 #u2785-4
@@ -590,9 +586,9 @@
 	width: 107px;
 	min-height: 15px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 7px;
 	position: relative;
@@ -617,13 +613,11 @@
 
 #u2773:hover
 {
-	border-width: 2px;
-	border-style: solid;
 	border-color: #C1272D;
 	border-radius: 100px;
 	width: 76px;
 	min-height: 0px;
-	margin: -2px -2px -2px 11px;
+	margin: 0px 0px 0px 13px;
 }
 
 #u2774:hover .clip_frame,#u2775:hover .clip_frame,#u2773:hover .clip_frame
@@ -637,9 +631,9 @@
 	width: 102px;
 	min-height: 15px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 7px;
 	position: relative;
@@ -665,8 +659,8 @@
 	min-height: 22px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 27px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 1px;
 	position: relative;
@@ -679,8 +673,8 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 25px;
 	position: relative;
@@ -717,8 +711,8 @@
 	width: 311px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 17px;
 	line-height: 26px;
+	font-size: 17px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 8px;
 	position: relative;
@@ -750,8 +744,8 @@
 	width: 302px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 17px;
 	line-height: 26px;
+	font-size: 17px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 4px;
 	margin-top: 14px;
@@ -775,12 +769,10 @@
 
 #u2814:hover
 {
-	border-width: 2px;
-	border-style: solid;
 	border-color: #FF0000;
 	width: 351px;
 	min-height: 0px;
-	margin: 24px -2px -2px 12px;
+	margin: 26px 0px 0px 14px;
 }
 
 #u2814 .clip_frame
@@ -815,8 +807,8 @@
 	width: 341px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 17px;
 	line-height: 26px;
+	font-size: 17px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -860,9 +852,9 @@
 	width: 349px;
 	min-height: 173px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-top: 17px;
 	position: relative;
@@ -891,8 +883,8 @@
 	width: 296px;
 	min-height: 49px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -960,9 +952,9 @@
 	width: 252px;
 	min-height: 15px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: right;
 	font-size: 16px;
-	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;

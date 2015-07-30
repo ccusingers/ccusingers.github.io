@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #0000E8;
-	background-color: #6A43BA;
+	color: #00001A;
+	background-color: #C746E5;
 }
 
 .html
@@ -135,10 +135,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 30px;
 	color: #000000;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -208,10 +208,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 30px;
 	color: #000000;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -289,10 +289,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 30px;
 	color: #000000;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -364,10 +364,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 30px;
 	color: #000000;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -456,9 +456,9 @@
 	width: 372px;
 	min-height: 31px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	margin-left: 35px;
@@ -1395,9 +1395,9 @@
 	width: 372px;
 	min-height: 31px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	margin-left: 35px;
@@ -1769,8 +1769,8 @@
 	width: 320px;
 	min-height: 38px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1795,8 +1795,8 @@
 	width: 314px;
 	min-height: 38px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 300;
 	position: relative;
