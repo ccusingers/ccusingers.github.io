@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #00000C;
-	background-color: #AB00B1;
+	color: #00001A;
+	background-color: #C746E5;
 }
 
 .html
@@ -1420,10 +1420,9 @@
 	z-index: 149;
 	width: 0.01px;
 	height: 193px;
-	position: fixed;
-	top: 1204px;
-	left: 50%;
-	margin-left: -357px;
+	margin-left: 155px;
+	margin-top: 50px;
+	position: relative;
 }
 
 #u3763
@@ -1572,10 +1571,10 @@
 	z-index: 161;
 	width: 0.01px;
 	height: 193px;
-	position: fixed;
-	top: 1204px;
-	left: 50%;
-	margin-left: 62px;
+	margin-left: 574px;
+	top: -193px;
+	margin-bottom: -193px;
+	position: relative;
 }
 
 #u3860
@@ -1751,7 +1750,7 @@
 {
 	width: 0.01px;
 	margin-left: 155px;
-	margin-top: 255px;
+	margin-top: 12px;
 }
 
 #u2389
