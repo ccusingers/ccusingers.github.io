@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438322933431">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438323591283">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="49520642" ref="index:media:course:leadership"/>
@@ -411,7 +411,7 @@
     <file name="medium.html" crc="3945862712" seo="true" mt="1438313490294" redirect="true"/>
   </folder>
   <file name="index.html" crc="300655562" seo="true" mt="1438276459776" redirect="true"/>
-  <file name="media.html" crc="336931946" seo="true" mt="1438322903103" redirect="true"/>
+  <file name="media.html" crc="3768912816" seo="true" mt="1438323489522" redirect="true"/>
   <file name="leadership.html" crc="4267142154" seo="true" mt="1438276459776" redirect="true"/>
   <file name="course.html" crc="929828" seo="true" mt="1438276459776" redirect="true"/>
 </manifest>
