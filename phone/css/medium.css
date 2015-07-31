@@ -1,7 +1,7 @@
 .version.medium /* version checker */
 {
-	color: #00001D;
-	background-color: #BB4B02;
+	color: #00001B;
+	background-color: #E31EEC;
 }
 
 @-ms-viewport
@@ -131,8 +131,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -196,8 +196,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -270,8 +270,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -343,8 +343,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -424,8 +424,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -500,13 +500,13 @@
 	box-shadow: 0px 0px 4px rgba(0,0,0,0.2),0px 0px 4px rgba(0,0,0,0.2);
 	margin-top: 7px;
 	position: relative;
-	background: transparent url("../../images/onstage.jpg") no-repeat center center;
+	background: transparent url("../../images/on-stage.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3923
 {
-	background-image: url("../../images/onstage_2x.jpg");
+	background-image: url("../../images/on-stage_2x.jpg");
 }
 
 #u3581

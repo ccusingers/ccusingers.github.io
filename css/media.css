@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #00001A;
-	background-color: #C746E5;
+	color: #000016;
+	background-color: #DDADCB;
 }
 
 .html
@@ -38,7 +38,7 @@
 
 #u1156
 {
-	z-index: 139;
+	z-index: 168;
 	height: 103px;
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.97);
@@ -47,7 +47,7 @@
 
 #u1156-bw
 {
-	z-index: 139;
+	z-index: 168;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -56,7 +56,7 @@
 
 #u1159
 {
-	z-index: 142;
+	z-index: 196;
 	width: 161px;
 	background-color: transparent;
 	position: fixed;
@@ -66,7 +66,7 @@
 
 #u4195
 {
-	z-index: 198;
+	z-index: 166;
 	width: 93px;
 	height: 52px;
 	position: fixed;
@@ -76,7 +76,7 @@
 
 #menuu4166
 {
-	z-index: 173;
+	z-index: 169;
 	width: 345px;
 	border-style: none;
 	border-color: transparent;
@@ -135,8 +135,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 30px;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -208,8 +208,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 30px;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -289,8 +289,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 30px;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -364,8 +364,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 30px;
 	color: #000000;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -424,7 +424,7 @@
 
 #u1463
 {
-	z-index: 140;
+	z-index: 194;
 	width: 1024px;
 	background-color: transparent;
 	position: fixed;
@@ -468,7 +468,7 @@
 
 #u2372
 {
-	z-index: 138;
+	z-index: 167;
 	width: 283px;
 	height: 3px;
 	background-color: #8C6239;
@@ -1417,7 +1417,7 @@
 
 #pamphletu3762
 {
-	z-index: 149;
+	z-index: 142;
 	width: 0.01px;
 	height: 193px;
 	margin-left: 155px;
@@ -1427,7 +1427,7 @@
 
 #u3763
 {
-	z-index: 150;
+	z-index: 143;
 	width: 325px;
 	position: relative;
 	margin-right: -10000px;
@@ -1450,7 +1450,7 @@
 
 #u3765
 {
-	z-index: 152;
+	z-index: 145;
 	width: 88px;
 	background-color: transparent;
 	position: relative;
@@ -1469,7 +1469,7 @@
 
 #u3767
 {
-	z-index: 154;
+	z-index: 147;
 	width: 325px;
 	height: 193px;
 	border-style: none;
@@ -1507,12 +1507,12 @@
 
 #u3768popup
 {
-	z-index: 155;
+	z-index: 148;
 }
 
 #u3769
 {
-	z-index: 156;
+	z-index: 149;
 	width: 876px;
 	height: 504px;
 	border-style: none;
@@ -1526,7 +1526,7 @@
 
 #u3770
 {
-	z-index: 157;
+	z-index: 150;
 	width: 854px;
 	min-height: 484px;
 	border-style: none;
@@ -1540,7 +1540,7 @@
 
 #u3868
 {
-	z-index: 158;
+	z-index: 151;
 	width: 40px;
 	background-color: transparent;
 	position: relative;
@@ -1568,7 +1568,7 @@
 
 #pamphletu3851
 {
-	z-index: 161;
+	z-index: 154;
 	width: 0.01px;
 	height: 193px;
 	margin-left: 574px;
@@ -1579,7 +1579,7 @@
 
 #u3860
 {
-	z-index: 162;
+	z-index: 155;
 	width: 325px;
 	position: relative;
 	margin-right: -10000px;
@@ -1616,7 +1616,7 @@
 
 #u3863
 {
-	z-index: 164;
+	z-index: 157;
 	width: 88px;
 	background-color: transparent;
 	position: relative;
@@ -1644,7 +1644,7 @@
 
 #u3862
 {
-	z-index: 166;
+	z-index: 159;
 	width: 325px;
 	height: 193px;
 	border-style: none;
@@ -1692,12 +1692,12 @@
 
 #u3856popup
 {
-	z-index: 167;
+	z-index: 160;
 }
 
 #u3857
 {
-	z-index: 168;
+	z-index: 161;
 	width: 876px;
 	height: 505px;
 	border-style: none;
@@ -1711,7 +1711,7 @@
 
 #u3858
 {
-	z-index: 169;
+	z-index: 162;
 	width: 854px;
 	min-height: 484px;
 	border-style: none;
@@ -1725,7 +1725,7 @@
 
 #u3874
 {
-	z-index: 170;
+	z-index: 163;
 	width: 40px;
 	background-color: transparent;
 	position: relative;
@@ -1780,7 +1780,7 @@
 
 #u2495
 {
-	z-index: 144;
+	z-index: 198;
 	width: 3px;
 	height: 25px;
 	background-color: #42410B;
@@ -1791,7 +1791,7 @@
 
 #u2496-4
 {
-	z-index: 145;
+	z-index: 138;
 	width: 314px;
 	min-height: 38px;
 	background-color: transparent;

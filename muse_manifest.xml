@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438273664051">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438313505144">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="49520642" ref="index:media:course:leadership"/>
-    <file name="index.css" crc="3776973781" ref="index"/>
-    <file name="media.css" crc="449267429" ref="media"/>
+    <file name="index.css" crc="175804520" ref="index"/>
+    <file name="media.css" crc="383626699" ref="media"/>
     <file name="iefonts_media.css" crc="467662511" ref="media"/>
-    <file name="course.css" crc="119525269" ref="course"/>
-    <file name="leadership.css" crc="423118464" ref="leadership"/>
+    <file name="course.css" crc="4253321952" ref="course"/>
+    <file name="leadership.css" crc="173332326" ref="leadership"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium:index:media:leadership:course"/>
@@ -24,7 +24,7 @@
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:media:leadership:course"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="478655589" ref="phone>index"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index:index:phone>medium"/>
     <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index"/>
     <file name="navigation logo132x69_2x.png" crc="4070611772" seo="true" ref="phone>index"/>
     <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
@@ -61,8 +61,8 @@
     <file name="media_2x.jpg" crc="170072306" ref="phone>index"/>
     <file name="up166.png" crc="4046588569" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
     <file name="up166_2x.png" crc="230276788" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
-    <file name="navigation logo126x66.png" crc="30654478" seo="true" ref="phone>intro"/>
-    <file name="navigation logo126x66_2x.png" crc="3939289936" seo="true" ref="phone>intro"/>
+    <file name="navigation logo126x66.png" crc="30654478" seo="true" ref="phone>intro:phone>medium"/>
+    <file name="navigation logo126x66_2x.png" crc="3939289936" seo="true" ref="phone>intro:phone>medium"/>
     <file name="internet77x73.png" crc="279608313" seo="true" ref="phone>intro"/>
     <file name="internet77x73_2x.png" crc="71390246" seo="true" ref="phone>intro"/>
     <file name="mail77x73.png" crc="297077529" seo="true" ref="phone>intro"/>
@@ -131,8 +131,8 @@
     <file name="img_9097303x208_2x.jpg" crc="3923752792" seo="true" ref="phone>class"/>
     <file name="t class303x209.jpg" crc="357688069" seo="true" ref="phone>class"/>
     <file name="t class303x209_2x.jpg" crc="3767768600" seo="true" ref="phone>class"/>
-    <file name="onstage.jpg" crc="4108404737" ref="phone>medium"/>
-    <file name="onstage_2x.jpg" crc="3820272116" ref="phone>medium"/>
+    <file name="onstage.jpg" crc="311511889" ref="media" seo="true"/>
+    <file name="onstage_2x.jpg" crc="331759176" ref="media" seo="true"/>
     <file name="slider-1421x237.jpg" crc="92686472" seo="true" ref="phone>medium"/>
     <file name="slider-1421x237_2x.jpg" crc="3758421489" seo="true" ref="phone>medium"/>
     <file name="blank.gif" crc="4208392903" ref="phone>medium:media"/>
@@ -259,8 +259,6 @@
     <file name="sprite_2x.png" crc="3811760408" seo="true" ref="index:media"/>
     <file name="structure.png" crc="3383790" seo="true" ref="index"/>
     <file name="structure_2x.png" crc="4179060128" seo="true" ref="index"/>
-    <file name="onstage2.jpg" crc="311511889" seo="true" ref="media"/>
-    <file name="onstage_2x2.jpg" crc="331759176" seo="true" ref="media"/>
     <file name="slider-1.jpg" crc="387858815" seo="true" ref="media"/>
     <file name="slider-1_2x.jpg" crc="4011445729" seo="true" ref="media"/>
     <file name="slider-2.jpg" crc="132610728" seo="true" ref="media"/>
@@ -394,6 +392,8 @@
     <file name="img_9097_2x.jpg" crc="204393853" seo="true" ref="course"/>
     <file name="t class.jpg" crc="4147093645" seo="true" ref="course"/>
     <file name="t class_2x.jpg" crc="3910246139" seo="true" ref="course"/>
+    <file name="on-stage.jpg" crc="57802966" ref="phone>medium"/>
+    <file name="on-stage_2x.jpg" crc="4182046264" ref="phone>medium"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -401,17 +401,17 @@
       <file name="class.css" crc="4154101201" ref="phone>class"/>
       <file name="organization.css" crc="381530130" ref="phone>organization"/>
       <file name="index.css" crc="245748298" ref="phone>index"/>
-      <file name="medium.css" crc="498813698" ref="phone>medium"/>
+      <file name="medium.css" crc="467869420" ref="phone>medium"/>
       <file name="intro.css" crc="140025672" ref="phone>intro"/>
     </folder>
     <file name="index.html" crc="3758449540" seo="true" mt="1438273587942" redirect="true"/>
     <file name="intro.html" crc="196091019" seo="true" mt="1438273587942" redirect="true"/>
     <file name="organization.html" crc="530330142" seo="true" mt="1438273587942" redirect="true"/>
     <file name="class.html" crc="417355039" seo="true" mt="1438273587942" redirect="true"/>
-    <file name="medium.html" crc="4288049420" seo="true" mt="1438273587942" redirect="true"/>
+    <file name="medium.html" crc="3945862712" seo="true" mt="1438313490294" redirect="true"/>
   </folder>
-  <file name="index.html" crc="320439446" seo="true" mt="1438273577529" redirect="true"/>
-  <file name="media.html" crc="3904956170" seo="true" mt="1438273577529" redirect="true"/>
-  <file name="leadership.html" crc="50274053" seo="true" mt="1438273577529" redirect="true"/>
-  <file name="course.html" crc="206391911" seo="true" mt="1438273577529" redirect="true"/>
+  <file name="index.html" crc="300655562" seo="true" mt="1438276459776" redirect="true"/>
+  <file name="media.html" crc="4072789660" seo="true" mt="1438313469995" redirect="true"/>
+  <file name="leadership.html" crc="4267142154" seo="true" mt="1438276459776" redirect="true"/>
+  <file name="course.html" crc="929828" seo="true" mt="1438276459776" redirect="true"/>
 </manifest>
