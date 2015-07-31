@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #0000ED;
-	background-color: #A98F76;
+	color: #00000E;
+	background-color: #A4EC68;
 }
 
 @-ms-viewport
@@ -529,9 +529,9 @@
 	width: 189px;
 	min-height: 13px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1299,9 +1299,9 @@
 	width: 189px;
 	min-height: 13px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 26px;
@@ -1501,10 +1501,10 @@
 #u2562-4
 {
 	z-index: 7;
-	width: 361px;
+	width: 366px;
 	min-height: 29px;
 	margin-right: -10000px;
-	margin-top: 31px;
+	margin-top: 33px;
 	left: 14px;
 }
 
