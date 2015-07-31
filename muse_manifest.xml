@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438313505144">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438322933431">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="49520642" ref="index:media:course:leadership"/>
     <file name="index.css" crc="175804520" ref="index"/>
-    <file name="media.css" crc="383626699" ref="media"/>
+    <file name="media.css" crc="3763803970" ref="media"/>
     <file name="iefonts_media.css" crc="467662511" ref="media"/>
     <file name="course.css" crc="4253321952" ref="course"/>
     <file name="leadership.css" crc="173332326" ref="leadership"/>
@@ -24,7 +24,7 @@
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:media:leadership:course"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="478655589" ref="phone>index:index:phone>medium"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index:index:phone>medium:media"/>
     <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index"/>
     <file name="navigation logo132x69_2x.png" crc="4070611772" seo="true" ref="phone>index"/>
     <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>medium"/>
@@ -411,7 +411,7 @@
     <file name="medium.html" crc="3945862712" seo="true" mt="1438313490294" redirect="true"/>
   </folder>
   <file name="index.html" crc="300655562" seo="true" mt="1438276459776" redirect="true"/>
-  <file name="media.html" crc="4072789660" seo="true" mt="1438313469995" redirect="true"/>
+  <file name="media.html" crc="336931946" seo="true" mt="1438322903103" redirect="true"/>
   <file name="leadership.html" crc="4267142154" seo="true" mt="1438276459776" redirect="true"/>
   <file name="course.html" crc="929828" seo="true" mt="1438276459776" redirect="true"/>
 </manifest>
