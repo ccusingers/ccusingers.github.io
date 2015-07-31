@@ -1,7 +1,7 @@
 .version.organization /* version checker */
 {
-	color: #000004;
-	background-color: #C0EAE9;
+	color: #0000EB;
+	background-color: #0C9E7A;
 }
 
 @-ms-viewport
@@ -1307,11 +1307,11 @@
 #u2564
 {
 	z-index: 15;
-	width: 226px;
-	height: 36px;
+	width: 236px;
+	height: 42px;
 	margin-right: -10000px;
-	margin-top: 63px;
-	left: 10px;
+	margin-top: 60px;
+	left: 14px;
 }
 
 .ie #u3424,.ie #u3615,.ie #u2564

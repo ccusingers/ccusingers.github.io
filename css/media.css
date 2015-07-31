@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #000018;
-	background-color: #210F6A;
+	color: #0000E6;
+	background-color: #359493;
 }
 
 .html
@@ -1856,11 +1856,11 @@
 #u455
 {
 	z-index: 15;
-	width: 320px;
-	height: 68px;
+	width: 379px;
+	height: 73px;
 	margin-right: -10000px;
-	margin-top: 86px;
-	left: 111px;
+	margin-top: 80px;
+	left: 106px;
 }
 
 .ie #u4195,.ie #u3776,.ie #u3865,.ie #u455

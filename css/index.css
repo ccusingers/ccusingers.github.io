@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F9;
-	background-color: #E43CE0;
+	color: #000007;
+	background-color: #B989F1;
 }
 
 .html
@@ -59,9 +59,9 @@
 	width: 513px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 29px;
+	line-height: 14px;
 	text-align: center;
-	font-size: 24px;
+	font-size: 12px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 256px;
 	position: relative;
@@ -72,12 +72,25 @@
 	visibility: hidden;/* 100% transparent text is hidden */
 }
 
+#u4550
+{
+	z-index: 142;
+	width: 690px;
+	background-color: transparent;
+	padding-bottom: 41px;
+	margin-left: 193px;
+	margin-top: 269px;
+	position: relative;
+}
+
 #u2646
 {
-	z-index: 158;
-	margin-left: 479px;
-	margin-top: 349px;
+	z-index: 159;
 	position: relative;
+	width: 76px;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 286px;
 }
 
 #u2646_img
@@ -88,7 +101,7 @@
 
 #u222
 {
-	z-index: 160;
+	z-index: 161;
 	height: 103px;
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.97);
@@ -97,7 +110,7 @@
 
 #u222-bw
 {
-	z-index: 160;
+	z-index: 161;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -107,13 +120,13 @@
 #home
 {
 	left: -37px;
-	margin-top: 136px;
+	margin-top: 95px;
 	position: relative;
 }
 
 #u288
 {
-	z-index: 161;
+	z-index: 162;
 	width: 161px;
 	background-color: transparent;
 	position: fixed;
@@ -123,7 +136,7 @@
 
 #u358
 {
-	z-index: 188;
+	z-index: 189;
 	width: 93px;
 	height: 52px;
 	position: fixed;
@@ -133,7 +146,7 @@
 
 #menuu188
 {
-	z-index: 163;
+	z-index: 164;
 	width: 345px;
 	border-style: none;
 	border-color: transparent;
@@ -593,7 +606,7 @@
 
 #u1437
 {
-	z-index: 190;
+	z-index: 191;
 	width: 1024px;
 	background-color: transparent;
 	position: fixed;
@@ -836,7 +849,7 @@
 
 #u2467
 {
-	z-index: 142;
+	z-index: 143;
 	width: 210px;
 	height: 5px;
 	background-color: #754C24;
@@ -848,7 +861,7 @@
 
 #u2456-4
 {
-	z-index: 143;
+	z-index: 144;
 	width: 335px;
 	min-height: 81px;
 	background-color: transparent;
@@ -930,7 +943,7 @@
 
 #u2457-4
 {
-	z-index: 147;
+	z-index: 148;
 	width: 335px;
 	min-height: 81px;
 	background-color: transparent;
@@ -946,7 +959,7 @@
 
 #u2468
 {
-	z-index: 157;
+	z-index: 158;
 	width: 250px;
 	height: 5px;
 	background-color: #754C24;
@@ -1119,7 +1132,7 @@
 
 #u2459-4
 {
-	z-index: 151;
+	z-index: 152;
 	width: 437px;
 	min-height: 72px;
 	background-color: transparent;
@@ -1135,7 +1148,7 @@
 
 #u2461
 {
-	z-index: 155;
+	z-index: 156;
 	width: 681px;
 	background-color: transparent;
 	position: relative;
@@ -1380,11 +1393,11 @@
 #u455
 {
 	z-index: 15;
-	width: 320px;
-	height: 68px;
+	width: 379px;
+	height: 73px;
 	margin-right: -10000px;
-	margin-top: 86px;
-	left: 111px;
+	margin-top: 80px;
+	left: 106px;
 }
 
 .ie #u358,.ie #u455
