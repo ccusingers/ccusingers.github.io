@@ -1,7 +1,7 @@
 .version.intro /* version checker */
 {
-	color: #000008;
-	background-color: #589F48;
+	color: #000018;
+	background-color: #D23295;
 }
 
 @-ms-viewport
@@ -124,8 +124,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -196,8 +196,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -271,8 +271,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -344,8 +344,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -426,8 +426,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;

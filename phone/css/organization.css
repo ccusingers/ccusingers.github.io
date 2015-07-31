@@ -1,7 +1,7 @@
 .version.organization /* version checker */
 {
-	color: #000016;
-	background-color: #BDB012;
+	color: #000004;
+	background-color: #C0EAE9;
 }
 
 @-ms-viewport
@@ -123,8 +123,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -188,8 +188,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -269,8 +269,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -343,8 +343,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -425,8 +425,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -593,9 +593,9 @@
 	width: 324px;
 	min-height: 157px;
 	background-color: transparent;
-	line-height: 26px;
 	text-align: justify;
 	font-size: 17px;
+	line-height: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	margin-left: 28px;
@@ -631,9 +631,9 @@
 	width: 277px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 28px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 28px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 20px;
@@ -799,9 +799,9 @@
 	width: 144px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 117px;
@@ -850,9 +850,9 @@
 	width: 143px;
 	min-height: 14px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 118px;
@@ -903,9 +903,9 @@
 	width: 118px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 129px;
@@ -954,9 +954,9 @@
 	width: 117px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 132px;
@@ -1005,9 +1005,9 @@
 	width: 117px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 132px;
@@ -1056,9 +1056,9 @@
 	width: 117px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 132px;
@@ -1107,9 +1107,9 @@
 	width: 176px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 105px;
@@ -1158,9 +1158,9 @@
 	width: 149px;
 	min-height: 16px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 116px;
@@ -1209,9 +1209,9 @@
 	width: 117px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 132px;

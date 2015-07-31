@@ -3,7 +3,13 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "media.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.musemenu.js", "museredirect.js", "jquery.scrolleffects.js", "media.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?40941066" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/media.html');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,6 +18,7 @@
   <meta name="generator" content="2015.0.0.309"/>
   <link rel="shortcut icon" href="images/favicon.ico?478655589"/>
   <title>中正聲樂社</title>
+  <link media="only screen and (max-device-width: 370px)" rel="alternate" href="index.html/phone/media.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
   <link rel="stylesheet" type="text/css" href="css/master_main.css?49520642"/>
