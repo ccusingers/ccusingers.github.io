@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438325544042">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1438325993927">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="49520642" ref="media:leadership:course:index"/>
@@ -24,7 +24,7 @@
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:media:leadership:course"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="478655589" ref="phone>index"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index:index"/>
     <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index"/>
     <file name="navigation logo132x69_2x.png" crc="4070611772" seo="true" ref="phone>index"/>
     <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media"/>
@@ -410,8 +410,8 @@
     <file name="class.html" crc="4096663333" seo="true" mt="1438325467343" redirect="true"/>
     <file name="media.html" crc="473454823" seo="true" mt="1438325467343" redirect="true"/>
   </folder>
-  <file name="index.html" crc="207684885" seo="true" mt="1438325422399" redirect="true"/>
-  <file name="media.html" crc="4052700777" seo="true" mt="1438325422399" redirect="true"/>
-  <file name="leadership.html" crc="297521233" seo="true" mt="1438325422399" redirect="true"/>
-  <file name="course.html" crc="4246152801" seo="true" mt="1438325422399" redirect="true"/>
+  <file name="index.html" crc="3912325825" seo="true" mt="1438325935788" redirect="true"/>
+  <file name="media.html" crc="444428635" seo="true" mt="1438325935788" redirect="true"/>
+  <file name="leadership.html" crc="3809330407" seo="true" mt="1438325935788" redirect="true"/>
+  <file name="course.html" crc="3489215" seo="true" mt="1438325935788" redirect="true"/>
 </manifest>
