@@ -1,7 +1,7 @@
 .version.course /* version checker */
 {
-	color: #0000E3;
-	background-color: #25A0FC;
+	color: #0000E8;
+	background-color: #F26D66;
 }
 
 .html
@@ -463,9 +463,9 @@
 	min-height: 43px;
 	background-color: transparent;
 	color: #000000;
-	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
+	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 202px;
@@ -763,9 +763,9 @@
 	width: 196px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 1px;
@@ -873,9 +873,9 @@
 	width: 196px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 36px;
 	text-align: right;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 303px;
@@ -931,9 +931,9 @@
 	width: 196px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1033,9 +1033,9 @@
 	width: 196px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 36px;
 	text-align: right;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 303px;

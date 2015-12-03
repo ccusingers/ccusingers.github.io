@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #0000EB;
-	background-color: #1B765D;
+	color: #000011;
+	background-color: #BBA6C9;
 }
 
 @-ms-viewport
@@ -529,9 +529,9 @@
 	width: 189px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1357,9 +1357,9 @@
 	width: 189px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 26px;
