@@ -1,321 +1,551 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ccusingers.github.io/</loc>
-    <changefreq>Weekly</changefreq>
+    <loc>http://index.html/index.html</loc>
+    <lastmod>2015-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://index.html/phone/index.html"/>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/up164-u2646.png</image:loc>
+      <image:loc>http://index.html/images/navigation%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/navigation logo.png</image:loc>
-      <image:title>中正聲樂社</image:title>
-      <image:caption>中正聲樂社</image:caption>
+      <image:loc>http://index.html/images/navigation%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/stage.jpg</image:loc>
+      <image:loc>http://index.html/images/main%20line.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/main line.png</image:loc>
+      <image:loc>http://index.html/images/main%20line_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/rainbow logo-u359.png</image:loc>
-      <image:title>中正聲樂社</image:title>
-      <image:caption>中正聲樂社</image:caption>
+      <image:loc>http://index.html/images/stage.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/guide.png</image:loc>
+      <image:loc>http://index.html/images/guide.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/short line.png</image:loc>
+      <image:loc>http://index.html/images/guide_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/800讚.jpg</image:loc>
+      <image:loc>http://index.html/images/short%20line.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/tri-chart.png</image:loc>
+      <image:loc>http://index.html/images/short%20line_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/structure.png</image:loc>
+      <image:loc>http://index.html/images/900like.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/indicator.png</image:loc>
+      <image:loc>http://index.html/images/900like_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/sprite.png</image:loc>
+      <image:loc>http://index.html/images/tri-chart.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2435-r.png</image:loc>
+      <image:loc>http://index.html/images/tri-chart_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2435-m.png</image:loc>
+      <image:loc>http://index.html/images/structure.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2435-r_2x.png</image:loc>
+      <image:loc>http://index.html/images/structure_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2435-m_2x.png</image:loc>
+      <image:loc>http://index.html/images/indicator.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2441-r.png</image:loc>
+      <image:loc>http://index.html/images/indicator_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2441-m.png</image:loc>
+      <image:loc>http://index.html/images/sprite.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2441-r_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2441-m_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2447-r.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/u2447-r_2x.png</image:loc>
+      <image:loc>http://index.html/images/sprite_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://ccusingers.github.io/course.html</loc>
-    <changefreq>Weekly</changefreq>
+    <loc>http://index.html/media.html</loc>
+    <lastmod>2018-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://index.html/phone/media.html"/>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/navigation logo.png</image:loc>
-      <image:title>中正聲樂社</image:title>
-      <image:caption>中正聲樂社</image:caption>
+      <image:loc>http://index.html/images/navigation%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/main line.png</image:loc>
+      <image:loc>http://index.html/images/navigation%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/class.jpg</image:loc>
+      <image:loc>http://index.html/images/main%20line.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/4circles.png</image:loc>
+      <image:loc>http://index.html/images/main%20line_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/tues.png</image:loc>
+      <image:loc>http://index.html/images/sprite.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/thur.png</image:loc>
+      <image:loc>http://index.html/images/sprite_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/alone.jpg</image:loc>
+      <image:loc>http://index.html/images/onstage.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/seperate.jpg</image:loc>
+      <image:loc>http://index.html/images/onstage_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/img_9097.jpg</image:loc>
+      <image:loc>http://index.html/images/new2015.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/t class.jpg</image:loc>
+      <image:loc>http://index.html/images/new2015_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-5_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-7_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-8_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-9_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-10_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-11_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/dscf6288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/dscf6288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-13_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-15_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-16_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-17_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-18_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-19_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-20_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/sing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-21_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-22_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/new201550x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/new201550x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-159x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-159x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-251x33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-251x33_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-453x33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-453x33_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-551x33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-551x33_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-750x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-750x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-850x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-850x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-950x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-950x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1050x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1050x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1150x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1150x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/dscf628850x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/dscf628850x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1350x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1350x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1551x33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1551x33_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1652x33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1652x33_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1750x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1750x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1850x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1850x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1950x38.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-1950x38_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2050x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2050x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/sing50x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/sing50x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2150x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2150x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2250x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/slider-2250x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/videoplaybutton.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/videoplaybutton_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://ccusingers.github.io/media.html</loc>
-    <changefreq>Weekly</changefreq>
+    <loc>http://index.html/phone/class.html</loc>
+    <lastmod>2015-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/phone/intro.html</loc>
+    <lastmod>2015-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/phone/organization.html</loc>
+    <lastmod>2015-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/leadership.html</loc>
+    <lastmod>2018-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/navigation logo.png</image:loc>
-      <image:title>中正聲樂社</image:title>
-      <image:caption>中正聲樂社</image:caption>
+      <image:loc>http://index.html/images/navigation%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/main line.png</image:loc>
+      <image:loc>http://index.html/images/navigation%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/onstage.jpg</image:loc>
+      <image:loc>http://index.html/images/main%20line.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1.jpg</image:loc>
+      <image:loc>http://index.html/images/main%20line_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-2.jpg</image:loc>
+      <image:loc>http://index.html/images/y-t.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-4.jpg</image:loc>
+      <image:loc>http://index.html/images/y-t_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-5.jpg</image:loc>
+      <image:loc>http://index.html/images/%E8%A9%B3%E7%B4%B0%E4%BB%8B%E7%B4%B9.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-7.jpg</image:loc>
+      <image:loc>http://index.html/images/%E8%A9%B3%E7%B4%B0%E4%BB%8B%E7%B4%B9_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-8.jpg</image:loc>
+      <image:loc>http://index.html/images/line%20triangle.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-9.jpg</image:loc>
+      <image:loc>http://index.html/images/line%20triangle_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-10.jpg</image:loc>
+      <image:loc>http://index.html/images/girls.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-11.jpg</image:loc>
+      <image:loc>http://index.html/images/girls_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/dscf6288.jpg</image:loc>
+      <image:loc>http://index.html/images/pantagon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-13.jpg</image:loc>
+      <image:loc>http://index.html/images/pantagon_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-15.jpg</image:loc>
+      <image:loc>http://index.html/images/huang.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-16.jpg</image:loc>
+      <image:loc>http://index.html/images/huang_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-17.jpg</image:loc>
+      <image:loc>http://index.html/images/president.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-18.jpg</image:loc>
+      <image:loc>http://index.html/images/president_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-19.jpg</image:loc>
+      <image:loc>http://index.html/images/vice-p-1236x236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-20.jpg</image:loc>
+      <image:loc>http://index.html/images/vice-p-1236x236_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-21.jpg</image:loc>
+      <image:loc>http://index.html/images/vice-p-2235x235.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-22.jpg</image:loc>
+      <image:loc>http://index.html/images/vice-p-2235x235_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-159x34.jpg</image:loc>
+      <image:loc>http://index.html/images/piano235x235.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-251x33.jpg</image:loc>
+      <image:loc>http://index.html/images/piano235x235_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-453x33.jpg</image:loc>
+      <image:loc>http://index.html/images/marketing236x236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-551x33.jpg</image:loc>
+      <image:loc>http://index.html/images/marketing236x236_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-750x35.jpg</image:loc>
+      <image:loc>http://index.html/images/finance236x236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-850x34.jpg</image:loc>
+      <image:loc>http://index.html/images/finance236x236_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-950x34.jpg</image:loc>
+      <image:loc>http://index.html/images/equi-236x236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1050x34.jpg</image:loc>
+      <image:loc>http://index.html/images/equi-236x236_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1150x34.jpg</image:loc>
+      <image:loc>http://index.html/images/sheet236x236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/dscf628850x34.jpg</image:loc>
+      <image:loc>http://index.html/images/sheet236x236_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1350x35.jpg</image:loc>
+      <image:loc>http://index.html/images/c1236x236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1551x33.jpg</image:loc>
+      <image:loc>http://index.html/images/c1236x236_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1652x33.jpg</image:loc>
+      <image:loc>http://index.html/images/c2236x236.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1750x35.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1850x35.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-1950x38.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-2050x34.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-2150x34.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/slider-2250x34.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/u1222-13.png</image:loc>
-      <image:title>&amp;nbsp;</image:title>
-      <image:caption>&amp;nbsp;</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/u1228-13.png</image:loc>
-      <image:title>&amp;nbsp;</image:title>
-      <image:caption>&amp;nbsp;</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/videoplaybutton.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ccusingers.github.io/images/sprite.png</image:loc>
+      <image:loc>http://index.html/images/c2236x236_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://ccusingers.github.io/leadership.html</loc>
-    <changefreq>Weekly</changefreq>
+    <loc>http://index.html/course.html</loc>
+    <lastmod>2015-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/navigation logo.png</image:loc>
-      <image:title>中正聲樂社</image:title>
-      <image:caption>中正聲樂社</image:caption>
+      <image:loc>http://index.html/images/navigation%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/main line.png</image:loc>
+      <image:loc>http://index.html/images/navigation%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/y-t.jpg</image:loc>
+      <image:loc>http://index.html/images/main%20line.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/詳細介紹.png</image:loc>
+      <image:loc>http://index.html/images/main%20line_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/line triangle.png</image:loc>
+      <image:loc>http://index.html/images/4circles.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/girls.jpg</image:loc>
+      <image:loc>http://index.html/images/4circles_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/pantagon.png</image:loc>
+      <image:loc>http://index.html/images/class.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/huang.jpg</image:loc>
+      <image:loc>http://index.html/images/class_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/president.jpg</image:loc>
+      <image:loc>http://index.html/images/tues.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/vice-p-1236x236.png</image:loc>
+      <image:loc>http://index.html/images/tues_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/vice-p-2235x235.png</image:loc>
+      <image:loc>http://index.html/images/thur.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/piano235x235.png</image:loc>
+      <image:loc>http://index.html/images/thur_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/marketing236x236.png</image:loc>
+      <image:loc>http://index.html/images/alone.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/finance236x236.png</image:loc>
+      <image:loc>http://index.html/images/alone_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/equi-236x236.png</image:loc>
+      <image:loc>http://index.html/images/seperate.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/sheet236x236.png</image:loc>
+      <image:loc>http://index.html/images/seperate_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/c1236x236.png</image:loc>
+      <image:loc>http://index.html/images/img_9097.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ccusingers.github.io/images/c2236x236.png</image:loc>
+      <image:loc>http://index.html/images/img_9097_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/t%20class.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/t%20class_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
-<!--<guid value="ce2984fb-a06f-427b-bd6c-16d0ab7e03f2" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->

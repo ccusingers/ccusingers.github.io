@@ -1,432 +1,1165 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1449109393195">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1533975544962">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="master_main.css" crc="49520642" ref="leadership:course:index:media"/>
-    <file name="leadership.css" crc="78401143" ref="leadership"/>
-    <file name="course.css" crc="3908201830" ref="course"/>
-    <file name="index.css" crc="4079066950" ref="index"/>
-    <file name="media.css" crc="221749072" ref="media"/>
-    <file name="iefonts_media.css" crc="467662511" ref="media"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_main.css" crc="4012432976" ref="media:course:leadership:index"/>
+    <file name="media.css" crc="174239076" ref="media"/>
+    <file name="iefonts_media.css" crc="196934131" ref="media"/>
+    <file name="course.css" crc="4031292366" ref="course"/>
+    <file name="leadership.css" crc="189353067" ref="leadership"/>
+    <file name="index.css" crc="3969581738" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
-    <file name="museutils.js" crc="275725342" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>intro:phone>media:index"/>
-    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>media:index:media"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:phone>media:index:media"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:phone>media:index:media"/>
-    <file name="touchswipe.js" crc="4218319045" ref="phone>index:phone>media:index:media"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>intro:phone>media:index:media"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>media:index:media"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>media:index:media"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>media:index:media"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>media:index:media"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
-    <file name="museredirect.js" crc="3899419633" ref="index:media"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:media:leadership:course"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:media:leadership:course"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="478655589" ref="phone>index"/>
-    <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index"/>
-    <file name="navigation logo132x69_2x.png" crc="4070611772" seo="true" ref="phone>index"/>
-    <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media"/>
-    <file name="0.jpg" crc="230937687" ref="phone>index"/>
-    <file name="0_2x.jpg" crc="521992224" ref="phone>index"/>
-    <file name="1.jpg" crc="986341" ref="phone>index"/>
-    <file name="1_2x.jpg" crc="4087382745" ref="phone>index"/>
-    <file name="2.jpg" crc="3862430220" ref="phone>index"/>
-    <file name="2_2x.jpg" crc="521490273" ref="phone>index"/>
-    <file name="3-u1418-fr.jpg" crc="129071910" ref="phone>index"/>
-    <file name="3-u1418-fr_2x.jpg" crc="439382869" ref="phone>index"/>
-    <file name="4.jpg" crc="155062652" ref="phone>index"/>
-    <file name="4_2x.jpg" crc="3812791053" ref="phone>index"/>
-    <file name="5.jpg" crc="481442281" ref="phone>index"/>
-    <file name="5_2x.jpg" crc="4045370715" ref="phone>index"/>
-    <file name="6.jpg" crc="4186331176" ref="phone>index"/>
-    <file name="6_2x.jpg" crc="227639922" ref="phone>index"/>
-    <file name="7.jpg" crc="3794271266" ref="phone>index"/>
-    <file name="7_2x.jpg" crc="443401990" ref="phone>index"/>
-    <file name="3.jpg" crc="393211712" ref="phone>index"/>
-    <file name="3_2x.jpg" crc="156255193" ref="phone>index"/>
-    <file name="about.jpg" crc="212783943" ref="phone>index"/>
-    <file name="about_2x.jpg" crc="3237852" ref="phone>index"/>
-    <file name="u2597-grad.png" crc="156952368" ref="phone>index"/>
-    <file name="right.png" crc="367210270" seo="true" ref="phone>index"/>
-    <file name="right_2x.png" crc="199219553" seo="true" ref="phone>index"/>
-    <file name="admin.jpg" crc="181349663" ref="phone>index"/>
-    <file name="admin_2x.jpg" crc="197988407" ref="phone>index"/>
-    <file name="course-ieu2621-fr.png" crc="3829001419" ref="phone>index"/>
-    <file name="course.jpg" crc="3829001419" ref="phone>index"/>
-    <file name="course-ieu2621-fr2.png" crc="311781867" ref="phone>index"/>
-    <file name="course_2x.jpg" crc="441178674" ref="phone>index"/>
-    <file name="media.jpg" crc="377621840" ref="phone>index"/>
-    <file name="media_2x.jpg" crc="170072306" ref="phone>index"/>
-    <file name="up166.png" crc="4046588569" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media"/>
-    <file name="up166_2x.png" crc="230276788" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media"/>
-    <file name="navigation logo126x66.png" crc="30654478" seo="true" ref="phone>intro"/>
-    <file name="navigation logo126x66_2x.png" crc="3939289936" seo="true" ref="phone>intro"/>
-    <file name="internet77x73.png" crc="279608313" seo="true" ref="phone>intro"/>
-    <file name="internet77x73_2x.png" crc="71390246" seo="true" ref="phone>intro"/>
-    <file name="mail77x73.png" crc="297077529" seo="true" ref="phone>intro"/>
-    <file name="mail77x73_2x.png" crc="442510539" seo="true" ref="phone>intro"/>
-    <file name="fb77x73.png" crc="39684733" seo="true" ref="phone>intro"/>
-    <file name="fb77x73_2x.png" crc="3876584217" seo="true" ref="phone>intro"/>
-    <file name="stage 2.jpg" crc="349138623" ref="phone>intro"/>
-    <file name="rainbow logo244x190.png" crc="3799635008" seo="true" ref="phone>intro"/>
-    <file name="rainbow logo244x190_2x.png" crc="4009864626" seo="true" ref="phone>intro"/>
-    <file name="short line293x7.png" crc="206020042" seo="true" ref="phone>intro"/>
-    <file name="short line293x7_2x.png" crc="194570500" seo="true" ref="phone>intro"/>
-    <file name="guide267x153.png" crc="4008617882" seo="true" ref="phone>intro"/>
-    <file name="guide267x153_2x.png" crc="122541104" seo="true" ref="phone>intro"/>
-    <file name="tri-chart184x271.png" crc="4244742239" seo="true" ref="phone>intro"/>
-    <file name="tri-chart184x271_2x.png" crc="187235211" seo="true" ref="phone>intro"/>
-    <file name="structure380x194.png" crc="60262338" seo="true" ref="phone>intro"/>
-    <file name="structure380x194_2x.png" crc="489895857" seo="true" ref="phone>intro"/>
-    <file name="map352x197.jpg" crc="352317043" seo="true" ref="phone>intro"/>
-    <file name="map352x197_2x.jpg" crc="4161645348" seo="true" ref="phone>intro"/>
-    <file name="indicator17x17.png" crc="4107585820" seo="true" ref="phone>intro"/>
-    <file name="indicator17x17_2x.png" crc="386512755" seo="true" ref="phone>intro"/>
-    <file name="詳細介紹100x32.png" crc="123312007" seo="true" ref="phone>organization"/>
-    <file name="詳細介紹100x32_2x.png" crc="4033908997" seo="true" ref="phone>organization"/>
-    <file name="y-t210x249.jpg" crc="168221757" seo="true" ref="phone>organization"/>
-    <file name="y-t210x249_2x.jpg" crc="3775325008" seo="true" ref="phone>organization"/>
-    <file name="pantagon318x311.png" crc="4190440715" seo="true" ref="phone>organization"/>
-    <file name="pantagon318x311_2x.png" crc="4137276026" seo="true" ref="phone>organization"/>
-    <file name="huang291x192.jpg" crc="4211227216" seo="true" ref="phone>organization"/>
-    <file name="huang291x192_2x.jpg" crc="3995598285" seo="true" ref="phone>organization"/>
-    <file name="president291x192.jpg" crc="4015592208" seo="true" ref="phone>organization"/>
-    <file name="president291x192_2x.jpg" crc="502557492" seo="true" ref="phone>organization"/>
-    <file name="vice-p-1.png" crc="3886302037" seo="true" ref="phone>organization"/>
-    <file name="vice-p-1_2x.png" crc="3994129492" seo="true" ref="phone>organization"/>
-    <file name="vice-p-2.png" crc="427353888" seo="true" ref="phone>organization"/>
-    <file name="vice-p-2_2x.png" crc="256176423" seo="true" ref="phone>organization"/>
-    <file name="piano.png" crc="4190697757" seo="true" ref="phone>organization"/>
-    <file name="piano_2x.png" crc="171098502" seo="true" ref="phone>organization"/>
-    <file name="marketing.png" crc="3909037131" seo="true" ref="phone>organization"/>
-    <file name="marketing_2x.png" crc="4160078982" seo="true" ref="phone>organization"/>
-    <file name="finance.png" crc="151588781" seo="true" ref="phone>organization"/>
-    <file name="finance_2x.png" crc="104119857" seo="true" ref="phone>organization"/>
-    <file name="equi-.png" crc="102781561" seo="true" ref="phone>organization"/>
-    <file name="equi-_2x.png" crc="3778150897" seo="true" ref="phone>organization"/>
-    <file name="sheet.png" crc="214428875" seo="true" ref="phone>organization"/>
-    <file name="sheet_2x.png" crc="4244627767" seo="true" ref="phone>organization"/>
-    <file name="c1.png" crc="139841321" seo="true" ref="phone>organization"/>
-    <file name="c1_2x.png" crc="510854937" seo="true" ref="phone>organization"/>
-    <file name="c2.png" crc="4228863384" seo="true" ref="phone>organization"/>
-    <file name="c2_2x.png" crc="4222019025" seo="true" ref="phone>organization"/>
-    <file name="class381x136.jpg" crc="386065275" seo="true" ref="phone>class"/>
-    <file name="class381x136_2x.jpg" crc="258579487" seo="true" ref="phone>class"/>
-    <file name="u3024-grad.png" crc="21862668" ref="phone>class"/>
-    <file name="short line342x7.png" crc="77887938" seo="true" ref="phone>class"/>
-    <file name="short line342x7_2x.png" crc="3973910577" seo="true" ref="phone>class"/>
-    <file name="tues129x130.png" crc="354753801" seo="true" ref="phone>class"/>
-    <file name="tues129x130_2x.png" crc="344582656" seo="true" ref="phone>class"/>
-    <file name="thur129x130.png" crc="3973913417" seo="true" ref="phone>class"/>
-    <file name="thur129x130_2x.png" crc="186621756" seo="true" ref="phone>class"/>
-    <file name="alone302x208.jpg" crc="332954436" seo="true" ref="phone>class"/>
-    <file name="alone302x208_2x.jpg" crc="377043076" seo="true" ref="phone>class"/>
-    <file name="seperate303x208.jpg" crc="3916516903" seo="true" ref="phone>class"/>
-    <file name="seperate303x208_2x.jpg" crc="298240639" seo="true" ref="phone>class"/>
-    <file name="img_9097303x208.jpg" crc="78740081" seo="true" ref="phone>class"/>
-    <file name="img_9097303x208_2x.jpg" crc="3923752792" seo="true" ref="phone>class"/>
-    <file name="t class303x209.jpg" crc="357688069" seo="true" ref="phone>class"/>
-    <file name="t class303x209_2x.jpg" crc="3767768600" seo="true" ref="phone>class"/>
-    <file name="on-stage.jpg" crc="57802966" ref="phone>media"/>
-    <file name="on-stage_2x.jpg" crc="4182046264" ref="phone>media"/>
-    <file name="slider-1421x237.jpg" crc="92686472" seo="true" ref="phone>media"/>
-    <file name="slider-1421x237_2x.jpg" crc="3758421489" seo="true" ref="phone>media"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index:leadership"/>
+    <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="navigation logo132x69_2x.png" crc="4070611772" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="organization" alt=""/>
+      <caption webpage="class" alt=""/>
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="3.jpg" crc="477903971" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_2x.jpg" crc="156255193" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0.jpg" crc="494232742" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0_2x.jpg" crc="521992224" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="528331410" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_2x.jpg" crc="4087382745" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="384963451" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_2x.jpg" crc="521490273" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-u1418-fr.jpg" crc="173878416" ref="phone>index"/>
+    <file name="3-u1418-fr_2x.jpg" crc="4200482335" ref="phone>index"/>
+    <file name="4.jpg" crc="175875612" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_2x.jpg" crc="3812791053" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3796977141" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_2x.jpg" crc="4045370715" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="79580552" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_2x.jpg" crc="227639922" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3816527258" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_2x.jpg" crc="443401990" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about.jpg" crc="167216151" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about_2x.jpg" crc="3237852" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right.png" crc="367210270" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right_2x.png" crc="199219553" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="admin.jpg" crc="3919390702" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="admin_2x.jpg" crc="197988407" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="course.jpg" crc="4244563973" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="course_2x.jpg" crc="441178674" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="media.jpg" crc="3916665022" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="media_2x.jpg" crc="170072306" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up166.png" crc="4046588569" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="organization" alt=""/>
+      <caption webpage="class" alt=""/>
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="up166_2x.png" crc="230276788" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="organization" alt=""/>
+      <caption webpage="class" alt=""/>
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="navigation logo126x66.png" crc="30654478" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="navigation logo126x66_2x.png" crc="3939289936" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="internet77x73.png" crc="279608313" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="internet77x73_2x.png" crc="71390246" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="mail77x73.png" crc="297077529" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="mail77x73_2x.png" crc="442510539" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="fb77x73.png" crc="39684733" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="fb77x73_2x.png" crc="3876584217" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="stage 2.jpg" crc="4291686908" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="stage 2_2x.jpg" crc="349138623" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="rainbow logo244x190.png" crc="3799635008" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="rainbow logo244x190_2x.png" crc="4009864626" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="short line293x7.png" crc="206020042" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="short line293x7_2x.png" crc="194570500" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="guide267x153.png" crc="4008617882" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="guide267x153_2x.png" crc="122541104" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="900like354x199.jpg" crc="3952394613" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="900like354x199_2x.jpg" crc="347062556" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="tri-chart184x271.png" crc="4244742239" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="tri-chart184x271_2x.png" crc="187235211" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="structure380x194.png" crc="60262338" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="structure380x194_2x.png" crc="489895857" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="map352x197.jpg" crc="4268621764" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="map352x197_2x.jpg" crc="427411399" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="indicator17x17.png" crc="4107585820" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="indicator17x17_2x.png" crc="386512755" seo="true" ref="phone>intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="詳細介紹100x32.png" crc="123312007" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="詳細介紹100x32_2x.png" crc="4033908997" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="y-t210x249.jpg" crc="3959163285" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="y-t210x249_2x.jpg" crc="112414297" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="pantagon318x311.png" crc="4190440715" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="pantagon318x311_2x.png" crc="4137276026" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="huang291x192.jpg" crc="3940011754" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="huang291x192_2x.jpg" crc="3759718000" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="president291x192.jpg" crc="105041760" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="president291x192_2x.jpg" crc="4174780605" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="vice-p-1.png" crc="3886302037" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="vice-p-1_2x.png" crc="3994129492" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="vice-p-2.png" crc="427353888" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="vice-p-2_2x.png" crc="256176423" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="piano.png" crc="4190697757" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="piano_2x.png" crc="171098502" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="marketing.png" crc="3909037131" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="marketing_2x.png" crc="4160078982" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="finance.png" crc="151588781" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="finance_2x.png" crc="104119857" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="equi-.png" crc="102781561" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="equi-_2x.png" crc="3778150897" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="sheet.png" crc="214428875" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="sheet_2x.png" crc="4244627767" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="c1.png" crc="139841321" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="c1_2x.png" crc="510854937" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="c2.png" crc="4228863384" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="c2_2x.png" crc="4222019025" seo="true" ref="phone>organization">
+      <caption webpage="organization" alt=""/>
+    </file>
+    <file name="class381x136.jpg" crc="3948472450" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="class381x136_2x.jpg" crc="3811672787" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="short line342x7.png" crc="77887938" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="short line342x7_2x.png" crc="3973910577" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="tues129x130.png" crc="354753801" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="tues129x130_2x.png" crc="344582656" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="thur129x130.png" crc="3973913417" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="thur129x130_2x.png" crc="186621756" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="alone302x208.jpg" crc="406330861" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="alone302x208_2x.jpg" crc="4289526361" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="seperate303x208.jpg" crc="294582500" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="seperate303x208_2x.jpg" crc="493140068" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="img_9097303x208.jpg" crc="411445998" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="img_9097303x208_2x.jpg" crc="500509010" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="t class303x209.jpg" crc="4128785859" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="t class303x209_2x.jpg" crc="182409794" seo="true" ref="phone>class">
+      <caption webpage="class" alt=""/>
+    </file>
+    <file name="on-stage.jpg" crc="427526965" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="on-stage_2x.jpg" crc="4182046264" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new2015380x254.jpg" crc="398016579" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new2015380x254_2x.jpg" crc="290211038" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="phone>media:media"/>
-    <file name="slider-2380x251.jpg" crc="369254136" seo="true" ref="phone>media"/>
-    <file name="slider-2380x251_2x.jpg" crc="3836988635" seo="true" ref="phone>media"/>
-    <file name="slider-4380x238.jpg" crc="123363138" seo="true" ref="phone>media"/>
-    <file name="slider-4380x238_2x.jpg" crc="72877940" seo="true" ref="phone>media"/>
-    <file name="slider-5380x251.jpg" crc="271768238" seo="true" ref="phone>media"/>
-    <file name="slider-5380x251_2x.jpg" crc="4270565351" seo="true" ref="phone>media"/>
-    <file name="slider-7380x262.jpg" crc="409107838" seo="true" ref="phone>media"/>
-    <file name="slider-7380x262_2x.jpg" crc="3913235813" seo="true" ref="phone>media"/>
-    <file name="slider-8380x254.jpg" crc="367429222" seo="true" ref="phone>media"/>
-    <file name="slider-8380x254_2x.jpg" crc="152027633" seo="true" ref="phone>media"/>
-    <file name="slider-9380x254.jpg" crc="3894266735" seo="true" ref="phone>media"/>
-    <file name="slider-9380x254_2x.jpg" crc="506337960" seo="true" ref="phone>media"/>
-    <file name="slider-10380x254.jpg" crc="4134958439" seo="true" ref="phone>media"/>
-    <file name="slider-10380x254_2x.jpg" crc="21570320" seo="true" ref="phone>media"/>
-    <file name="slider-11380x254.jpg" crc="3963670198" seo="true" ref="phone>media"/>
-    <file name="slider-11380x254_2x.jpg" crc="3804386794" seo="true" ref="phone>media"/>
-    <file name="dscf6288380x252.jpg" crc="40223218" seo="true" ref="phone>media"/>
-    <file name="dscf6288380x252_2x.jpg" crc="4119435855" seo="true" ref="phone>media"/>
-    <file name="slider-13380x261.jpg" crc="131019201" seo="true" ref="phone>media"/>
-    <file name="slider-13380x261_2x.jpg" crc="235114970" seo="true" ref="phone>media"/>
-    <file name="slider-15380x247.jpg" crc="160288154" seo="true" ref="phone>media"/>
-    <file name="slider-15380x247_2x.jpg" crc="4178022857" seo="true" ref="phone>media"/>
-    <file name="slider-16380x245.jpg" crc="317330743" seo="true" ref="phone>media"/>
-    <file name="slider-16380x245_2x.jpg" crc="3907592369" seo="true" ref="phone>media"/>
-    <file name="slider-17380x260.jpg" crc="153878437" seo="true" ref="phone>media"/>
-    <file name="slider-17380x260_2x.jpg" crc="481390795" seo="true" ref="phone>media"/>
-    <file name="slider-18380x261.jpg" crc="4133785563" seo="true" ref="phone>media"/>
-    <file name="slider-18380x261_2x.jpg" crc="384748714" seo="true" ref="phone>media"/>
-    <file name="slider-19380x286.jpg" crc="483516384" seo="true" ref="phone>media"/>
-    <file name="slider-19380x286_2x.jpg" crc="4239870939" seo="true" ref="phone>media"/>
-    <file name="slider-20380x255.jpg" crc="4059336176" seo="true" ref="phone>media"/>
-    <file name="slider-20380x255_2x.jpg" crc="189879233" seo="true" ref="phone>media"/>
-    <file name="slider-21380x254.jpg" crc="4171637198" seo="true" ref="phone>media"/>
-    <file name="slider-21380x254_2x.jpg" crc="3805934876" seo="true" ref="phone>media"/>
-    <file name="slider-22380x254.jpg" crc="482987633" seo="true" ref="phone>media"/>
-    <file name="slider-22380x254_2x.jpg" crc="77586537" seo="true" ref="phone>media"/>
-    <file name="slider-148x28.jpg" crc="338868132" seo="true" ref="phone>media"/>
-    <file name="slider-148x28_2x.jpg" crc="518721282" seo="true" ref="phone>media"/>
-    <file name="slider-244x30.jpg" crc="158671131" seo="true" ref="phone>media"/>
-    <file name="slider-244x30_2x.jpg" crc="3911501131" seo="true" ref="phone>media"/>
-    <file name="slider-444x28.jpg" crc="3804309394" seo="true" ref="phone>media"/>
-    <file name="slider-444x28_2x.jpg" crc="177925456" seo="true" ref="phone>media"/>
-    <file name="slider-544x30.jpg" crc="3972074187" seo="true" ref="phone>media"/>
-    <file name="slider-544x30_2x.jpg" crc="49526598" seo="true" ref="phone>media"/>
-    <file name="slider-744x31.jpg" crc="4013634677" seo="true" ref="phone>media"/>
-    <file name="slider-744x31_2x.jpg" crc="115279282" seo="true" ref="phone>media"/>
-    <file name="slider-844x30.jpg" crc="4137221892" seo="true" ref="phone>media"/>
-    <file name="slider-844x30_2x.jpg" crc="4243359522" seo="true" ref="phone>media"/>
-    <file name="slider-944x30.jpg" crc="4049865367" seo="true" ref="phone>media"/>
-    <file name="slider-944x30_2x.jpg" crc="218429444" seo="true" ref="phone>media"/>
-    <file name="slider-1044x30.jpg" crc="466300674" seo="true" ref="phone>media"/>
-    <file name="slider-1044x30_2x.jpg" crc="3774454056" seo="true" ref="phone>media"/>
-    <file name="slider-1144x30.jpg" crc="203824862" seo="true" ref="phone>media"/>
-    <file name="slider-1144x30_2x.jpg" crc="3859235780" seo="true" ref="phone>media"/>
-    <file name="dscf628844x30.jpg" crc="287969103" seo="true" ref="phone>media"/>
-    <file name="dscf628844x30_2x.jpg" crc="188162460" seo="true" ref="phone>media"/>
-    <file name="slider-1344x31.jpg" crc="135508845" seo="true" ref="phone>media"/>
-    <file name="slider-1344x31_2x.jpg" crc="20203786" seo="true" ref="phone>media"/>
-    <file name="slider-1544x29.jpg" crc="325622161" seo="true" ref="phone>media"/>
-    <file name="slider-1544x29_2x.jpg" crc="22914106" seo="true" ref="phone>media"/>
-    <file name="slider-1644x29.jpg" crc="140288238" seo="true" ref="phone>media"/>
-    <file name="slider-1644x29_2x.jpg" crc="515930826" seo="true" ref="phone>media"/>
-    <file name="slider-1744x31.jpg" crc="345605931" seo="true" ref="phone>media"/>
-    <file name="slider-1744x31_2x.jpg" crc="3798264505" seo="true" ref="phone>media"/>
-    <file name="slider-1844x31.jpg" crc="311995522" seo="true" ref="phone>media"/>
-    <file name="slider-1844x31_2x.jpg" crc="350093588" seo="true" ref="phone>media"/>
-    <file name="slider-1944x34.jpg" crc="394794639" seo="true" ref="phone>media"/>
-    <file name="slider-1944x34_2x.jpg" crc="3943925378" seo="true" ref="phone>media"/>
-    <file name="slider-2044x30.jpg" crc="220222534" seo="true" ref="phone>media"/>
-    <file name="slider-2044x30_2x.jpg" crc="37444995" seo="true" ref="phone>media"/>
-    <file name="slider-2144x30.jpg" crc="448629485" seo="true" ref="phone>media"/>
-    <file name="slider-2144x30_2x.jpg" crc="3809302856" seo="true" ref="phone>media"/>
-    <file name="slider-2244x30.jpg" crc="22293663" seo="true" ref="phone>media"/>
-    <file name="slider-2244x30_2x.jpg" crc="4001427318" seo="true" ref="phone>media"/>
+    <file name="slider-1421x237.jpg" crc="3942844130" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1421x237_2x.jpg" crc="3835305064" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2380x251.jpg" crc="4135563844" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2380x251_2x.jpg" crc="4201775581" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-4380x238.jpg" crc="120748370" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-4380x238_2x.jpg" crc="354854526" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-5380x251.jpg" crc="293894114" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-5380x251_2x.jpg" crc="350508430" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-7380x262.jpg" crc="3785885985" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-7380x262_2x.jpg" crc="3840631204" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-8380x254.jpg" crc="4078130737" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-8380x254_2x.jpg" crc="154863062" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-9380x254.jpg" crc="3793074923" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-9380x254_2x.jpg" crc="3761837804" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-10380x254.jpg" crc="3782739228" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-10380x254_2x.jpg" crc="4259240663" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-11380x254.jpg" crc="3995483421" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-11380x254_2x.jpg" crc="4197071566" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf6288380x252.jpg" crc="415996731" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf6288380x252_2x.jpg" crc="3946061726" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-13380x261.jpg" crc="212539381" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-13380x261_2x.jpg" crc="115021048" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-15380x247.jpg" crc="3815974953" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-15380x247_2x.jpg" crc="3923242820" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-16380x245.jpg" crc="192727247" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-16380x245_2x.jpg" crc="69788505" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-17380x260.jpg" crc="4244564678" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-17380x260_2x.jpg" crc="3769485274" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-18380x261.jpg" crc="495497470" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-18380x261_2x.jpg" crc="34452972" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-19380x286.jpg" crc="379085568" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-19380x286_2x.jpg" crc="4068306497" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-20380x255.jpg" crc="203601841" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-20380x255_2x.jpg" crc="4287946649" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sing380x252.jpg" crc="76500033" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sing380x252_2x.jpg" crc="4288607241" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-21380x254.jpg" crc="436860361" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-21380x254_2x.jpg" crc="3818312089" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-22380x254.jpg" crc="4194305145" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-22380x254_2x.jpg" crc="3826383437" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new201544x30.jpg" crc="4032167438" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new201544x30_2x.jpg" crc="335654764" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-148x28.jpg" crc="4160527639" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-148x28_2x.jpg" crc="134830164" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-244x30.jpg" crc="4004104420" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-244x30_2x.jpg" crc="3841817445" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-444x28.jpg" crc="3954317495" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-444x28_2x.jpg" crc="129776720" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-544x30.jpg" crc="410468758" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-544x30_2x.jpg" crc="3795618720" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-744x31.jpg" crc="518293746" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-744x31_2x.jpg" crc="61615538" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-844x30.jpg" crc="4002626827" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-844x30_2x.jpg" crc="4162187468" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-944x30.jpg" crc="118816123" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-944x30_2x.jpg" crc="4247897477" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1044x30.jpg" crc="377196220" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1044x30_2x.jpg" crc="268736792" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1144x30.jpg" crc="3946175051" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1144x30_2x.jpg" crc="427662777" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf628844x30.jpg" crc="235483855" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf628844x30_2x.jpg" crc="4206547744" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1344x31.jpg" crc="4137444136" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1344x31_2x.jpg" crc="86563194" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1544x29.jpg" crc="27693765" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1544x29_2x.jpg" crc="497284954" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1644x29.jpg" crc="4081925379" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1644x29_2x.jpg" crc="65400631" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1744x31.jpg" crc="380890069" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1744x31_2x.jpg" crc="3857727448" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1844x31.jpg" crc="4175896559" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1844x31_2x.jpg" crc="3785393615" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1944x34.jpg" crc="501437846" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1944x34_2x.jpg" crc="4203672544" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2044x30.jpg" crc="4239574730" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2044x30_2x.jpg" crc="508885770" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sing44x30.jpg" crc="4041241262" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sing44x30_2x.jpg" crc="407298586" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2144x30.jpg" crc="146736468" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2144x30_2x.jpg" crc="216276282" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2244x30.jpg" crc="383975877" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2244x30_2x.jpg" crc="3881157550" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
     <file name="loading.gif" crc="3815509949" ref="phone>media:media"/>
-    <file name="anniversary-ieu3317-fr.png" crc="85193533" ref="phone>media"/>
-    <file name="anniversary.jpg" crc="257755185" ref="phone>media:media"/>
-    <file name="videoplaybutton66x65.png" crc="180755528" seo="true" ref="phone>media"/>
-    <file name="videoplaybutton66x65_2x.png" crc="3943666374" seo="true" ref="phone>media"/>
-    <file name="dscf3401-ieu3318-fr.png" crc="3880193899" ref="phone>media"/>
-    <file name="dscf3401.jpg" crc="4252838402" ref="phone>media:media"/>
-    <file name="large banner.jpg" crc="3826602296" ref="index"/>
+    <file name="anniversary-u3317-fr.jpg" crc="49694064" ref="phone>media"/>
+    <file name="anniversary-u3317-fr_2x.jpg" crc="4232034603" ref="phone>media"/>
+    <file name="videoplaybutton66x65.png" crc="180755528" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="videoplaybutton66x65_2x.png" crc="3943666374" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf3401-u3318-fr.jpg" crc="10714681" ref="phone>media"/>
+    <file name="dscf3401-u3318-fr_2x.jpg" crc="207812028" ref="phone>media"/>
+    <file name="large banner.jpg" crc="3826602296" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="navigation logo.png" crc="3917517852" seo="true" ref="index:media:leadership:course">
+      <caption webpage="index" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="navigation logo_2x.png" crc="4033823828" seo="true" ref="index:media:leadership:course">
+      <caption webpage="index" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="main line.png" crc="3786084271" seo="true" ref="index:media:leadership:course">
+      <caption webpage="index" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:media:leadership:course">
+      <caption webpage="index" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="course" alt=""/>
+      <caption webpage="leadership" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
     <file name="up164-u2646.png" crc="4238310036" ref="index"/>
     <file name="up164-u2646_2x.png" crc="3943438312" ref="index"/>
-    <file name="navigation logo.png" crc="3917517852" seo="true" ref="index:media:leadership:course"/>
-    <file name="navigation logo_2x.png" crc="4033823828" seo="true" ref="index:media:leadership:course"/>
-    <file name="stage.jpg" crc="167367752" seo="true" ref="index"/>
-    <file name="main line.png" crc="3786084271" seo="true" ref="index:media:leadership:course"/>
-    <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:media:leadership:course"/>
+    <file name="stage.jpg" crc="461837399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u2435.png" crc="4128584350" ref="index"/>
-    <file name="u2435-r.png" crc="3842788743" ref="index"/>
-    <file name="u2435-m.png" crc="3842788743" ref="index"/>
     <file name="u2435_2x.png" crc="361988338" ref="index"/>
+    <file name="u2435-r.png" crc="3842788743" ref="index"/>
     <file name="u2435-r_2x.png" crc="4036144352" ref="index"/>
+    <file name="u2435-m.png" crc="3842788743" ref="index"/>
     <file name="u2435-m_2x.png" crc="4036144352" ref="index"/>
     <file name="u2441.png" crc="4121949779" ref="index"/>
-    <file name="u2441-r.png" crc="317885791" ref="index"/>
-    <file name="u2441-m.png" crc="317885791" ref="index"/>
     <file name="u2441_2x.png" crc="4144262235" ref="index"/>
+    <file name="u2441-r.png" crc="317885791" ref="index"/>
     <file name="u2441-r_2x.png" crc="3857615604" ref="index"/>
+    <file name="u2441-m.png" crc="317885791" ref="index"/>
     <file name="u2441-m_2x.png" crc="3857615604" ref="index"/>
     <file name="u2447.png" crc="3827997727" ref="index"/>
-    <file name="u2447-r.png" crc="52595259" ref="index"/>
     <file name="u2447_2x.png" crc="466929374" ref="index"/>
+    <file name="u2447-r.png" crc="52595259" ref="index"/>
     <file name="u2447-r_2x.png" crc="456653581" ref="index"/>
     <file name="rainbow logo-u359.png" crc="4215719154" ref="index"/>
     <file name="rainbow logo-u359_2x.png" crc="3887916771" ref="index"/>
-    <file name="guide.png" crc="3994271862" seo="true" ref="index"/>
-    <file name="guide_2x.png" crc="3989920284" seo="true" ref="index"/>
-    <file name="short line.png" crc="258633909" seo="true" ref="index"/>
-    <file name="short line_2x.png" crc="112547011" seo="true" ref="index"/>
-    <file name="tri-chart.png" crc="4123034808" seo="true" ref="index"/>
-    <file name="tri-chart_2x.png" crc="104658941" seo="true" ref="index"/>
-    <file name="structure.png" crc="3383790" seo="true" ref="index"/>
-    <file name="structure_2x.png" crc="4179060128" seo="true" ref="index"/>
-    <file name="map-ieu4515-fr.png" crc="376514369" ref="index"/>
-    <file name="map.jpg" crc="466504768" ref="index"/>
-    <file name="indicator.png" crc="4119194928" seo="true" ref="index"/>
-    <file name="indicator_2x.png" crc="423485540" seo="true" ref="index"/>
-    <file name="sprite.png" crc="3868854495" seo="true" ref="index:media"/>
-    <file name="sprite_2x.png" crc="3811760408" seo="true" ref="index:media"/>
-    <file name="onstage.jpg" crc="311511889" seo="true" ref="media"/>
-    <file name="onstage_2x.jpg" crc="331759176" seo="true" ref="media"/>
-    <file name="slider-1.jpg" crc="387858815" seo="true" ref="media"/>
-    <file name="slider-1_2x.jpg" crc="4011445729" seo="true" ref="media"/>
-    <file name="slider-2.jpg" crc="132610728" seo="true" ref="media"/>
-    <file name="slider-2_2x.jpg" crc="4072640663" seo="true" ref="media"/>
-    <file name="slider-4.jpg" crc="429166865" seo="true" ref="media"/>
-    <file name="slider-4_2x.jpg" crc="3928183414" seo="true" ref="media"/>
-    <file name="slider-5.jpg" crc="3933123921" seo="true" ref="media"/>
-    <file name="slider-5_2x.jpg" crc="4256969252" seo="true" ref="media"/>
-    <file name="slider-7.jpg" crc="4211000409" seo="true" ref="media"/>
-    <file name="slider-7_2x.jpg" crc="25561346" seo="true" ref="media"/>
-    <file name="slider-8.jpg" crc="4153496523" seo="true" ref="media"/>
-    <file name="slider-8_2x.jpg" crc="468199533" seo="true" ref="media"/>
-    <file name="slider-9.jpg" crc="3860436802" seo="true" ref="media"/>
-    <file name="slider-9_2x.jpg" crc="3825909707" seo="true" ref="media"/>
-    <file name="slider-10.jpg" crc="3770850996" seo="true" ref="media"/>
-    <file name="slider-10_2x.jpg" crc="370849451" seo="true" ref="media"/>
-    <file name="slider-11.jpg" crc="117118524" seo="true" ref="media"/>
-    <file name="slider-11_2x.jpg" crc="4290415478" seo="true" ref="media"/>
-    <file name="dscf6288.jpg" crc="4203907590" seo="true" ref="media"/>
-    <file name="dscf6288_2x.jpg" crc="4179150267" seo="true" ref="media"/>
-    <file name="slider-13.jpg" crc="3998168533" seo="true" ref="media"/>
-    <file name="slider-13_2x.jpg" crc="3966270539" seo="true" ref="media"/>
-    <file name="slider-15.jpg" crc="4188632742" seo="true" ref="media"/>
-    <file name="slider-15_2x.jpg" crc="4216186524" seo="true" ref="media"/>
-    <file name="slider-16.jpg" crc="4122841858" seo="true" ref="media"/>
-    <file name="slider-16_2x.jpg" crc="3819909939" seo="true" ref="media"/>
-    <file name="slider-17.jpg" crc="4198356790" seo="true" ref="media"/>
-    <file name="slider-17_2x.jpg" crc="445256722" seo="true" ref="media"/>
-    <file name="slider-18.jpg" crc="4071519359" seo="true" ref="media"/>
-    <file name="slider-18_2x.jpg" crc="4007849670" seo="true" ref="media"/>
-    <file name="slider-19.jpg" crc="95340646" seo="true" ref="media"/>
-    <file name="slider-19_2x.jpg" crc="261656092" seo="true" ref="media"/>
-    <file name="slider-20.jpg" crc="3994931893" seo="true" ref="media"/>
-    <file name="slider-20_2x.jpg" crc="3838411948" seo="true" ref="media"/>
-    <file name="slider-21.jpg" crc="389666990" seo="true" ref="media"/>
-    <file name="slider-21_2x.jpg" crc="188719024" seo="true" ref="media"/>
-    <file name="slider-22.jpg" crc="78715129" seo="true" ref="media"/>
-    <file name="slider-22_2x.jpg" crc="3931583338" seo="true" ref="media"/>
-    <file name="slider-159x34.jpg" crc="3769007799" seo="true" ref="media"/>
-    <file name="slider-159x34_2x.jpg" crc="190741239" seo="true" ref="media"/>
-    <file name="slider-251x33.jpg" crc="4148384742" seo="true" ref="media"/>
-    <file name="slider-251x33_2x.jpg" crc="315062701" seo="true" ref="media"/>
-    <file name="slider-453x33.jpg" crc="3822725226" seo="true" ref="media"/>
-    <file name="slider-453x33_2x.jpg" crc="4068472550" seo="true" ref="media"/>
-    <file name="slider-551x33.jpg" crc="399046152" seo="true" ref="media"/>
-    <file name="slider-551x33_2x.jpg" crc="4185767398" seo="true" ref="media"/>
-    <file name="slider-750x35.jpg" crc="228554543" seo="true" ref="media"/>
-    <file name="slider-750x35_2x.jpg" crc="532030765" seo="true" ref="media"/>
-    <file name="slider-850x34.jpg" crc="282401266" seo="true" ref="media"/>
-    <file name="slider-850x34_2x.jpg" crc="213629364" seo="true" ref="media"/>
-    <file name="slider-950x34.jpg" crc="15173681" seo="true" ref="media"/>
-    <file name="slider-950x34_2x.jpg" crc="4051414489" seo="true" ref="media"/>
-    <file name="slider-1050x34.jpg" crc="4076068061" seo="true" ref="media"/>
-    <file name="slider-1050x34_2x.jpg" crc="3892315884" seo="true" ref="media"/>
-    <file name="slider-1150x34.jpg" crc="411338461" seo="true" ref="media"/>
-    <file name="slider-1150x34_2x.jpg" crc="312528051" seo="true" ref="media"/>
-    <file name="dscf628850x34.jpg" crc="3780340401" seo="true" ref="media"/>
-    <file name="dscf628850x34_2x.jpg" crc="61244943" seo="true" ref="media"/>
-    <file name="slider-1350x35.jpg" crc="4117586961" seo="true" ref="media"/>
-    <file name="slider-1350x35_2x.jpg" crc="66689340" seo="true" ref="media"/>
-    <file name="slider-1551x33.jpg" crc="295013830" seo="true" ref="media"/>
-    <file name="slider-1551x33_2x.jpg" crc="472383959" seo="true" ref="media"/>
-    <file name="slider-1652x33.jpg" crc="4249011110" seo="true" ref="media"/>
-    <file name="slider-1652x33_2x.jpg" crc="4227413948" seo="true" ref="media"/>
-    <file name="slider-1750x35.jpg" crc="106591272" seo="true" ref="media"/>
-    <file name="slider-1750x35_2x.jpg" crc="330678118" seo="true" ref="media"/>
-    <file name="slider-1850x35.jpg" crc="251716991" seo="true" ref="media"/>
-    <file name="slider-1850x35_2x.jpg" crc="204930684" seo="true" ref="media"/>
-    <file name="slider-1950x38.jpg" crc="46679949" seo="true" ref="media"/>
-    <file name="slider-1950x38_2x.jpg" crc="180999879" seo="true" ref="media"/>
-    <file name="slider-2050x34.jpg" crc="4189188453" seo="true" ref="media"/>
-    <file name="slider-2050x34_2x.jpg" crc="3877363484" seo="true" ref="media"/>
-    <file name="slider-2150x34.jpg" crc="4211358606" seo="true" ref="media"/>
-    <file name="slider-2150x34_2x.jpg" crc="164978390" seo="true" ref="media"/>
-    <file name="slider-2250x34.jpg" crc="360211146" seo="true" ref="media"/>
-    <file name="slider-2250x34_2x.jpg" crc="4224406219" seo="true" ref="media"/>
+    <file name="guide.png" crc="3994271862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guide_2x.png" crc="3989920284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="short line.png" crc="258633909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="short line_2x.png" crc="112547011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="900like.jpg" crc="4038713536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="900like_2x.jpg" crc="3911506803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tri-chart.png" crc="4123034808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tri-chart_2x.png" crc="104658941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure.png" crc="3383790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_2x.png" crc="4179060128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map.jpg" crc="33561608" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map_2x.jpg" crc="466504768" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indicator.png" crc="4119194928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indicator_2x.png" crc="423485540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sprite.png" crc="3868854495" seo="true" ref="index:media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sprite_2x.png" crc="3811760408" seo="true" ref="index:media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="onstage.jpg" crc="197984190" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="onstage_2x.jpg" crc="2515802" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new2015.jpg" crc="4163497809" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new2015_2x.jpg" crc="354852789" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1.jpg" crc="372525176" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1_2x.jpg" crc="3797278078" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2.jpg" crc="99867964" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2_2x.jpg" crc="333448825" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-4.jpg" crc="293291515" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-4_2x.jpg" crc="131010583" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-5.jpg" crc="3882365799" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-5_2x.jpg" crc="4157374334" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-7.jpg" crc="3811698408" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-7_2x.jpg" crc="496035224" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-8.jpg" crc="3993897607" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-8_2x.jpg" crc="3817858387" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-9.jpg" crc="148781730" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-9_2x.jpg" crc="4159326709" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-10.jpg" crc="237694930" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-10_2x.jpg" crc="3761461130" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-11.jpg" crc="122436269" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-11_2x.jpg" crc="31541583" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf6288.jpg" crc="64577076" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf6288_2x.jpg" crc="3860797671" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-13.jpg" crc="344623294" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-13_2x.jpg" crc="48459324" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-15.jpg" crc="167230956" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-15_2x.jpg" crc="4038937396" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-16.jpg" crc="4131319814" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-16_2x.jpg" crc="101059112" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-17.jpg" crc="96436433" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-17_2x.jpg" crc="4019012778" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-18.jpg" crc="198575245" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-18_2x.jpg" crc="331790457" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-19.jpg" crc="155306009" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-19_2x.jpg" crc="261656092" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-20.jpg" crc="3844540092" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-20_2x.jpg" crc="184807290" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sing.jpg" crc="440051433" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-21.jpg" crc="3838544442" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-21_2x.jpg" crc="4017252216" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-22.jpg" crc="3851543975" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-22_2x.jpg" crc="3972929489" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new201550x34.jpg" crc="111971725" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="new201550x34_2x.jpg" crc="4188367537" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-159x34.jpg" crc="494781717" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-159x34_2x.jpg" crc="218385115" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-251x33.jpg" crc="4264845880" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-251x33_2x.jpg" crc="511394972" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-453x33.jpg" crc="4201277731" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-453x33_2x.jpg" crc="63323699" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-551x33.jpg" crc="3949207139" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-551x33_2x.jpg" crc="85175573" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-750x35.jpg" crc="263473424" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-750x35_2x.jpg" crc="4227140107" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-850x34.jpg" crc="373948507" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-850x34_2x.jpg" crc="3878673389" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-950x34.jpg" crc="4170832995" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-950x34_2x.jpg" crc="284615891" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1050x34.jpg" crc="3908284132" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1050x34_2x.jpg" crc="3814124149" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1150x34.jpg" crc="422889051" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1150x34_2x.jpg" crc="4287692400" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf628850x34.jpg" crc="349012937" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf628850x34_2x.jpg" crc="4216669989" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1350x35.jpg" crc="141473991" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1350x35_2x.jpg" crc="25308512" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1551x33.jpg" crc="4112645729" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1551x33_2x.jpg" crc="3851423524" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1652x33.jpg" crc="200984482" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1652x33_2x.jpg" crc="386801781" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1750x35.jpg" crc="434173063" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1750x35_2x.jpg" crc="3816537996" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1850x35.jpg" crc="504439445" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1850x35_2x.jpg" crc="223179210" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1950x38.jpg" crc="4015353677" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-1950x38_2x.jpg" crc="3842395079" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2050x34.jpg" crc="335553332" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2050x34_2x.jpg" crc="4270564161" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sing50x34.jpg" crc="4238628455" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="sing50x34_2x.jpg" crc="324658688" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2150x34.jpg" crc="138016587" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2150x34_2x.jpg" crc="4230891702" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2250x34.jpg" crc="357932296" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="slider-2250x34_2x.jpg" crc="527066282" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
     <file name="u1222-13.png" crc="4238469634" ref="media"/>
     <file name="u1222-13_2x.png" crc="23303385" ref="media"/>
     <file name="u1228-13.png" crc="4012872629" ref="media"/>
     <file name="u1228-13_2x.png" crc="4080199706" ref="media"/>
-    <file name="anniversary-ieu3764-fr.png" crc="507288554" ref="media"/>
-    <file name="videoplaybutton.png" crc="183251686" seo="true" ref="media"/>
-    <file name="videoplaybutton_2x.png" crc="104038234" seo="true" ref="media"/>
-    <file name="dscf3401-ieu3861-fr.png" crc="3815541223" ref="media"/>
-    <file name="y-t.jpg" crc="129304895" seo="true" ref="leadership"/>
-    <file name="y-t_2x.jpg" crc="3953817828" seo="true" ref="leadership"/>
-    <file name="詳細介紹.png" crc="191498485" seo="true" ref="leadership"/>
-    <file name="詳細介紹_2x.png" crc="4246493799" seo="true" ref="leadership"/>
-    <file name="line triangle.png" crc="4077214494" seo="true" ref="leadership"/>
-    <file name="line triangle_2x.png" crc="162907823" seo="true" ref="leadership"/>
-    <file name="girls.jpg" crc="3828934678" seo="true" ref="leadership"/>
-    <file name="girls_2x.jpg" crc="3928332345" seo="true" ref="leadership"/>
-    <file name="pantagon.png" crc="452739118" seo="true" ref="leadership"/>
-    <file name="pantagon_2x.png" crc="26849070" seo="true" ref="leadership"/>
-    <file name="huang.jpg" crc="65994573" seo="true" ref="leadership"/>
-    <file name="huang_2x.jpg" crc="238637512" seo="true" ref="leadership"/>
-    <file name="president.jpg" crc="439766676" seo="true" ref="leadership"/>
-    <file name="president_2x.jpg" crc="4096393665" seo="true" ref="leadership"/>
-    <file name="vice-p-1236x236.png" crc="272290391" seo="true" ref="leadership"/>
-    <file name="vice-p-1236x236_2x.png" crc="4216505219" seo="true" ref="leadership"/>
-    <file name="vice-p-2235x235.png" crc="3996086188" seo="true" ref="leadership"/>
-    <file name="vice-p-2235x235_2x.png" crc="198919285" seo="true" ref="leadership"/>
-    <file name="piano235x235.png" crc="3955638513" seo="true" ref="leadership"/>
-    <file name="piano235x235_2x.png" crc="4053040903" seo="true" ref="leadership"/>
-    <file name="marketing236x236.png" crc="4267611692" seo="true" ref="leadership"/>
-    <file name="marketing236x236_2x.png" crc="4051921800" seo="true" ref="leadership"/>
-    <file name="finance236x236.png" crc="258744858" seo="true" ref="leadership"/>
-    <file name="finance236x236_2x.png" crc="478835441" seo="true" ref="leadership"/>
-    <file name="equi-236x236.png" crc="494304572" seo="true" ref="leadership"/>
-    <file name="equi-236x236_2x.png" crc="389999164" seo="true" ref="leadership"/>
-    <file name="sheet236x236.png" crc="4259647909" seo="true" ref="leadership"/>
-    <file name="sheet236x236_2x.png" crc="4012022907" seo="true" ref="leadership"/>
-    <file name="c1236x236.png" crc="4113886339" seo="true" ref="leadership"/>
-    <file name="c1236x236_2x.png" crc="347803251" seo="true" ref="leadership"/>
-    <file name="c2236x236.png" crc="95719753" seo="true" ref="leadership"/>
-    <file name="c2236x236_2x.png" crc="3883297125" seo="true" ref="leadership"/>
-    <file name="class.jpg" crc="4068142512" seo="true" ref="course"/>
-    <file name="class_2x.jpg" crc="421336231" seo="true" ref="course"/>
-    <file name="4circles.png" crc="355224877" seo="true" ref="course"/>
-    <file name="4circles_2x.png" crc="431705612" seo="true" ref="course"/>
-    <file name="tues.png" crc="3962945407" seo="true" ref="course"/>
-    <file name="tues_2x.png" crc="4059804251" seo="true" ref="course"/>
-    <file name="thur.png" crc="3855477895" seo="true" ref="course"/>
-    <file name="thur_2x.png" crc="3893869869" seo="true" ref="course"/>
-    <file name="u3913-grad.png" crc="216870104" ref="course"/>
-    <file name="alone.jpg" crc="4171080385" seo="true" ref="course"/>
-    <file name="alone_2x.jpg" crc="360012027" seo="true" ref="course"/>
-    <file name="seperate.jpg" crc="85577430" seo="true" ref="course"/>
-    <file name="seperate_2x.jpg" crc="3781301962" seo="true" ref="course"/>
-    <file name="img_9097.jpg" crc="4000800963" seo="true" ref="course"/>
-    <file name="img_9097_2x.jpg" crc="204393853" seo="true" ref="course"/>
-    <file name="t class.jpg" crc="4147093645" seo="true" ref="course"/>
-    <file name="t class_2x.jpg" crc="3910246139" seo="true" ref="course"/>
-    <file name="900like354x199.jpg" crc="3780086596" seo="true" ref="phone>intro"/>
-    <file name="900like354x199_2x.jpg" crc="3834176516" seo="true" ref="phone>intro"/>
-    <file name="new2015380x254.jpg" crc="4207328148" seo="true" ref="phone>media"/>
-    <file name="new2015380x254_2x.jpg" crc="514453024" seo="true" ref="phone>media"/>
-    <file name="new201544x30.jpg" crc="3795090828" seo="true" ref="phone>media"/>
-    <file name="new201544x30_2x.jpg" crc="385401413" seo="true" ref="phone>media"/>
-    <file name="900like.jpg" crc="78635900" seo="true" ref="index"/>
-    <file name="900like_2x.jpg" crc="3816441301" seo="true" ref="index"/>
-    <file name="new2015.jpg" crc="454442404" seo="true" ref="media"/>
-    <file name="new2015_2x.jpg" crc="3759806532" seo="true" ref="media"/>
-    <file name="new201550x34.jpg" crc="4241865673" seo="true" ref="media"/>
-    <file name="new201550x34_2x.jpg" crc="37376063" seo="true" ref="media"/>
-    <file name="sing380x252.jpg" crc="3888105976" seo="true" ref="phone>media"/>
-    <file name="sing_2x.jpg" crc="4023393520" seo="true" ref="phone>media"/>
-    <file name="sing44x30.jpg" crc="481960758" seo="true" ref="phone>media"/>
-    <file name="sing44x30_2x.jpg" crc="4022762951" seo="true" ref="phone>media"/>
-    <file name="sing.jpg" crc="3852025601" seo="true" ref="media"/>
-    <file name="sing50x34.jpg" crc="468335305" seo="true" ref="media"/>
-    <file name="sing50x34_2x.jpg" crc="440892097" seo="true" ref="media"/>
+    <file name="anniversary-u3764-fr.jpg" crc="4094156444" ref="media"/>
+    <file name="anniversary-u3764-fr_2x.jpg" crc="1812513" ref="media"/>
+    <file name="videoplaybutton.png" crc="183251686" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="videoplaybutton_2x.png" crc="104038234" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="dscf3401-u3861-fr.jpg" crc="4114606743" ref="media"/>
+    <file name="dscf3401-u3861-fr_2x.jpg" crc="21567992" ref="media"/>
+    <file name="y-t.jpg" crc="3795265269" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="y-t_2x.jpg" crc="13410859" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="詳細介紹.png" crc="191498485" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="詳細介紹_2x.png" crc="4246493799" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="line triangle.png" crc="4077214494" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="line triangle_2x.png" crc="162907823" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="girls.jpg" crc="493909459" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="girls_2x.jpg" crc="3928332345" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="pantagon.png" crc="452739118" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="pantagon_2x.png" crc="26849070" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="huang.jpg" crc="91163269" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="huang_2x.jpg" crc="238637512" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="president.jpg" crc="3878294900" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="president_2x.jpg" crc="4096393665" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="vice-p-1236x236.png" crc="272290391" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="vice-p-1236x236_2x.png" crc="4216505219" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="vice-p-2235x235.png" crc="3996086188" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="vice-p-2235x235_2x.png" crc="198919285" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="piano235x235.png" crc="3955638513" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="piano235x235_2x.png" crc="4053040903" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="marketing236x236.png" crc="4267611692" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="marketing236x236_2x.png" crc="4051921800" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="finance236x236.png" crc="258744858" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="finance236x236_2x.png" crc="478835441" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="equi-236x236.png" crc="494304572" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="equi-236x236_2x.png" crc="389999164" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="sheet236x236.png" crc="4259647909" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="sheet236x236_2x.png" crc="4012022907" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="c1236x236.png" crc="4113886339" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="c1236x236_2x.png" crc="347803251" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="c2236x236.png" crc="95719753" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="c2236x236_2x.png" crc="3883297125" seo="true" ref="leadership">
+      <caption webpage="leadership" alt=""/>
+    </file>
+    <file name="4circles.png" crc="355224877" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="4circles_2x.png" crc="431705612" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="class.jpg" crc="102036117" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="class_2x.jpg" crc="3800219796" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="tues.png" crc="3962945407" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="tues_2x.png" crc="4059804251" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="thur.png" crc="3855477895" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="thur_2x.png" crc="3893869869" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="alone.jpg" crc="4215260374" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="alone_2x.jpg" crc="4105459698" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="seperate.jpg" crc="166784185" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="seperate_2x.jpg" crc="3878719808" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="img_9097.jpg" crc="76295642" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="img_9097_2x.jpg" crc="366964121" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="t class.jpg" crc="4113435694" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
+    <file name="t class_2x.jpg" crc="327457690" seo="true" ref="course">
+      <caption webpage="course" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-__.css" crc="350978787" ref="phone>organization:phone>media:phone>class:phone>index:phone>intro"/>
-      <file name="organization.css" crc="294066285" ref="phone>organization"/>
-      <file name="media.css" crc="297510601" ref="phone>media"/>
-      <file name="class.css" crc="3857965332" ref="phone>class"/>
-      <file name="index.css" crc="4152543562" ref="phone>index"/>
-      <file name="intro.css" crc="3845926187" ref="phone>intro"/>
+      <file name="master_a-__.css" crc="299767951" ref="phone>intro:phone>index:phone>organization:phone>class:phone>media"/>
+      <file name="intro.css" crc="3993720304" ref="phone>intro"/>
+      <file name="index.css" crc="3805593191" ref="phone>index"/>
+      <file name="organization.css" crc="263763837" ref="phone>organization"/>
+      <file name="class.css" crc="509155632" ref="phone>class"/>
+      <file name="media.css" crc="4174864505" ref="phone>media"/>
     </folder>
-    <file name="index.html" crc="237885373" seo="true" mt="1438327657807" redirect="true"/>
-    <file name="intro.html" crc="3761491013" seo="true" mt="1449109271590" redirect="true"/>
-    <file name="organization.html" crc="522989082" seo="true" mt="1449109293965" redirect="true"/>
-    <file name="class.html" crc="3914715021" seo="true" mt="1438327657807" redirect="true"/>
-    <file name="media.html" crc="3883801885" seo="true" mt="1443819880275" redirect="true"/>
+    <file name="index.html" crc="3923153021" seo="true" mt="1438327657807" redirect="true"/>
+    <file name="intro.html" crc="3932369529" seo="true" mt="1449109271590" redirect="true"/>
+    <file name="organization.html" crc="103793364" seo="true" mt="1449109293965" redirect="true"/>
+    <file name="class.html" crc="3771261027" seo="true" mt="1438327657807" redirect="true"/>
+    <file name="media.html" crc="127851500" seo="true" mt="1533975435864" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4153005710" seo="true" mt="1449109237137" redirect="true"/>
-  <file name="media.html" crc="226912400" seo="true" mt="1449108951180" redirect="true"/>
-  <file name="leadership.html" crc="26821006" seo="true" mt="1449109199128" redirect="true"/>
-  <file name="course.html" crc="99285038" seo="true" mt="1438325935788" redirect="true"/>
+  <file name="index.html" crc="3930904274" seo="true" mt="1449109237137" redirect="true"/>
+  <file name="media.html" crc="4107489711" seo="true" mt="1533975435865" redirect="true"/>
+  <file name="leadership.html" crc="4193137768" seo="true" mt="1533975521162" redirect="true"/>
+  <file name="course.html" crc="4214653174" seo="true" mt="1438325935788" redirect="true"/>
 </manifest>
