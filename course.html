@@ -19,8 +19,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>中正聲樂社</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_main.css?crc=4012432976"/>
-  <link rel="stylesheet" type="text/css" href="css/course.css?crc=4031292366" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_main.css?crc=4061465142"/>
+  <link rel="stylesheet" type="text/css" href="css/course.css?crc=112368682" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -65,17 +65,17 @@ if (top.location!= self.location) {
     <a class="nonblock nontext anim_swing rounded-corners mse_pre_init" id="u1021" href="course.html#group"><!-- simple frame --></a>
     <a class="nonblock nontext anim_swing rounded-corners mse_pre_init" id="u1022" href="course.html#class"><!-- simple frame --></a>
     <a class="nonblock nontext anim_swing rounded-corners mse_pre_init" id="u1023" href="course.html#club"><!-- simple frame --></a>
-    <div class="browser_width mse_pre_init" id="u1145-bw">
+    <div class="browser_width" id="u1145-bw">
      <div class="rgba-background" id="u1145"><!-- simple frame --></div>
     </div>
-    <a class="nonblock nontext clip_frame mse_pre_init" id="u1111" href="https://ccusingers.github.io"><!-- image --><img class="block" id="u1111_img" src="images/navigation%20logo.png?crc=3917517852" data-hidpi-src="images/navigation%20logo_2x.png?crc=4033823828" alt="" title="中正聲樂社" width="161" height="83"/></a>
-    <div class="clip_frame mse_pre_init" id="u1448"><!-- image -->
+    <a class="nonblock nontext clip_frame" id="u1111" href="https://ccusingers.github.io"><!-- image --><img class="block" id="u1111_img" src="images/navigation%20logo.png?crc=3917517852" data-hidpi-src="images/navigation%20logo_2x.png?crc=4033823828" alt="" title="中正聲樂社" width="161" height="83"/></a>
+    <div class="clip_frame" id="u1448"><!-- image -->
      <img class="block" id="u1448_img" src="images/main%20line.png?crc=3786084271" data-hidpi-src="images/main%20line_2x.png?crc=4238638021" alt="" width="1024" height="4"/>
     </div>
     <div class="clip_frame mse_pre_init" id="u1451"><!-- image -->
      <img class="block" id="u1451_img" src="images/main%20line.png?crc=3786084271" data-hidpi-src="images/main%20line_2x.png?crc=4238638021" alt="" width="1024" height="4"/>
     </div>
-    <nav class="MenuBar clearfix mse_pre_init" id="menuu4134"><!-- horizontal box -->
+    <nav class="MenuBar clearfix" id="menuu4134"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem" id="u4149"><!-- vertical box -->
       <div class="MenuItem MenuItemWithSubMenu clearfix colelem" id="u4150"><!-- horizontal box -->
        <div class="MenuItemLabel NoWrap clearfix grpelem" id="u4151-4"><!-- content -->
@@ -93,7 +93,7 @@ if (top.location!= self.location) {
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4136" href="media.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4138-4"><!-- content --><p>媒體</p></div></a>
      </div>
     </nav>
-    <a class="nonblock nontext mse_pre_init" id="u4163" href="index.html#home" title="回首頁"><!-- simple frame --></a>
+    <a class="nonblock nontext" id="u4163" href="index.html#home" title="回首頁"><!-- simple frame --></a>
    </div>
    <div class="clearfix grpelem" id="pu918"><!-- column -->
     <div class="shadow rounded-corners clip_frame clearfix colelem" id="u918"><!-- image -->
@@ -201,19 +201,19 @@ if (top.location!= self.location) {
    </div>
    <div class="verticalspacer" data-offset-top="3018" data-content-above-spacer="3053" data-content-below-spacer="159"></div>
    <div class="browser_width grpelem" id="u448-bw">
-    <div id="u448"><!-- column -->
+    <div id="u448"><!-- group -->
      <div class="clearfix" id="u448_align_to_page">
-      <div class="clearfix colelem" id="u452-4"><!-- content -->
-       <p>國立中正大學聲樂社</p>
+      <div class="clearfix grpelem" id="u454-4"><!-- content -->
+       <p>https://ccusingers.guithub.io</p>
       </div>
-      <div class="clearfix colelem" id="u453-4"><!-- content -->
-       <p>National Chung Cheng University Singers (CCU Singers)</p>
-      </div>
-      <div class="clearfix colelem" id="pu454-4"><!-- group -->
-       <div class="clearfix grpelem" id="u454-4"><!-- content -->
-        <p>https://ccusingers.guithub.io</p>
+      <div class="clearfix grpelem" id="u5725"><!-- column -->
+       <div class="clearfix colelem" id="u452-4"><!-- content -->
+        <p>國立中正大學聲樂社</p>
        </div>
-       <a class="nonblock nontext grpelem" id="u455" href="https://ccusingers.github.io"><!-- simple frame --></a>
+       <div class="clearfix colelem" id="u453-4"><!-- content -->
+        <p>National Chung Cheng University Singers (CCU Singers)</p>
+       </div>
+       <a class="nonblock nontext colelem" id="u455" href="https://ccusingers.github.io"><!-- simple frame --></a>
       </div>
      </div>
     </div>
@@ -246,12 +246,7 @@ $('#u1012').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,483]},{
 $('#u1021').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,483]},{"speed":[0,0],"in":[483,Infinity]}]);/* scroll effect */
 $('#u1022').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,483]},{"speed":[0,0],"in":[483,Infinity]}]);/* scroll effect */
 $('#u1023').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,483]},{"speed":[0,0],"in":[483,Infinity]}]);/* scroll effect */
-$('#u1145-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,0.5]},{"speed":[null,0],"in":[0.5,Infinity]}]);/* scroll effect */
-$('#u1111').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
-$('#u1448').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 $('#u1451').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,483]},{"speed":[0,0],"in":[483,Infinity]}]);/* scroll effect */
-$('#menuu4134').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.3]},{"speed":[0,0],"in":[0.3,Infinity]}]);/* scroll effect */
-$('#u4163').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.3]},{"speed":[0,0],"in":[0.3,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

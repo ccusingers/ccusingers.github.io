@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1533975544962">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1533976834307">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_main.css" crc="4012432976" ref="media:course:leadership:index"/>
-    <file name="media.css" crc="174239076" ref="media"/>
+    <file name="master_main.css" crc="4061465142" ref="media:course:leadership:index"/>
+    <file name="media.css" crc="4055634373" ref="media"/>
     <file name="iefonts_media.css" crc="196934131" ref="media"/>
-    <file name="course.css" crc="4031292366" ref="course"/>
-    <file name="leadership.css" crc="189353067" ref="leadership"/>
-    <file name="index.css" crc="3969581738" ref="index"/>
+    <file name="course.css" crc="112368682" ref="course"/>
+    <file name="leadership.css" crc="4212168728" ref="leadership"/>
+    <file name="index.css" crc="428062120" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
@@ -22,10 +22,10 @@
     <file name="require.js" crc="7928878" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>intro:phone>organization:phone>class:phone>media:index:media:leadership:course"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:media:leadership:course"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:course"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="478655589" ref="phone>index:leadership"/>
+    <file name="favicon.ico" crc="478655589" ref="phone>index"/>
     <file name="navigation logo132x69.png" crc="458686175" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -34,8 +34,8 @@
     </file>
     <file name="line.png" crc="4251863910" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media">
       <caption webpage="index" alt=""/>
-      <caption webpage="media" alt=""/>
       <caption webpage="organization" alt=""/>
+      <caption webpage="media" alt=""/>
       <caption webpage="class" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
@@ -127,23 +127,25 @@
     </file>
     <file name="up166.png" crc="4046588569" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media">
       <caption webpage="index" alt=""/>
-      <caption webpage="media" alt=""/>
       <caption webpage="organization" alt=""/>
+      <caption webpage="media" alt=""/>
       <caption webpage="class" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
     <file name="up166_2x.png" crc="230276788" seo="true" ref="phone>index:phone>intro:phone>organization:phone>class:phone>media">
       <caption webpage="index" alt=""/>
-      <caption webpage="media" alt=""/>
       <caption webpage="organization" alt=""/>
+      <caption webpage="media" alt=""/>
       <caption webpage="class" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
     <file name="navigation logo126x66.png" crc="30654478" seo="true" ref="phone>intro">
       <caption webpage="intro" alt=""/>
+      <caption webpage="organization" alt=""/>
     </file>
     <file name="navigation logo126x66_2x.png" crc="3939289936" seo="true" ref="phone>intro">
       <caption webpage="intro" alt=""/>
+      <caption webpage="organization" alt=""/>
     </file>
     <file name="internet77x73.png" crc="279608313" seo="true" ref="phone>intro">
       <caption webpage="intro" alt=""/>
@@ -627,28 +629,28 @@
     <file name="navigation logo.png" crc="3917517852" seo="true" ref="index:media:leadership:course">
       <caption webpage="index" alt=""/>
       <caption webpage="course" alt=""/>
-      <caption webpage="leadership" alt=""/>
       <caption webpage="media" alt=""/>
+      <caption webpage="leadership" alt=""/>
     </file>
     <file name="navigation logo_2x.png" crc="4033823828" seo="true" ref="index:media:leadership:course">
       <caption webpage="index" alt=""/>
       <caption webpage="course" alt=""/>
-      <caption webpage="leadership" alt=""/>
       <caption webpage="media" alt=""/>
+      <caption webpage="leadership" alt=""/>
     </file>
     <file name="main line.png" crc="3786084271" seo="true" ref="index:media:leadership:course">
       <caption webpage="index" alt=""/>
       <caption webpage="course" alt=""/>
       <caption webpage="course" alt=""/>
-      <caption webpage="leadership" alt=""/>
       <caption webpage="media" alt=""/>
+      <caption webpage="leadership" alt=""/>
     </file>
     <file name="main line_2x.png" crc="4238638021" seo="true" ref="index:media:leadership:course">
       <caption webpage="index" alt=""/>
       <caption webpage="course" alt=""/>
       <caption webpage="course" alt=""/>
-      <caption webpage="leadership" alt=""/>
       <caption webpage="media" alt=""/>
+      <caption webpage="leadership" alt=""/>
     </file>
     <file name="up164-u2646.png" crc="4238310036" ref="index"/>
     <file name="up164-u2646_2x.png" crc="3943438312" ref="index"/>
@@ -1145,21 +1147,21 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-__.css" crc="299767951" ref="phone>intro:phone>index:phone>organization:phone>class:phone>media"/>
-      <file name="intro.css" crc="3993720304" ref="phone>intro"/>
-      <file name="index.css" crc="3805593191" ref="phone>index"/>
-      <file name="organization.css" crc="263763837" ref="phone>organization"/>
-      <file name="class.css" crc="509155632" ref="phone>class"/>
-      <file name="media.css" crc="4174864505" ref="phone>media"/>
+      <file name="master_a-__.css" crc="4253163105" ref="phone>intro:phone>index:phone>organization:phone>class:phone>media"/>
+      <file name="intro.css" crc="492903572" ref="phone>intro"/>
+      <file name="index.css" crc="246876823" ref="phone>index"/>
+      <file name="organization.css" crc="48980156" ref="phone>organization"/>
+      <file name="class.css" crc="3843519560" ref="phone>class"/>
+      <file name="media.css" crc="3779878526" ref="phone>media"/>
     </folder>
-    <file name="index.html" crc="3923153021" seo="true" mt="1438327657807" redirect="true"/>
-    <file name="intro.html" crc="3932369529" seo="true" mt="1449109271590" redirect="true"/>
-    <file name="organization.html" crc="103793364" seo="true" mt="1449109293965" redirect="true"/>
-    <file name="class.html" crc="3771261027" seo="true" mt="1438327657807" redirect="true"/>
-    <file name="media.html" crc="127851500" seo="true" mt="1533975435864" redirect="true"/>
+    <file name="index.html" crc="4086885520" seo="true" mt="1533976544396" redirect="true"/>
+    <file name="intro.html" crc="4135838488" seo="true" mt="1533976544396" redirect="true"/>
+    <file name="organization.html" crc="235219560" seo="true" mt="1533976544396" redirect="true"/>
+    <file name="class.html" crc="347991918" seo="true" mt="1533976544396" redirect="true"/>
+    <file name="media.html" crc="4159634294" seo="true" mt="1533976544396" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3930904274" seo="true" mt="1449109237137" redirect="true"/>
-  <file name="media.html" crc="4107489711" seo="true" mt="1533975435865" redirect="true"/>
-  <file name="leadership.html" crc="4193137768" seo="true" mt="1533975521162" redirect="true"/>
-  <file name="course.html" crc="4214653174" seo="true" mt="1438325935788" redirect="true"/>
+  <file name="index.html" crc="294252312" seo="true" mt="1533976586126" redirect="true"/>
+  <file name="media.html" crc="384333918" seo="true" mt="1533976790217" redirect="true"/>
+  <file name="leadership.html" crc="4183199847" seo="true" mt="1533976737501" redirect="true"/>
+  <file name="course.html" crc="4030375521" seo="true" mt="1533976774062" redirect="true"/>
 </manifest>
